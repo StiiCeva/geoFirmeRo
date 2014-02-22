@@ -9,73 +9,42 @@ from StraziFunctions import *
 
 # readFileStripFields('date/infocod-oct-2013_uni.txt','date/infocod-oct-2013_doarnume.txt' , [1],"\t","utf-16")
 
+prefixe={}
+prefixe['Splai']=[u'Splai',u'splaiul',u'spl']
+prefixe['Artera']=[u'Artera', u'artera']
+prefixe['Piateta']=[u'Piateta', u'Pia\u0163et\u0103', u'pia\u021beta']
+prefixe['Drum']=[u'Drum',u'drumul',u'drumu',u'dr']
+prefixe['Pasaj']=[u'Pasaj',u'pasajul']
+prefixe['Sosea']=[u'Sosea', u'\u015eosea',u'\u015foseaua',u'sos', u'soseaua', u'\u0219oseaua']
+prefixe['Intrare']=[u'Intrare',u'intrare',u'in',u'intr']
+prefixe['Prelungire']=[u'Prelungire',u'prelungirea', u'pr']
+prefixe['Piata']=[u'Piata', u'Pia\u0163\u0103',u'pia\u0163a',u'pta',u'pt',u'p\u021ba', u'pia\u021ba']
+prefixe['Bulevard']=[u'Bulevard', 'bd', 'bvd', 'bdul', 'bullevardul', 'bv']
+prefixe['Alee']=[u'Alee', u'aleea']
+prefixe['Cale']=[u'Cale', u'calea']
+prefixe['Strada']=[u'Strada', u'Strad\u0103',u'st',u'str',u'strad']
+prefixe['Magistrala']=[u'Magistrala']
+prefixe['Sat']=[u'Sat']
 
-sufixe={}
-sufixe['Amiral']=['Amiral']
-sufixe['Arhitect']=['Arh.','Arhitect']
-sufixe['Aviator']=['Av.','Aviator','Av']
-sufixe['Caporal']=['Cap.','Caporal']
-sufixe['Capitan']=['Cpt.',u'C\u0103pitan','Capitan','Cpt']
-sufixe['Colonel']=['Col.','Colonel','Col']
-sufixe['Comandor']=['Comandor','C-dor']
-sufixe['Doctor']=['Dr.','Doctor','Dr']
-sufixe['Fruntas']=[u'Frunta\u015f','Frt.','Fruntas','Frt']
-sufixe['Elev']=['Elev']
-sufixe['Erou']=['Erou']
-sufixe['General']=['Gen.','General','Gral.','G-ral','Gen','Gral']
-sufixe['Inginer']=['Ing.','Inginer','Ing']
-sufixe['Invalid']=['Invalid']
-sufixe['Locotenent']=['Lt.','Locotenent','Lt']
-sufixe['Maior']=['Mr.','Maior.','Maior','Mr']
-sufixe['Major']=['Maj.','Major','Maj']
-sufixe['Medic']=['Medic']
-sufixe['Mitropolit']=['Mitropolit']
-sufixe['Pictor']=['Pictor']
-sufixe['Plutonier']=['Plutonier','Plt.','Plut.','Plt','Plut']
-sufixe['Poet']=['Poet']
-sufixe['Post Mortem']=['P.M.','P.m']
-sufixe['Profesor']=['Prof.','Profesor','Prof']
-sufixe['Sergent']=['Sg.','Sergent','Serg','Serg.','Sg']
-sufixe['Soldat']=['Sold.','Soldat','Sold']
-sufixe['Sublocotenent']=['Slt.','Sublocotenent','Slt']
-sufixe['Maresal']=[u'Mare\u015fal','Maresal']
-sufixe['Sector']=[u'sector']
-sufixe['Publicist']=[u'Publicist']
-sufixe['Scriitor']=[u'Scriitor']
-sufixe['Tenor']=[u'Tenor']
-sufixe['Episcop']=[u'Episcop']
-sufixe['Scriitor']=[u'Scriitor']
-sufixe['Dramaturg']=[u'Dramaturg']
-sufixe['Scriitor']=[u'Scriitor']
-sufixe['Brigadier']=[u'brig',u'Brigadier']
-sufixe['Filolog']=[u'Filolog']
-sufixe['Atlet']=[u'Atlet']
-sufixe['Matematician']=[u'Matematician',u'mat','mat.']
-sufixe['Regizor']=[u'Regizor']
-sufixe['Artist']=[u'Artist']
-sufixe['Comppozitor']=[u'Compozitor',u'comp',u'comp.']
-sufixe['Fizician']=[u'Fizician']
-sufixe['Artist']=[u'Artist']
-sufixe['Fizician']=[u'Fizician']
-sufixe['Jurist']=[u'Jurist',u'jr']
-sufixe['Astronom']=[u'Astronom']
-sufixe['Actor']=[u'Actor']
-sufixe['Sociolog']=[u'Sociolog']
-sufixe['Mortem']=[u'Mortem']
-sufixe['Universitar']=[u'univ']
-sufixe['Ziarist']=[u'Ziarist']
-sufixe['Sculptor']=[u'Sculptor']
-sufixe['Cronicar']=[u'Cronicar']
-sufixe['Preot']=[u'Preot']
-sufixe['Termen redus']=[u'tr',u't.r.']
+ignores=[u'Sala', u'sala', u'pelinului', u'pinului', u'pepinierei', u'piperului', u'pereni', u'penelului', u'intre', u'intratea', 
+u'baba',u'badea',u'barlau',u'bala',u'balea',u'sa',u'dudu',u'mr',u'iani', 'culmea']
 
-r,u=getUniqueSuffixex('date/infocod-oct-2013_doarnume.txt', sufixe, ',',"utf-16")
+'''r,u=getUniqueColumn('date_strazi/straziBucTitrat.txt', prefixe, 1, '\t',"utf-8")'''
+r,u=getUniqueColumn('date_strazi/straziBucNewishSchool.txt', prefixe, 0, ' ',"utf-8")
 
-f=open('date/sufixe.txt','wb')
+f=open('date_strazi/prefixe.txt','wb')
 
 toWrite=u''
 for key in r.keys():
-    toWrite=toWrite+key+u','+','.join(r[key])+u'\r\n'
+		
+    ok_values=[]
+		
+    for value in r[key]:
+		   if not value in ignores:
+		      ok_values.append(value)
+		       
+   
+    toWrite=toWrite+key+u','+','.join(ok_values)+u'\r\n'
     
 f.write(toWrite.encode('utf-8'))
 f.close()

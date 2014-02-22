@@ -1,0 +1,15 @@
+Splai,Splai,spl,splaiul
+Artera,Artera,artera
+Pasaj,pasajul,Pasaj
+Drum,drumu,dr,Drum,drumul
+Sosea,Sosea,Şosea,șoseaua,sos,soseaua,şoseaua
+Piateta,piațeta,Piateta,Piaţetă
+Intrare,intrare,intr,Intrare,in
+Strada,strad,st,Strada,str,Stradă
+Prelungire,pr,Prelungire,prelungirea
+Bulevard,bd,Bulevard,bdul,bv,bullevardul,bvd
+Alee,Alee,aleea
+Piata,pța,pt,piața,pta,Piaţă,piaţa,Piata
+Magistrala,Magistrala
+Cale,Cale,calea
+Sat,Sat

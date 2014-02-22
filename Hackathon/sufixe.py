@@ -69,7 +69,7 @@ sufixe['Cronicar']=[u'Cronicar']
 sufixe['Preot']=[u'Preot']
 sufixe['Termen redus']=[u'tr',u't.r.']
 
-r,u=getUniqueSuffixex('date_strazi/infocod-oct-2013_doarnume.txt', sufixe, ',',"utf-16")
+r,u=getUniqueColumn('date_strazi/infocod-oct-2013_doarnume.txt', sufixe, 1, ',',"utf-16")
 
 f=open('date_strazi/sufixe.txt','wb')
 
