@@ -46,23 +46,34 @@ def readSuffixesOrPrefixes(filename):
 
     return ixes
 
-prefixes = readSuffixesOrPrefixes('D:/gitRepo/teamnet/firmeDataMining/date_strazi/prefixe.txt')
-suffixes = readSuffixesOrPrefixes('D:/gitRepo/teamnet/firmeDataMining/date_strazi/sufixe.txt')
+prefixes = readSuffixesOrPrefixes('D:/gitRepo/geoFirmeRo/Hackathon/date_strazi/prefixe.txt')
+suffixes = readSuffixesOrPrefixes('D:/gitRepo/geoFirmeRo/Hackathon/date_strazi/sufixe.txt')
 
 
 driver = ogr.GetDriverByName('PostgreSQL')
 dirDS = driver.Open("PG: host='192.168.0.216' dbname='Hackathon' port='5432' user='postgres' password='1234%asd'",1)
 outputDistLyr = dirDS.GetLayer('DrumuriOSM')
 outputDistLyr.ResetReading()
+ctrl=0
 for uRow in outputDistLyr:
         poiet=uRow.GetField("name")
+        try:
+            poiet.lower()
+        except:
+            continue
         rr=getSuffixesAndPrefixes(poiet.lower() ,prefixes, suffixes)
         if len(rr['d'])>0:
 #         if poiet is not None and "poet" in poiet.lower():
 #             print "plm"
 #             uRow.SetField("name", poiet.replace("poet","pohet").replace("Poet","Pohet"))
             print rr
+            tmp_name=poiet.lower()
             
+            if rr['p'].keys():
+                
+            ctrl=ctrl+1
+            if ctrl>100:
+                break
 #             outputDistLyr.SetFeature(uRow)
 #             outputDistLyr.SyncToDisk()		
 outputDistLyr.Dereference()
