@@ -167,7 +167,7 @@ def rewriteFileSplit(filename,fileout,splitby=" ",write_splitby='\t',nr=1,coding
         
     fo.close()
 
-def getUniqueSuffixex(fn,listaDic,splitby="\t",encodi="utf-8"):
+def getUniqueColumn(fn,listaDic,column,splitby="\t",encodi="utf-8"):
     print "decoding as ",encodi,"spliting by  ",splitby
     bigL=readFileReturnList(fn,splitby,encodi)
     rdict=dict()
@@ -178,12 +178,15 @@ def getUniqueSuffixex(fn,listaDic,splitby="\t",encodi="utf-8"):
         [defined.add(x.lower()) for x in listaDic[elem]]
     
     for linie in bigL:
-        if len(linie)>1:
-            test=linie[1].replace(u'\\ufeff',u'').replace('.',' ').split(' ')
+        if len(linie)>column and len(linie)>1: 
+            test=linie[column].replace(u'\\ufeff',u'').replace('.',' ').split(' ')
             for elem in test:
                 if len(elem)<2:
                     continue
-                tmp=re.sub('[^a-zA-Z0-9]', '', elem.lower().replace(u'\\ufeff',''))
+                '''tmp=re.sub('[^a-zA-Z0-9]', '', elem.lower().replace(u'\\ufeff',''))'''
+                tmp=elem.lower().replace(u'\\ufeff','')
+                '''print tmp'''
+                '''tmp=elem'''
                 if type(tmp) is str or type(tmp) is unicode :
                     ctrl=len(tmp)
                     added=0
