@@ -1,1 +1,1 @@
-Hackathon/date/header_csv.txt
+oras,vat,cod_postal,judet,telefon,j-ul,adresa,nume,fax,data_creare,cif,auth_no,data_update,locatie
