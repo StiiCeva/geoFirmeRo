@@ -1,0 +1,1304 @@
+2014-02-16 04:35:32,694 ERROR __main__ 'utf8' codec can't decode byte 0xb8 in position 9: invalid start byte
+2014-02-16 04:36:04,407 ERROR __main__ 'utf8' codec can't decode byte 0xb8 in position 9: invalid start byte
+2014-02-16 04:36:41,828 ERROR __main__ 'utf8' codec can't decode byte 0xb8 in position 9: invalid start byte
+2014-02-16 04:36:41,828 ERROR __main__ <type 'exceptions.UnicodeDecodeError'> main.py 61
+2014-02-16 04:44:07,436 ERROR __main__ 'utf8' codec can't decode byte 0xb8 in position 9: invalid start byte
+2014-02-16 04:44:07,436 ERROR __main__ <type 'exceptions.UnicodeDecodeError'> main.py 61
+2014-02-16 05:12:49,065 ERROR __main__ ''
+2014-02-16 05:12:49,066 ERROR __main__ <class 'httplib.BadStatusLine'> main.py 61
+2014-02-16 05:12:50,066 ERROR __main__ <urlopen error [Errno 10061] No connection could be made because the target machine actively refused it>
+2014-02-16 05:12:50,066 ERROR __main__ <class 'urllib2.URLError'> main.py 61
+2014-02-16 05:12:51,065 ERROR __main__ <urlopen error [Errno 10061] No connection could be made because the target machine actively refused it>
+2014-02-16 05:12:51,065 ERROR __main__ <class 'urllib2.URLError'> main.py 61
+2014-02-16 05:12:52,065 ERROR __main__ <urlopen error [Errno 10061] No connection could be made because the target machine actively refused it>
+2014-02-16 05:12:52,065 ERROR __main__ <class 'urllib2.URLError'> main.py 61
+2014-02-16 05:12:53,066 ERROR __main__ <urlopen error [Errno 10061] No connection could be made because the target machine actively refused it>
+2014-02-16 05:12:53,066 ERROR __main__ <class 'urllib2.URLError'> main.py 61
+2014-02-16 05:12:54,069 ERROR __main__ <urlopen error [Errno 10061] No connection could be made because the target machine actively refused it>
+2014-02-16 05:12:54,069 ERROR __main__ <class 'urllib2.URLError'> main.py 61
+2014-02-16 05:12:55,063 ERROR __main__ <urlopen error [Errno 10061] No connection could be made because the target machine actively refused it>
+2014-02-16 05:12:55,063 ERROR __main__ <class 'urllib2.URLError'> main.py 61
+2014-02-16 05:12:56,065 ERROR __main__ <urlopen error [Errno 10061] No connection could be made because the target machine actively refused it>
+2014-02-16 05:12:56,065 ERROR __main__ <class 'urllib2.URLError'> main.py 61
+2014-02-16 05:12:57,065 ERROR __main__ <urlopen error [Errno 10061] No connection could be made because the target machine actively refused it>
+2014-02-16 05:12:57,065 ERROR __main__ <class 'urllib2.URLError'> main.py 61
+2014-02-16 05:12:58,068 ERROR __main__ <urlopen error [Errno 10061] No connection could be made because the target machine actively refused it>
+2014-02-16 05:12:58,068 ERROR __main__ <class 'urllib2.URLError'> main.py 61
+2014-02-16 05:12:59,069 ERROR __main__ <urlopen error [Errno 10061] No connection could be made because the target machine actively refused it>
+2014-02-16 05:12:59,069 ERROR __main__ <class 'urllib2.URLError'> main.py 61
+2014-02-16 05:13:00,069 ERROR __main__ <urlopen error [Errno 10061] No connection could be made because the target machine actively refused it>
+2014-02-16 05:13:00,069 ERROR __main__ <class 'urllib2.URLError'> main.py 61
+2014-02-16 05:13:01,075 ERROR __main__ <urlopen error [Errno 10061] No connection could be made because the target machine actively refused it>
+2014-02-16 05:13:01,075 ERROR __main__ <class 'urllib2.URLError'> main.py 61
+2014-02-16 05:13:02,075 ERROR __main__ <urlopen error [Errno 10061] No connection could be made because the target machine actively refused it>
+2014-02-16 05:13:02,075 ERROR __main__ <class 'urllib2.URLError'> main.py 61
+2014-02-16 05:13:03,076 ERROR __main__ <urlopen error [Errno 10061] No connection could be made because the target machine actively refused it>
+2014-02-16 05:13:03,076 ERROR __main__ <class 'urllib2.URLError'> main.py 61
+2014-02-16 05:13:04,079 ERROR __main__ <urlopen error [Errno 10061] No connection could be made because the target machine actively refused it>
+2014-02-16 05:13:04,079 ERROR __main__ <class 'urllib2.URLError'> main.py 61
+2014-02-16 05:13:05,081 ERROR __main__ <urlopen error [Errno 10061] No connection could be made because the target machine actively refused it>
+2014-02-16 05:13:05,081 ERROR __main__ <class 'urllib2.URLError'> main.py 61
+2014-02-16 05:13:06,082 ERROR __main__ <urlopen error [Errno 10061] No connection could be made because the target machine actively refused it>
+2014-02-16 05:13:06,082 ERROR __main__ <class 'urllib2.URLError'> main.py 61
+2014-02-16 05:13:07,082 ERROR __main__ <urlopen error [Errno 10061] No connection could be made because the target machine actively refused it>
+2014-02-16 05:13:07,082 ERROR __main__ <class 'urllib2.URLError'> main.py 61
+2014-02-16 05:13:08,085 ERROR __main__ <urlopen error [Errno 10061] No connection could be made because the target machine actively refused it>
+2014-02-16 05:13:08,085 ERROR __main__ <class 'urllib2.URLError'> main.py 61
+2014-02-16 05:13:09,085 ERROR __main__ <urlopen error [Errno 10061] No connection could be made because the target machine actively refused it>
+2014-02-16 05:13:09,085 ERROR __main__ <class 'urllib2.URLError'> main.py 61
+2014-02-16 05:13:10,086 ERROR __main__ <urlopen error [Errno 10061] No connection could be made because the target machine actively refused it>
+2014-02-16 05:13:10,086 ERROR __main__ <class 'urllib2.URLError'> main.py 61
+2014-02-16 05:13:11,088 ERROR __main__ <urlopen error [Errno 10061] No connection could be made because the target machine actively refused it>
+2014-02-16 05:13:11,088 ERROR __main__ <class 'urllib2.URLError'> main.py 61
+2014-02-16 05:13:12,079 ERROR __main__ <urlopen error [Errno 10061] No connection could be made because the target machine actively refused it>
+2014-02-16 05:13:12,079 ERROR __main__ <class 'urllib2.URLError'> main.py 61
+2014-02-16 05:13:13,082 ERROR __main__ <urlopen error [Errno 10061] No connection could be made because the target machine actively refused it>
+2014-02-16 05:13:13,082 ERROR __main__ <class 'urllib2.URLError'> main.py 61
+2014-02-16 05:13:14,086 ERROR __main__ <urlopen error [Errno 10061] No connection could be made because the target machine actively refused it>
+2014-02-16 05:13:14,086 ERROR __main__ <class 'urllib2.URLError'> main.py 61
+2014-02-16 05:13:15,088 ERROR __main__ <urlopen error [Errno 10061] No connection could be made because the target machine actively refused it>
+2014-02-16 05:13:15,088 ERROR __main__ <class 'urllib2.URLError'> main.py 61
+2014-02-16 05:13:16,088 ERROR __main__ <urlopen error [Errno 10061] No connection could be made because the target machine actively refused it>
+2014-02-16 05:13:16,088 ERROR __main__ <class 'urllib2.URLError'> main.py 61
+2014-02-16 05:13:17,089 ERROR __main__ <urlopen error [Errno 10061] No connection could be made because the target machine actively refused it>
+2014-02-16 05:13:17,089 ERROR __main__ <class 'urllib2.URLError'> main.py 61
+2014-02-16 05:13:18,092 ERROR __main__ <urlopen error [Errno 10061] No connection could be made because the target machine actively refused it>
+2014-02-16 05:13:18,092 ERROR __main__ <class 'urllib2.URLError'> main.py 61
+2014-02-16 05:13:19,094 ERROR __main__ <urlopen error [Errno 10061] No connection could be made because the target machine actively refused it>
+2014-02-16 05:13:19,094 ERROR __main__ <class 'urllib2.URLError'> main.py 61
+2014-02-16 05:13:20,095 ERROR __main__ <urlopen error [Errno 10061] No connection could be made because the target machine actively refused it>
+2014-02-16 05:13:20,095 ERROR __main__ <class 'urllib2.URLError'> main.py 61
+2014-02-16 05:13:21,095 ERROR __main__ <urlopen error [Errno 10061] No connection could be made because the target machine actively refused it>
+2014-02-16 05:13:21,095 ERROR __main__ <class 'urllib2.URLError'> main.py 61
+2014-02-16 05:13:22,095 ERROR __main__ <urlopen error [Errno 10061] No connection could be made because the target machine actively refused it>
+2014-02-16 05:13:22,095 ERROR __main__ <class 'urllib2.URLError'> main.py 61
+2014-02-16 05:13:23,095 ERROR __main__ <urlopen error [Errno 10061] No connection could be made because the target machine actively refused it>
+2014-02-16 05:13:23,095 ERROR __main__ <class 'urllib2.URLError'> main.py 61
+2014-02-16 05:13:24,096 ERROR __main__ <urlopen error [Errno 10061] No connection could be made because the target machine actively refused it>
+2014-02-16 05:13:24,096 ERROR __main__ <class 'urllib2.URLError'> main.py 61
+2014-02-16 05:13:25,098 ERROR __main__ <urlopen error [Errno 10061] No connection could be made because the target machine actively refused it>
+2014-02-16 05:13:25,098 ERROR __main__ <class 'urllib2.URLError'> main.py 61
+2014-02-16 05:13:26,096 ERROR __main__ <urlopen error [Errno 10061] No connection could be made because the target machine actively refused it>
+2014-02-16 05:13:26,096 ERROR __main__ <class 'urllib2.URLError'> main.py 61
+2014-02-16 05:13:27,095 ERROR __main__ <urlopen error [Errno 10061] No connection could be made because the target machine actively refused it>
+2014-02-16 05:13:27,095 ERROR __main__ <class 'urllib2.URLError'> main.py 61
+2014-02-16 05:13:28,095 ERROR __main__ <urlopen error [Errno 10061] No connection could be made because the target machine actively refused it>
+2014-02-16 05:13:28,095 ERROR __main__ <class 'urllib2.URLError'> main.py 61
+2014-02-16 05:13:29,095 ERROR __main__ <urlopen error [Errno 10061] No connection could be made because the target machine actively refused it>
+2014-02-16 05:13:29,095 ERROR __main__ <class 'urllib2.URLError'> main.py 61
+2014-02-16 05:13:30,096 ERROR __main__ <urlopen error [Errno 10061] No connection could be made because the target machine actively refused it>
+2014-02-16 05:13:30,096 ERROR __main__ <class 'urllib2.URLError'> main.py 61
+2014-02-16 05:13:31,098 ERROR __main__ <urlopen error [Errno 10061] No connection could be made because the target machine actively refused it>
+2014-02-16 05:13:31,098 ERROR __main__ <class 'urllib2.URLError'> main.py 61
+2014-02-16 05:13:32,105 ERROR __main__ <urlopen error [Errno 10061] No connection could be made because the target machine actively refused it>
+2014-02-16 05:13:32,105 ERROR __main__ <class 'urllib2.URLError'> main.py 61
+2014-02-16 05:13:33,105 ERROR __main__ <urlopen error [Errno 10061] No connection could be made because the target machine actively refused it>
+2014-02-16 05:13:33,105 ERROR __main__ <class 'urllib2.URLError'> main.py 61
+2014-02-16 05:13:34,105 ERROR __main__ <urlopen error [Errno 10061] No connection could be made because the target machine actively refused it>
+2014-02-16 05:13:34,105 ERROR __main__ <class 'urllib2.URLError'> main.py 61
+2014-02-16 05:13:35,107 ERROR __main__ <urlopen error [Errno 10061] No connection could be made because the target machine actively refused it>
+2014-02-16 05:13:35,107 ERROR __main__ <class 'urllib2.URLError'> main.py 61
+2014-02-16 05:13:36,108 ERROR __main__ <urlopen error [Errno 10061] No connection could be made because the target machine actively refused it>
+2014-02-16 05:13:36,108 ERROR __main__ <class 'urllib2.URLError'> main.py 61
+2014-02-16 05:13:37,117 ERROR __main__ <urlopen error [Errno 10061] No connection could be made because the target machine actively refused it>
+2014-02-16 05:13:37,117 ERROR __main__ <class 'urllib2.URLError'> main.py 61
+2014-02-16 05:13:38,111 ERROR __main__ <urlopen error [Errno 10061] No connection could be made because the target machine actively refused it>
+2014-02-16 05:13:38,111 ERROR __main__ <class 'urllib2.URLError'> main.py 61
+2014-02-16 05:13:39,112 ERROR __main__ <urlopen error [Errno 10061] No connection could be made because the target machine actively refused it>
+2014-02-16 05:13:39,112 ERROR __main__ <class 'urllib2.URLError'> main.py 61
+2014-02-16 05:13:40,114 ERROR __main__ <urlopen error [Errno 10061] No connection could be made because the target machine actively refused it>
+2014-02-16 05:13:40,114 ERROR __main__ <class 'urllib2.URLError'> main.py 61
+2014-02-16 05:13:41,115 ERROR __main__ <urlopen error [Errno 10061] No connection could be made because the target machine actively refused it>
+2014-02-16 05:13:41,115 ERROR __main__ <class 'urllib2.URLError'> main.py 61
+2014-02-16 05:13:42,115 ERROR __main__ <urlopen error [Errno 10061] No connection could be made because the target machine actively refused it>
+2014-02-16 05:13:42,115 ERROR __main__ <class 'urllib2.URLError'> main.py 61
+2014-02-16 05:13:43,117 ERROR __main__ <urlopen error [Errno 10061] No connection could be made because the target machine actively refused it>
+2014-02-16 05:13:43,117 ERROR __main__ <class 'urllib2.URLError'> main.py 61
+2014-02-16 05:13:44,118 ERROR __main__ <urlopen error [Errno 10061] No connection could be made because the target machine actively refused it>
+2014-02-16 05:13:44,118 ERROR __main__ <class 'urllib2.URLError'> main.py 61
+2014-02-16 05:13:45,125 ERROR __main__ <urlopen error [Errno 10061] No connection could be made because the target machine actively refused it>
+2014-02-16 05:13:45,125 ERROR __main__ <class 'urllib2.URLError'> main.py 61
+2014-02-16 05:13:46,125 ERROR __main__ <urlopen error [Errno 10061] No connection could be made because the target machine actively refused it>
+2014-02-16 05:13:46,125 ERROR __main__ <class 'urllib2.URLError'> main.py 61
+2014-02-16 05:13:47,125 ERROR __main__ <urlopen error [Errno 10061] No connection could be made because the target machine actively refused it>
+2014-02-16 05:13:47,125 ERROR __main__ <class 'urllib2.URLError'> main.py 61
+2014-02-16 05:13:48,127 ERROR __main__ <urlopen error [Errno 10061] No connection could be made because the target machine actively refused it>
+2014-02-16 05:13:48,127 ERROR __main__ <class 'urllib2.URLError'> main.py 61
+2014-02-16 05:13:49,134 ERROR __main__ <urlopen error [Errno 10061] No connection could be made because the target machine actively refused it>
+2014-02-16 05:13:49,134 ERROR __main__ <class 'urllib2.URLError'> main.py 61
+2014-02-16 05:13:50,134 ERROR __main__ <urlopen error [Errno 10061] No connection could be made because the target machine actively refused it>
+2014-02-16 05:13:50,134 ERROR __main__ <class 'urllib2.URLError'> main.py 61
+2014-02-16 05:13:51,134 ERROR __main__ <urlopen error [Errno 10061] No connection could be made because the target machine actively refused it>
+2014-02-16 05:13:51,134 ERROR __main__ <class 'urllib2.URLError'> main.py 61
+2014-02-16 05:13:52,135 ERROR __main__ <urlopen error [Errno 10061] No connection could be made because the target machine actively refused it>
+2014-02-16 05:13:52,135 ERROR __main__ <class 'urllib2.URLError'> main.py 61
+2014-02-16 05:13:53,137 ERROR __main__ <urlopen error [Errno 10061] No connection could be made because the target machine actively refused it>
+2014-02-16 05:13:53,137 ERROR __main__ <class 'urllib2.URLError'> main.py 61
+2014-02-16 05:13:54,147 ERROR __main__ <urlopen error [Errno 10061] No connection could be made because the target machine actively refused it>
+2014-02-16 05:13:54,190 ERROR __main__ <class 'urllib2.URLError'> main.py 61
+2014-02-16 05:13:55,193 ERROR __main__ <urlopen error [Errno 10061] No connection could be made because the target machine actively refused it>
+2014-02-16 05:13:55,193 ERROR __main__ <class 'urllib2.URLError'> main.py 61
+2014-02-16 05:13:56,193 ERROR __main__ <urlopen error [Errno 10061] No connection could be made because the target machine actively refused it>
+2014-02-16 05:13:56,194 ERROR __main__ <class 'urllib2.URLError'> main.py 61
+2014-02-16 05:13:57,188 ERROR __main__ <urlopen error [Errno 10061] No connection could be made because the target machine actively refused it>
+2014-02-16 05:13:57,188 ERROR __main__ <class 'urllib2.URLError'> main.py 61
+2014-02-16 05:13:58,190 ERROR __main__ <urlopen error [Errno 10061] No connection could be made because the target machine actively refused it>
+2014-02-16 05:13:58,190 ERROR __main__ <class 'urllib2.URLError'> main.py 61
+2014-02-16 05:13:59,191 ERROR __main__ <urlopen error [Errno 10061] No connection could be made because the target machine actively refused it>
+2014-02-16 05:13:59,191 ERROR __main__ <class 'urllib2.URLError'> main.py 61
+2014-02-16 05:14:00,193 ERROR __main__ <urlopen error [Errno 10061] No connection could be made because the target machine actively refused it>
+2014-02-16 05:14:00,256 ERROR __main__ <class 'urllib2.URLError'> main.py 61
+2014-02-16 05:14:01,247 ERROR __main__ <urlopen error [Errno 10061] No connection could be made because the target machine actively refused it>
+2014-02-16 05:14:01,247 ERROR __main__ <class 'urllib2.URLError'> main.py 61
+2014-02-16 05:14:02,249 ERROR __main__ <urlopen error [Errno 10061] No connection could be made because the target machine actively refused it>
+2014-02-16 05:14:02,249 ERROR __main__ <class 'urllib2.URLError'> main.py 61
+2014-02-16 05:14:03,250 ERROR __main__ <urlopen error [Errno 10061] No connection could be made because the target machine actively refused it>
+2014-02-16 05:14:03,250 ERROR __main__ <class 'urllib2.URLError'> main.py 61
+2014-02-16 05:14:04,252 ERROR __main__ <urlopen error [Errno 10061] No connection could be made because the target machine actively refused it>
+2014-02-16 05:14:04,252 ERROR __main__ <class 'urllib2.URLError'> main.py 61
+2014-02-16 05:14:05,253 ERROR __main__ <urlopen error [Errno 10061] No connection could be made because the target machine actively refused it>
+2014-02-16 05:14:05,253 ERROR __main__ <class 'urllib2.URLError'> main.py 61
+2014-02-16 05:14:06,253 ERROR __main__ <urlopen error [Errno 10061] No connection could be made because the target machine actively refused it>
+2014-02-16 05:14:06,253 ERROR __main__ <class 'urllib2.URLError'> main.py 61
+2014-02-16 05:14:07,255 ERROR __main__ <urlopen error [Errno 10061] No connection could be made because the target machine actively refused it>
+2014-02-16 05:14:07,255 ERROR __main__ <class 'urllib2.URLError'> main.py 61
+2014-02-16 05:14:08,249 ERROR __main__ <urlopen error [Errno 10061] No connection could be made because the target machine actively refused it>
+2014-02-16 05:14:08,249 ERROR __main__ <class 'urllib2.URLError'> main.py 61
+2014-02-16 05:14:09,255 ERROR __main__ <urlopen error [Errno 10061] No connection could be made because the target machine actively refused it>
+2014-02-16 05:14:09,255 ERROR __main__ <class 'urllib2.URLError'> main.py 61
+2014-02-16 05:14:10,256 ERROR __main__ <urlopen error [Errno 10061] No connection could be made because the target machine actively refused it>
+2014-02-16 05:14:10,256 ERROR __main__ <class 'urllib2.URLError'> main.py 61
+2014-02-16 05:14:11,276 ERROR __main__ <urlopen error [Errno 10061] No connection could be made because the target machine actively refused it>
+2014-02-16 05:14:11,276 ERROR __main__ <class 'urllib2.URLError'> main.py 61
+2014-02-16 05:14:12,278 ERROR __main__ <urlopen error [Errno 10061] No connection could be made because the target machine actively refused it>
+2014-02-16 05:14:12,278 ERROR __main__ <class 'urllib2.URLError'> main.py 61
+2014-02-16 05:14:13,279 ERROR __main__ <urlopen error [Errno 10061] No connection could be made because the target machine actively refused it>
+2014-02-16 05:14:13,279 ERROR __main__ <class 'urllib2.URLError'> main.py 61
+2014-02-16 05:14:14,286 ERROR __main__ <urlopen error [Errno 10061] No connection could be made because the target machine actively refused it>
+2014-02-16 05:14:14,286 ERROR __main__ <class 'urllib2.URLError'> main.py 61
+2014-02-16 05:14:15,286 ERROR __main__ <urlopen error [Errno 10061] No connection could be made because the target machine actively refused it>
+2014-02-16 05:14:15,286 ERROR __main__ <class 'urllib2.URLError'> main.py 61
+2014-02-16 05:14:16,292 ERROR __main__ <urlopen error [Errno 10061] No connection could be made because the target machine actively refused it>
+2014-02-16 05:14:16,292 ERROR __main__ <class 'urllib2.URLError'> main.py 61
+2014-02-16 05:14:17,293 ERROR __main__ <urlopen error [Errno 10061] No connection could be made because the target machine actively refused it>
+2014-02-16 05:14:17,293 ERROR __main__ <class 'urllib2.URLError'> main.py 61
+2014-02-16 05:14:18,293 ERROR __main__ <urlopen error [Errno 10061] No connection could be made because the target machine actively refused it>
+2014-02-16 05:14:18,293 ERROR __main__ <class 'urllib2.URLError'> main.py 61
+2014-02-16 05:14:19,293 ERROR __main__ <urlopen error [Errno 10061] No connection could be made because the target machine actively refused it>
+2014-02-16 05:14:19,293 ERROR __main__ <class 'urllib2.URLError'> main.py 61
+2014-02-16 05:14:20,295 ERROR __main__ <urlopen error [Errno 10061] No connection could be made because the target machine actively refused it>
+2014-02-16 05:14:20,295 ERROR __main__ <class 'urllib2.URLError'> main.py 61
+2014-02-16 05:14:21,289 ERROR __main__ <urlopen error [Errno 10061] No connection could be made because the target machine actively refused it>
+2014-02-16 05:14:21,289 ERROR __main__ <class 'urllib2.URLError'> main.py 61
+2014-02-16 05:14:22,289 ERROR __main__ <urlopen error [Errno 10061] No connection could be made because the target machine actively refused it>
+2014-02-16 05:14:22,289 ERROR __main__ <class 'urllib2.URLError'> main.py 61
+2014-02-16 05:14:23,290 ERROR __main__ <urlopen error [Errno 10061] No connection could be made because the target machine actively refused it>
+2014-02-16 05:14:23,290 ERROR __main__ <class 'urllib2.URLError'> main.py 61
+2014-02-16 05:14:24,295 ERROR __main__ <urlopen error [Errno 10061] No connection could be made because the target machine actively refused it>
+2014-02-16 05:14:24,295 ERROR __main__ <class 'urllib2.URLError'> main.py 61
+2014-02-16 05:14:25,296 ERROR __main__ <urlopen error [Errno 10061] No connection could be made because the target machine actively refused it>
+2014-02-16 05:14:25,296 ERROR __main__ <class 'urllib2.URLError'> main.py 61
+2014-02-16 05:14:26,301 ERROR __main__ <urlopen error [Errno 10061] No connection could be made because the target machine actively refused it>
+2014-02-16 05:14:26,301 ERROR __main__ <class 'urllib2.URLError'> main.py 61
+2014-02-16 05:14:27,302 ERROR __main__ <urlopen error [Errno 10061] No connection could be made because the target machine actively refused it>
+2014-02-16 05:14:27,302 ERROR __main__ <class 'urllib2.URLError'> main.py 61
+2014-02-16 05:14:28,305 ERROR __main__ <urlopen error [Errno 10061] No connection could be made because the target machine actively refused it>
+2014-02-16 05:14:28,305 ERROR __main__ <class 'urllib2.URLError'> main.py 61
+2014-02-16 05:14:29,309 ERROR __main__ <urlopen error [Errno 10061] No connection could be made because the target machine actively refused it>
+2014-02-16 05:14:29,309 ERROR __main__ <class 'urllib2.URLError'> main.py 61
+2014-02-16 05:14:30,311 ERROR __main__ <urlopen error [Errno 10061] No connection could be made because the target machine actively refused it>
+2014-02-16 05:14:30,311 ERROR __main__ <class 'urllib2.URLError'> main.py 61
+2014-02-16 05:14:31,312 ERROR __main__ <urlopen error [Errno 10061] No connection could be made because the target machine actively refused it>
+2014-02-16 05:14:31,312 ERROR __main__ <class 'urllib2.URLError'> main.py 61
+2014-02-16 05:14:32,313 ERROR __main__ <urlopen error [Errno 10061] No connection could be made because the target machine actively refused it>
+2014-02-16 05:14:32,313 ERROR __main__ <class 'urllib2.URLError'> main.py 61
+2014-02-16 05:14:33,305 ERROR __main__ <urlopen error [Errno 10061] No connection could be made because the target machine actively refused it>
+2014-02-16 05:14:33,305 ERROR __main__ <class 'urllib2.URLError'> main.py 61
+2014-02-16 05:14:34,306 ERROR __main__ <urlopen error [Errno 10061] No connection could be made because the target machine actively refused it>
+2014-02-16 05:14:34,306 ERROR __main__ <class 'urllib2.URLError'> main.py 61
+2014-02-16 05:14:35,308 ERROR __main__ <urlopen error [Errno 10061] No connection could be made because the target machine actively refused it>
+2014-02-16 05:14:35,308 ERROR __main__ <class 'urllib2.URLError'> main.py 61
+2014-02-16 05:14:36,312 ERROR __main__ <urlopen error [Errno 10061] No connection could be made because the target machine actively refused it>
+2014-02-16 05:14:36,312 ERROR __main__ <class 'urllib2.URLError'> main.py 61
+2014-02-16 05:14:37,312 ERROR __main__ <urlopen error [Errno 10061] No connection could be made because the target machine actively refused it>
+2014-02-16 05:14:37,312 ERROR __main__ <class 'urllib2.URLError'> main.py 61
+2014-02-16 05:15:44,132 ERROR __main__ HTTP Error 404: Not Found
+2014-02-16 05:15:44,132 ERROR __main__ <class 'urllib2.HTTPError'> main.py 61
+2014-02-16 05:17:00,960 ERROR __main__ HTTP Error 404: Not Found
+2014-02-16 05:17:00,960 ERROR __main__ <class 'urllib2.HTTPError'> main.py 61
+2014-02-16 05:33:59,204 ERROR __main__ 'utf8' codec can't decode byte 0xb8 in position 12: invalid start byte
+2014-02-16 05:33:59,204 ERROR __main__ <type 'exceptions.UnicodeDecodeError'> main.py 61
+2014-02-16 05:49:25,627 ERROR __main__ 'utf8' codec can't decode byte 0xb8 in position 5: invalid start byte
+2014-02-16 05:49:25,627 ERROR __main__ <type 'exceptions.UnicodeDecodeError'> main.py 61
+2014-02-16 05:57:32,348 ERROR __main__ 'utf8' codec can't decode byte 0xb8 in position 2: invalid start byte
+2014-02-16 05:57:32,348 ERROR __main__ <type 'exceptions.UnicodeDecodeError'> main.py 61
+2014-02-16 06:26:13,456 ERROR __main__ 'utf8' codec can't decode byte 0xb4 in position 9: invalid start byte
+2014-02-16 06:26:13,456 ERROR __main__ <type 'exceptions.UnicodeDecodeError'> main.py 61
+2014-02-16 06:39:57,267 ERROR __main__ 'utf8' codec can't decode byte 0xb4 in position 4: invalid start byte
+2014-02-16 06:39:57,267 ERROR __main__ <type 'exceptions.UnicodeDecodeError'> main.py 61
+2014-02-17 10:14:23,976 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-17 10:14:23,976 ERROR __main__ <class 'urllib2.HTTPError'> main.py 61
+2014-02-17 20:36:59,679 ERROR __main__ HTTP Error 504: Gateway Time-out
+2014-02-17 20:36:59,681 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-17 20:47:00,432 ERROR __main__ HTTP Error 504: Gateway Time-out
+2014-02-17 20:47:00,432 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-17 20:48:01,545 ERROR __main__ ''
+2014-02-17 20:48:01,545 ERROR __main__ <class 'httplib.BadStatusLine'> main.py 69
+2014-02-18 05:21:14,032 ERROR __main__ (6, 'TTL expired')
+2014-02-18 05:21:14,032 ERROR __main__ <class 'socks.Socks5Error'> main.py 69
+2014-02-18 05:22:34,112 ERROR __main__ <urlopen error [Errno -3] Temporary failure in name resolution>
+2014-02-18 05:22:34,112 ERROR __main__ <class 'urllib2.URLError'> main.py 69
+2014-02-18 05:23:54,191 ERROR __main__ <urlopen error [Errno -3] Temporary failure in name resolution>
+2014-02-18 05:23:54,192 ERROR __main__ <class 'urllib2.URLError'> main.py 69
+2014-02-18 05:25:14,264 ERROR __main__ <urlopen error [Errno -3] Temporary failure in name resolution>
+2014-02-18 05:25:14,264 ERROR __main__ <class 'urllib2.URLError'> main.py 69
+2014-02-18 05:26:34,344 ERROR __main__ <urlopen error [Errno -3] Temporary failure in name resolution>
+2014-02-18 05:26:34,344 ERROR __main__ <class 'urllib2.URLError'> main.py 69
+2014-02-18 05:27:54,421 ERROR __main__ <urlopen error [Errno -3] Temporary failure in name resolution>
+2014-02-18 05:27:54,421 ERROR __main__ <class 'urllib2.URLError'> main.py 69
+2014-02-18 05:29:14,486 ERROR __main__ <urlopen error [Errno -3] Temporary failure in name resolution>
+2014-02-18 05:29:14,487 ERROR __main__ <class 'urllib2.URLError'> main.py 69
+2014-02-18 09:44:23,469 ERROR __main__ HTTP Error 404: Not Found
+2014-02-18 09:44:23,469 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-18 10:25:48,745 ERROR __main__ 'utf8' codec can't decode byte 0xb8 in position 11: invalid start byte
+2014-02-18 10:25:48,745 ERROR __main__ <type 'exceptions.UnicodeDecodeError'> main.py 69
+2014-02-18 12:47:32,660 ERROR __main__ HTTP Error 404: Not Found
+2014-02-18 12:47:32,661 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-18 14:22:03,204 ERROR __main__ HTTP Error 404: Not Found
+2014-02-18 14:22:03,204 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 00:04:43,489 ERROR __main__ ''
+2014-02-19 00:04:43,595 ERROR __main__ <class 'httplib.BadStatusLine'> main.py 69
+2014-02-19 00:07:14,063 ERROR __main__ ''
+2014-02-19 00:07:14,063 ERROR __main__ <class 'httplib.BadStatusLine'> main.py 69
+2014-02-19 00:08:15,400 ERROR __main__ ''
+2014-02-19 00:08:15,400 ERROR __main__ <class 'httplib.BadStatusLine'> main.py 69
+2014-02-19 00:09:36,545 ERROR __main__ ''
+2014-02-19 00:09:36,545 ERROR __main__ <class 'httplib.BadStatusLine'> main.py 69
+2014-02-19 00:11:31,041 ERROR __main__ ''
+2014-02-19 00:11:31,041 ERROR __main__ <class 'httplib.BadStatusLine'> main.py 69
+2014-02-19 00:12:46,316 ERROR __main__ ''
+2014-02-19 00:12:46,317 ERROR __main__ <class 'httplib.BadStatusLine'> main.py 69
+2014-02-19 04:07:12,561 ERROR __main__ ''
+2014-02-19 04:07:12,561 ERROR __main__ <class 'httplib.BadStatusLine'> main.py 69
+2014-02-19 04:35:52,387 ERROR __main__ HTTP Error 404: Not Found
+2014-02-19 04:35:52,387 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:02:14,214 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:02:14,214 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:02:14,339 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:02:14,339 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:02:14,469 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:02:14,469 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:02:14,612 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:02:14,612 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:02:14,732 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:02:14,733 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:02:14,855 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:02:14,855 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:02:14,994 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:02:14,995 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:02:15,127 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:02:15,127 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:02:15,256 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:02:15,256 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:02:15,376 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:02:15,376 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:02:15,560 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:02:15,560 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:02:15,696 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:02:15,696 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:02:15,827 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:02:15,828 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:02:16,007 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:02:16,007 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:02:16,199 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:02:16,200 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:02:16,319 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:02:16,319 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:02:16,465 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:02:16,465 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:02:16,620 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:02:16,620 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:02:16,760 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:02:16,761 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:02:16,890 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:02:16,890 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:02:17,060 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:02:17,060 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:02:17,192 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:02:17,193 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:02:17,340 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:02:17,340 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:02:17,526 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:02:17,526 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:02:17,669 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:02:17,669 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:02:17,815 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:02:17,815 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:02:17,970 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:02:17,971 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:02:18,132 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:02:18,132 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:02:18,299 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:02:18,299 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:02:18,457 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:02:18,457 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:02:18,599 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:02:18,599 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:02:18,793 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:02:18,793 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:02:18,945 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:02:18,945 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:02:19,178 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:02:19,179 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:02:19,367 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:02:19,367 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:02:19,586 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:02:19,586 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:02:19,725 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:02:19,760 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:02:19,849 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:02:19,849 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:02:19,966 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:02:19,966 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:02:20,087 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:02:20,087 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:02:20,218 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:02:20,218 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:02:20,384 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:02:20,384 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:02:20,551 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:02:20,551 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:02:20,736 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:02:20,736 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:02:20,909 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:02:20,909 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:02:21,104 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:02:21,104 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:02:21,319 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:02:21,319 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:02:21,548 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:02:21,548 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:02:21,767 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:02:21,767 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:02:21,980 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:02:21,981 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:02:22,165 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:02:22,165 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:02:22,301 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:02:22,301 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:02:22,496 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:02:22,497 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:02:22,716 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:02:22,716 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:02:23,007 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:02:23,007 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:02:23,230 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:02:23,230 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:02:23,467 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:02:23,467 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:02:23,701 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:02:23,701 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:02:23,885 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:02:23,885 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:02:24,072 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:02:24,072 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:02:24,296 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:02:24,296 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:02:24,558 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:02:24,558 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:02:24,744 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:02:24,745 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:02:24,872 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:02:24,873 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:02:24,996 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:02:24,996 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:02:25,128 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:02:25,128 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:02:25,281 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:02:25,281 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:02:25,406 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:02:25,406 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:02:25,562 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:02:25,562 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:02:25,683 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:02:25,683 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:02:25,804 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:02:25,804 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:02:25,931 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:02:25,931 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:02:26,053 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:02:26,053 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:02:26,174 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:02:26,174 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:02:26,303 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:02:26,303 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:02:26,459 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:02:26,459 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:02:26,597 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:02:26,598 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:02:26,731 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:02:26,731 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:02:26,853 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:02:26,853 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:02:26,979 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:02:26,979 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:02:27,115 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:02:27,116 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:02:27,238 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:02:27,238 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:02:27,712 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:02:27,712 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:02:27,848 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:02:27,848 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:02:27,977 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:02:27,977 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:02:28,099 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:02:28,099 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:02:28,222 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:02:28,222 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:02:28,577 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:02:28,577 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:02:28,701 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:02:28,701 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:02:28,938 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:02:28,938 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:02:29,044 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:02:29,044 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:02:29,167 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:02:29,167 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:02:29,286 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:02:29,286 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:02:30,862 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:02:30,862 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:02:31,144 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:02:31,144 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:02:31,321 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:02:31,322 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:02:31,537 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:02:31,537 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:02:31,714 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:02:31,714 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:02:32,732 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:02:32,732 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:02:33,090 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:02:33,090 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:02:33,488 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:02:33,488 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:02:33,900 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:02:33,900 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:02:34,189 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:02:34,189 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:02:34,436 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:02:34,436 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:02:35,012 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:02:35,012 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:02:35,269 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:02:35,270 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:02:35,469 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:02:35,470 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:02:35,685 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:02:35,685 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:02:35,988 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:02:35,988 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:02:36,154 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:02:36,154 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:02:36,294 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:02:36,294 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:02:36,462 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:02:36,462 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:02:36,622 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:02:36,623 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:02:36,746 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:02:36,746 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:02:36,916 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:02:36,917 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:02:37,059 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:02:37,059 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:02:37,195 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:02:37,195 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:02:37,336 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:02:37,336 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:02:37,470 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:02:37,470 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:02:37,608 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:02:37,609 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:02:37,885 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:02:37,885 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:02:37,987 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:02:37,987 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:02:38,110 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:02:38,111 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:02:38,244 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:02:38,244 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:02:38,391 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:02:38,391 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:02:38,742 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:02:38,743 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:02:38,941 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:02:38,941 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:02:39,151 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:02:39,151 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:02:39,395 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:02:39,395 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:02:39,554 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:02:39,554 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:02:39,775 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:02:39,775 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:02:39,946 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:02:39,947 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:02:40,136 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:02:40,136 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:02:40,309 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:02:40,309 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:02:40,526 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:02:40,526 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:02:40,930 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:02:40,930 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:02:41,178 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:02:41,179 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:02:41,373 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:02:41,373 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:02:41,642 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:02:41,642 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:02:41,841 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:02:41,841 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:02:42,079 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:02:42,079 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:02:42,299 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:02:42,299 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:02:42,539 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:02:42,540 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:02:42,744 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:02:42,744 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:02:42,983 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:02:42,983 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:02:43,198 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:02:43,198 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:02:43,752 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:02:43,752 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:02:43,966 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:02:43,967 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:02:44,153 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:02:44,153 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:02:44,374 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:02:44,374 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:02:44,609 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:02:44,609 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:02:44,825 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:02:44,825 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:02:45,002 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:02:45,002 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:02:45,154 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:02:45,155 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:02:45,289 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:02:45,290 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:02:45,418 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:02:45,418 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:02:45,564 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:02:45,564 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:02:45,706 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:02:45,706 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:02:45,836 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:02:45,836 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:02:45,956 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:02:45,956 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:02:46,107 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:02:46,107 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:02:46,257 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:02:46,257 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:02:46,406 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:02:46,406 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:02:46,540 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:02:46,540 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:02:46,647 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:02:46,647 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:02:47,805 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:02:47,805 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:02:48,085 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:02:48,086 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:02:48,227 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:02:48,227 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:02:48,429 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:02:48,429 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:02:48,549 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:02:48,549 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:02:48,692 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:02:48,692 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:02:48,826 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:02:48,827 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:02:48,958 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:02:48,958 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:02:49,156 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:02:49,156 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:02:49,293 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:02:49,293 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:02:49,426 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:02:49,426 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:02:49,607 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:02:49,608 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:02:49,746 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:02:49,746 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:02:49,916 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:02:49,916 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:02:50,069 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:02:50,069 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:02:50,204 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:02:50,204 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:02:50,363 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:02:50,363 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:02:50,543 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:02:50,543 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:02:50,689 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:02:50,689 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:02:50,870 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:02:50,870 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:02:51,010 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:02:51,010 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:02:51,193 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:02:51,193 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:02:51,412 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:02:51,413 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:02:51,727 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:02:51,727 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:02:51,911 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:02:51,911 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:02:52,057 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:02:52,057 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:02:52,192 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:02:52,192 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:02:52,340 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:02:52,340 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:02:52,544 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:02:52,544 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:02:52,801 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:02:52,801 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:02:52,994 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:02:52,994 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:02:53,136 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:02:53,136 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:02:53,586 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:02:53,586 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:02:53,708 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:02:53,708 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:02:53,837 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:02:53,837 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:02:53,960 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:02:53,960 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:02:54,097 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:02:54,097 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:02:54,260 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:02:54,260 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:02:54,417 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:02:54,417 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:02:54,620 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:02:54,620 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:02:54,750 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:02:54,751 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:02:54,913 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:02:54,913 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:02:55,042 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:02:55,042 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:03:05,612 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:03:05,612 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:03:09,063 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:03:09,063 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:03:12,627 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:03:12,627 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:03:17,568 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:03:17,569 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:03:21,316 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:03:21,316 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:03:25,077 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:03:25,077 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:03:28,370 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:03:28,370 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:03:31,742 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:03:31,742 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:03:35,301 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:03:35,301 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:03:38,600 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:03:38,600 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:03:42,939 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:03:42,940 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:03:47,201 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:03:47,202 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:03:50,984 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:03:50,984 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:03:55,630 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:03:55,630 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:03:59,633 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:03:59,634 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:04:02,969 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:04:02,969 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:04:06,088 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:04:06,088 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:04:09,546 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:04:09,546 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:04:13,006 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:04:13,007 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:04:16,531 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:04:16,531 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:04:19,481 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:04:19,481 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:04:22,962 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:04:22,962 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:04:26,690 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:04:26,690 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:04:31,358 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:04:31,358 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:04:35,009 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:04:35,009 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:04:38,614 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:04:38,615 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:04:41,817 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:04:41,817 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:04:45,406 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:04:45,406 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:04:49,579 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:04:49,579 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:04:54,876 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:04:54,876 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:04:58,798 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:04:58,798 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:05:02,819 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:05:02,819 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:05:06,264 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:05:06,264 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:05:09,735 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:05:09,735 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:05:13,919 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:05:13,919 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:05:17,710 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:05:17,710 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:05:20,959 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:05:20,959 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:05:25,093 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:05:25,222 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:05:29,184 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:05:29,184 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:05:32,680 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:05:32,680 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:05:36,086 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:05:36,086 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:05:39,607 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:05:39,607 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:05:43,096 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:05:43,096 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:05:46,487 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:05:46,487 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:05:49,972 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:05:49,972 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:05:53,591 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:05:53,591 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:05:57,923 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:05:57,923 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:06:01,494 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:06:01,494 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:06:05,559 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:06:05,559 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:06:08,573 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:06:08,573 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:06:12,071 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:06:12,071 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:06:15,299 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:06:15,299 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:06:18,457 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:06:18,457 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:06:21,642 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:06:21,642 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:06:25,369 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:06:25,369 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:06:29,356 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:06:29,356 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:06:32,730 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:06:32,730 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:06:36,117 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:06:36,117 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:06:39,426 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:06:39,426 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:06:43,129 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:06:43,129 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:06:46,421 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:06:46,421 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:06:51,752 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:06:51,752 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:06:55,661 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:06:55,661 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:06:59,240 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:06:59,240 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:07:02,391 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:07:02,391 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:07:06,607 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:07:06,607 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:07:10,492 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:07:10,492 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:07:13,671 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:07:13,671 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:07:16,812 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:07:16,812 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:07:20,307 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:07:20,307 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:07:23,691 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:07:23,692 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:07:27,251 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:07:27,251 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:07:31,029 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:07:31,030 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:07:34,339 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:07:34,339 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:07:37,792 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:07:37,792 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:07:41,150 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:07:41,150 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:07:46,185 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:07:46,185 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:07:50,053 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:07:50,054 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:07:56,626 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:07:56,626 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:07:59,983 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:07:59,983 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:08:14,961 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:08:14,961 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:08:18,443 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:08:18,443 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:08:21,814 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:08:21,814 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:08:26,040 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:08:26,040 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:08:29,538 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:08:29,538 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:08:32,816 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:08:32,817 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:08:37,861 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:08:37,861 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:08:42,601 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:08:42,601 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:08:46,193 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:08:46,193 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:08:49,873 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:08:49,873 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:08:53,330 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:08:53,330 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:08:56,690 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:08:56,691 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:08:59,999 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:08:59,999 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:09:03,584 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:09:03,585 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:09:14,417 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:09:14,418 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:09:18,113 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:09:18,114 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:09:22,651 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:09:22,651 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:09:26,396 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:09:26,396 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:09:29,624 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:09:29,624 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:09:32,898 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:09:32,899 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:09:36,214 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:09:36,214 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:09:39,531 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:09:39,532 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:09:43,199 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:09:43,200 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:09:46,514 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:09:46,515 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:09:49,833 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:09:49,833 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:09:53,112 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:09:53,112 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:09:56,590 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:09:56,590 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:09:59,905 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:09:59,906 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:10:04,632 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:10:04,632 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:10:08,702 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:10:08,703 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:10:12,429 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:10:12,429 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:10:15,940 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:10:15,940 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:10:20,612 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:10:20,612 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:10:24,677 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:10:24,677 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:10:27,956 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:10:27,956 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:10:31,330 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:10:31,330 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:10:34,529 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:10:34,530 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:10:37,755 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:10:37,755 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:10:41,657 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:10:41,658 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:10:45,438 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:10:45,438 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:10:49,050 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:10:49,050 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:10:52,150 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:10:52,150 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:10:55,194 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:10:55,194 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:10:58,950 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:10:58,950 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:11:02,479 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:11:02,480 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:11:06,215 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:11:06,216 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:11:16,573 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:11:16,573 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:11:20,753 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:11:20,754 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:11:25,879 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:11:25,879 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:11:30,008 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:11:30,008 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:11:33,199 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:11:33,199 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:11:36,927 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:11:36,927 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:11:40,449 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:11:40,449 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:11:43,706 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:11:43,706 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:12:13,036 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:12:13,036 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:12:19,876 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:12:19,876 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:12:23,142 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:12:23,142 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:12:26,925 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:12:26,926 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:12:30,437 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:12:30,438 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:12:33,612 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:12:33,612 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:12:38,539 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:12:38,539 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:12:45,475 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:12:45,475 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:12:48,836 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:12:48,837 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:12:52,116 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:12:52,116 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:13:04,577 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:13:04,577 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:13:08,316 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:13:08,316 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:13:11,896 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:13:11,896 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:13:16,223 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:13:16,223 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:13:19,405 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:13:19,406 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:13:22,815 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:13:22,815 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:13:26,243 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:13:26,244 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:13:29,975 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:13:29,975 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:13:33,345 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:13:33,345 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:13:45,143 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:13:45,143 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:13:48,479 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:13:48,479 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:13:52,404 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:13:52,405 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:13:59,372 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:13:59,373 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:14:02,593 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:14:02,594 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:14:06,123 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:14:06,124 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:14:14,478 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:14:14,478 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:14:18,847 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:14:18,847 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:14:22,530 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:14:22,530 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:14:25,918 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:14:25,918 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:14:29,651 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:14:29,651 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:14:33,389 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:14:33,390 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:14:36,751 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:14:36,751 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:14:40,445 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:14:40,445 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:14:43,300 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:14:43,300 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:14:47,897 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:14:47,897 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:14:51,266 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:14:51,266 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:14:54,661 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:14:54,661 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:14:58,822 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:14:58,822 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:15:12,533 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:15:12,533 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:15:20,549 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:15:20,549 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:15:24,709 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:15:24,709 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:15:28,054 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:15:28,054 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:15:31,719 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:15:31,719 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:15:39,209 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:15:39,209 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:15:47,179 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:15:47,179 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:15:50,646 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:15:50,646 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:15:53,934 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:15:53,934 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:15:57,670 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:15:57,671 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:16:01,729 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:16:01,729 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:16:05,210 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:16:05,210 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:16:13,163 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:16:13,163 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:16:16,629 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:16:16,629 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:16:34,724 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:16:34,724 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:16:37,707 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:16:37,707 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:16:50,932 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:16:50,932 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:17:20,884 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:17:20,884 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:17:24,191 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:17:24,191 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:17:27,768 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:17:27,768 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:17:31,247 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:17:31,247 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:17:34,827 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:17:34,827 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:17:45,431 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:17:45,432 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:17:48,993 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:17:48,993 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:17:52,348 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:17:52,348 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:17:56,189 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:17:56,189 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:17:59,317 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:17:59,317 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:18:02,918 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:18:02,918 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:18:06,216 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:18:06,216 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:18:09,317 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:18:09,317 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:18:12,507 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:18:12,507 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:18:33,371 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:18:33,371 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:18:36,558 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:18:36,558 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:18:39,775 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:18:39,775 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:18:42,882 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:18:42,882 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:18:46,161 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:18:46,161 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:18:49,210 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:18:49,211 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:18:52,825 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:18:52,825 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:18:56,494 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:18:56,494 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:18:59,951 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:18:59,951 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:19:03,231 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:19:03,231 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:19:06,974 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:19:06,974 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:19:45,042 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:19:45,042 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:19:48,262 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:19:48,262 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:19:51,178 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:19:51,178 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:20:11,532 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:20:11,532 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:21:13,888 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:21:13,888 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:21:17,472 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:21:17,472 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:21:21,053 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:21:21,053 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:21:24,728 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:21:24,728 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:21:27,873 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:21:27,873 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:21:30,924 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:21:30,924 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:21:34,094 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:21:34,094 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:22:13,636 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:22:13,636 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:22:17,055 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:22:17,055 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:22:59,148 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:22:59,148 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:23:06,735 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:23:06,736 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:23:10,265 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:23:10,376 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:23:13,946 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:23:13,946 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:23:17,162 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:23:17,163 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:23:20,751 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:23:20,751 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:23:24,380 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:23:24,380 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:23:27,530 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:23:27,530 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:23:30,764 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:23:30,764 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:23:34,131 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:23:34,131 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:23:37,451 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:23:37,451 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:23:40,546 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:23:40,546 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:23:44,145 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:23:44,145 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:23:50,951 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:23:50,952 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:23:54,191 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:23:54,191 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:23:57,558 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:23:57,558 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:24:00,645 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:24:00,645 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:24:07,770 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:24:07,770 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:24:10,900 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:24:10,900 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:24:14,141 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:24:14,141 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:24:17,636 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:24:17,636 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:24:20,723 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:24:20,723 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:24:30,433 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:24:30,433 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:24:33,817 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:24:33,817 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:24:37,017 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:24:37,017 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:24:40,571 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:24:40,571 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:26:13,258 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:26:13,258 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:26:16,461 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:26:16,461 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:26:19,730 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:26:19,731 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:26:22,949 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:26:22,949 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:26:26,050 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:26:26,050 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:26:29,450 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:26:29,450 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:27:04,090 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:27:04,090 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:28:31,639 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:28:31,639 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:28:35,140 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:28:35,140 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:28:38,599 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:28:38,599 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:28:42,649 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:28:42,649 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:28:47,584 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:28:47,585 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:28:50,972 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:28:50,972 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 07:28:54,758 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 07:28:54,758 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 10:11:43,749 ERROR __main__ ''
+2014-02-19 10:11:43,749 ERROR __main__ <class 'httplib.BadStatusLine'> main.py 69
+2014-02-19 11:58:08,166 ERROR __main__ HTTP Error 404: Not Found
+2014-02-19 11:58:08,166 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 12:10:37,033 ERROR __main__ HTTP Error 404: Not Found
+2014-02-19 12:10:37,033 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 13:47:49,702 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-19 13:47:49,702 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-19 17:37:54,442 ERROR __main__ HTTP Error 404: Not Found
+2014-02-19 17:37:54,460 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-20 05:25:46,793 ERROR __main__ HTTP Error 404: Not Found
+2014-02-20 05:25:46,839 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-20 15:34:25,706 ERROR __main__ HTTP Error 404: Not Found
+2014-02-20 15:34:25,723 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-20 15:35:30,116 ERROR __main__ HTTP Error 404: Not Found
+2014-02-20 15:35:30,116 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-20 20:37:00,788 ERROR __main__ 'utf8' codec can't decode byte 0xc5 in position 10: invalid continuation byte
+2014-02-20 20:37:00,789 ERROR __main__ <type 'exceptions.UnicodeDecodeError'> main.py 69
+2014-02-20 21:04:15,165 ERROR __main__ 'utf8' codec can't decode byte 0xb4 in position 4: invalid start byte
+2014-02-20 21:04:15,194 ERROR __main__ <type 'exceptions.UnicodeDecodeError'> main.py 69
+2014-02-21 00:38:59,116 ERROR __main__ ''
+2014-02-21 00:38:59,134 ERROR __main__ <class 'httplib.BadStatusLine'> main.py 69
+2014-02-21 00:40:21,074 ERROR __main__ ''
+2014-02-21 00:40:21,074 ERROR __main__ <class 'httplib.BadStatusLine'> main.py 69
+2014-02-21 01:19:10,879 ERROR __main__ HTTP Error 404: Not Found
+2014-02-21 01:19:10,879 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-21 02:44:40,822 ERROR __main__ ''
+2014-02-21 02:44:40,822 ERROR __main__ <class 'httplib.BadStatusLine'> main.py 69
+2014-02-21 02:46:09,521 ERROR __main__ ''
+2014-02-21 02:46:09,521 ERROR __main__ <class 'httplib.BadStatusLine'> main.py 69
+2014-02-21 03:19:24,305 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-21 03:19:24,305 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-21 04:30:23,079 ERROR __main__ HTTP Error 404: Not Found
+2014-02-21 04:30:23,079 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-21 12:17:29,799 ERROR __main__ HTTP Error 504: Gateway Time-out
+2014-02-21 12:17:29,824 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-21 12:25:05,941 ERROR __main__ ''
+2014-02-21 12:25:05,941 ERROR __main__ <class 'httplib.BadStatusLine'> main.py 69
+2014-02-21 12:25:07,730 ERROR __main__ ''
+2014-02-21 12:25:07,730 ERROR __main__ <class 'httplib.BadStatusLine'> main.py 69
+2014-02-21 12:25:08,126 ERROR __main__ (5, 'Connection refused')
+2014-02-21 12:25:08,126 ERROR __main__ <class 'socks.Socks5Error'> main.py 69
+2014-02-21 12:28:13,551 ERROR __main__ HTTP Error 404: Not Found
+2014-02-21 12:28:13,551 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-21 12:31:06,713 ERROR __main__ HTTP Error 404: Not Found
+2014-02-21 12:31:06,713 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-21 12:31:08,718 ERROR __main__ HTTP Error 404: Not Found
+2014-02-21 12:31:08,725 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-21 12:31:11,692 ERROR __main__ HTTP Error 404: Not Found
+2014-02-21 12:31:11,692 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-21 12:31:14,385 ERROR __main__ HTTP Error 404: Not Found
+2014-02-21 12:31:14,386 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-21 12:31:16,327 ERROR __main__ HTTP Error 404: Not Found
+2014-02-21 12:31:16,327 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-21 12:31:18,456 ERROR __main__ HTTP Error 404: Not Found
+2014-02-21 12:31:18,457 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-21 12:31:20,491 ERROR __main__ HTTP Error 404: Not Found
+2014-02-21 12:31:20,491 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-21 12:31:22,511 ERROR __main__ HTTP Error 404: Not Found
+2014-02-21 12:31:22,511 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
+2014-02-21 18:05:32,970 ERROR __main__ 'utf8' codec can't decode byte 0xb8 in position 12: invalid start byte
+2014-02-21 18:05:32,989 ERROR __main__ <type 'exceptions.UnicodeDecodeError'> main.py 69
+2014-02-21 18:32:16,361 ERROR __main__ ''
+2014-02-21 18:32:16,361 ERROR __main__ <class 'httplib.BadStatusLine'> main.py 69
+2014-02-21 18:39:51,786 ERROR __main__ ''
+2014-02-21 18:39:51,786 ERROR __main__ <class 'httplib.BadStatusLine'> main.py 69
+2014-02-22 01:00:00,399 ERROR __main__ ''
+2014-02-22 01:00:00,412 ERROR __main__ <class 'httplib.BadStatusLine'> main.py 69
+2014-02-22 02:52:31,343 ERROR __main__ HTTP Error 500: Internal Server Error
+2014-02-22 02:52:31,344 ERROR __main__ <class 'urllib2.HTTPError'> main.py 69
