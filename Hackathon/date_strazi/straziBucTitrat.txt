@@ -1,0 +1,5028 @@
+﻿1	Intrarea	1 Mai		
+1	Strada	16 Februarie		
+1	Piaţa	21 Decembrie 1989		
+1	Strada	Abrud		
+1	Strada	Abuş		
+1	Strada	Academiei		
+1	Strada	Acetilenei		
+1	Strada	Aciliu		
+1	Strada	Acordeonului		
+1	Strada	Acordului		
+1	Strada	Acumulatorului		
+1	Strada	Adalin		
+1	Strada	Adrian Pătru	Soldat	fost IOLEI
+1	Strada	Ady Endre		
+1	Bulevardul	Aerogării		
+1	Strada	Aeromodelului		
+1	Intrarea	Aeronavei		
+1	Strada	Aeroportului		
+1	Strada	Afânata		
+1	Strada	Afluentului		
+1	Strada	Agapia		
+1	Drumul	Agatului		
+1	Bulevardul	Agronomiei		
+1	Strada	Aiud		
+1	Strada	Albac		fost BUNĂTATEA SAMARITEANĂ
+1	Strada	Aldeni		
+1	Strada	Alexandrina		
+1	Aleea	Alexandru		
+1	Strada	Alexandru Bratu		
+1	Intrarea	Alexandru Câmpeanu	Maior	
+1	Strada	Alexandru Câmpeanu	Maior	
+1	Strada	Alexandru Cernat	General	
+1	Strada	Alexandru Constantinescu		fost CÂMPINA
+1	Intrarea	Alexandru David		
+1	Strada	Alexandru Depărăţeanu		
+1	Strada	Alexandru Făclie		
+1	Bulevardul	Alexandru Furtunescu		
+1	Bulevardul	Alexandru Ioan Cuza		
+1	Piaţa	Alexandru Lahovari		fost Piaţa COSMONAUŢILOR
+1	Strada	Alexandru Lăpuşneanu		
+1	Intrarea	Alexandru Macedonski	Poet	
+1	Bulevardul	Alexandru Nasta		
+1	Strada	Alexandru Şerbănescu	Căpitan	fost BUJORULUI
+1	Strada	Alexandru Xenopol		
+1	Intrarea	Alexe Marin		
+1	Strada	Alion		
+1	Piaţeta	Allama Igbal		
+1	Strada	Almaş		
+1	Intrarea	Alpiniştilor		
+1	Strada	Alunului		
+1	Piaţa	America Latină		
+1	Strada	Amforei		
+1	Strada	Amiciţiei		
+1	Strada	Amintirii		
+1	Strada	Amman		
+1	Intrarea	Amzei		
+1	Piaţa	Amzei		
+1	Intrarea	Anasonului		
+1	Strada	Anastasie Simu		
+1	Intrarea	Anda Călugăreanu		fost ANTRENORILOR
+1	Strada	Andrei Mureşanu	Poet	
+1	Strada	Andrei Popovici	General	fost ASTRILOR
+1	Strada	Anina		
+1	Strada	Aninoasa		
+1	Strada	Aninului		
+1	Strada	Ankara		
+1	Strada	Anton Pavlovici Cehov		
+1	Bulevardul	Apicultorilor		
+1	Strada	Arad		
+1	Strada	Arcaşilor		
+1	Piaţa	Arcul De Triumf		
+1	Strada	Ardealului		
+1	Strada	Ardeziei		
+1	Strada	Argentina		
+1	Strada	Ariei		
+1	Drumul	Arieş		
+1	Strada	Arion Eraclie	General	
+1	Strada	Aripilor		
+1	Strada	Aristide Demetriade		
+1	Strada	Aristotel Pappia		fost SEMAFORULUI
+1	Intrarea	Armaşului		
+1	Strada	Armindenului		
+1	Strada	Aron Cotruş		
+1	Strada	Arţarului		
+1	Strada	Arthur Vârtejanu	Maior	
+1	Strada	Arthur Verona	Pictor	
+1	Strada	Astronomului		
+1	Strada	Atelierele Noi		
+1	Strada	Atelierului		
+1	Strada	Atena		
+1	Strada	Athanasie Enescu	General	fost PALAZU MARE
+1	Strada	Atlasului		
+1	Strada	Aurel Băeşu	Pictor	
+1	Intrarea	Aurel Giurumia		
+1	Piaţa	Aurel Popoviciu		
+1	Intrarea	Aurora		
+1	Strada	Automatizării		
+1	Strada	Avântului		
+1	Intrarea	Aviaţiei		
+1	Strada	Aviaţiei		
+1	Bulevardul	Aviatorilor		
+1	Piaţa	Aviatorilor		
+1	Strada	Avionului		
+1	Strada	Avram Păcuraru	Caporal	
+1	Strada	Avrămeni		
+1	Strada	Axinte Uricariul		
+1	Strada	Bacului		
+1	Strada	Bahluiului		
+1	Strada	Baia		
+1	Strada	Baia De Criş		
+1	Strada	Baia Sprie		
+1	Aleea	Băiculeşti		
+1	Strada	Băiculeşti		
+1	Strada	Bălănescu Rosetti		
+1	Strada	Bălăria		
+1	Intrarea	Baldovin Pârcălabul		
+1	Strada	Baldovin Pârcălabul		
+1	Strada	Balonului		
+1	Strada	Balota		
+1	Strada	Balsamului		
+1	Strada	Banat		
+1	Strada	Băneasa		
+1	Strada	Banul Antonache		
+1	Bulevardul	Banul Manta		
+1	Strada	Banului		
+1	Strada	Barajul Argeş		
+1	Strada	Barbu Iscovescu	Pictor	
+1	Strada	Barbu Lăutaru		
+1	Strada	Barbu Ştefănescu Delavrancea		
+1	Strada	Barbu Vlădoianu	General	
+1	Intrarea	Bardiţei		
+1	Strada	Bârgăului		
+1	Strada	Barierei		
+1	Strada	Bârlogeni		
+1	Strada	Baru Mare		
+1	Strada	Bauxitei		
+1	Bulevardul	Beijing		
+1	Strada	Belgrad		
+1	Strada	Belizarie		
+1	Strada	Benjamin Franklin		
+1	Strada	Berca		
+1	Intrarea	Berheci		
+1	Strada	Berna		
+1	Strada	Berveni		
+1	Strada	Berzei		
+1	Strada	Betonierei		
+1	Strada	Bibicescu Ion		
+1	Strada	Biborţeni		
+1	Strada	Biharia		
+1	Strada	Bihor		
+1	Strada	Bilciureşti		
+1	Strada	Biruinţei		
+1	Intrarea	Biserica Albă		fost Intrarea LIVEZENI
+1	Strada	Biserica Amzei		fost GLADIOLELOR
+1	Strada	Biserica Enei		fost ARHITECTURII
+1	Strada	Bistriţa		
+1	Intrarea	Bitolia		
+1	Intrarea	Blaj		fost PIETĂŢII
+1	Strada	Bogdan Vodă		
+1	Strada	Bogdăniţa		
+1	Strada	Bogota		
+1	Strada	Borşa		
+1	Strada	Boteanu		
+1	Strada	Brânarul		
+1	Intrarea	Bratocea		
+1	Intrarea	Bravurii		
+1	Strada	Braziliei		
+1	Strada	Brodina		
+1	Intrarea	Broşteni		
+1	Strada	Bruxelles		
+1	Strada	Bucegi		
+1	Intrarea	Buciumeni		
+1	Strada	Buclei		
+1	Şoseaua	Bucureşti-Târgovişte		
+1	Bulevardul	Bucureştii-Noi		
+1	Şoseaua	Bucureşti-Ploieşti		
+1	Strada	Bujorului		
+1	Strada	Bumbeşti		
+1	Strada	Buneşti		
+1	Strada	Butuceni		
+1	Intrarea	Buzeşti		
+1	Piaţa	Buzeşti		
+1	Strada	Buzeşti		
+1	Strada	Buziaş		
+1	Strada	Buzoiani Iani		
+1	Strada	C. A. Rosetti		
+1	Strada	C. C. Arion		fost ARIEȘULUI
+1	Intrarea	Căderea Bastiliei		
+1	Strada	Căderea Bastiliei		
+1	Intrarea	Caierului		
+1	Strada	Câineni		
+1	Strada	Căiuţi		
+1	Strada	Calcarului		
+1	Strada	Căldăruşani		
+1	Strada	Cameliei		
+1	Intrarea	Camil Petrescu		
+1	Strada	Câmpiniţa		
+1	Intrarea	Câmpul Cu Maci		
+1	Strada	Câmpul Cu Maci		
+1	Strada	Cântăreţul Macarie		
+1	Strada	Cântarului		
+1	Strada	Cantonului		
+1	Strada	Căpâlna		
+1	Strada	Căpitanul Constantin		
+1	Strada	Căpriorilor		
+1	Strada	Caraiman		
+1	Strada	Caransebeş		
+1	Strada	Cărbunarilor		
+1	Drumul	Carierei		
+1	Intrarea	Carol Knappe		
+1	Strada	Carol Knappe		
+1	Strada	Carol Pop De Szathmáry		
+1	Strada	Carpaţi		
+1	Strada	Carpenului		
+1	Strada	Căruţaşilor		
+1	Strada	Caşin		
+1	Strada	Castanului		
+1	Intrarea	Caşului		
+1	Intrarea	Catedrei		
+1	Drumul	Cavnic		
+1	Strada	Ceasornicului		
+1	Strada	Cecilia Cuţescu Ştorck		
+1	Strada	Cerceilor		
+1	Strada	Ceremuşului		
+1	Strada	Cerneşti		
+1	Strada	Cetatea Neamţului		
+1	Piaţa	Charles De Gaulle		fost AVIATORILOR
+1	Strada	Chile		fost POIANA STAMPEI
+1	Strada	Chişcani		
+1	Strada	Chitila Triaj		
+1	Şoseaua	Chitilei		
+1	Intrarea	Christian Tel		
+1	Strada	Christian Tell	General	fost FUNDAŢIEI
+1	Strada	Ciacova		
+1	Strada	Câmpul Pipera		
+1	Strada	Ciprian Porumbescu		
+1	Intrarea	Cireşoaia		
+1	Strada	Cireşoaia		
+1	Strada	Cisnădie		
+1	Intrarea	Ciucului		
+1	Strada	Ciucuraş		
+1	Strada	Ciulniţa		
+1	Strada	Clăbucet		
+1	Strada	Clopotarii Vechi		
+1	Strada	Clucereasa Elena		
+1	Strada	Clucerului		
+1	Strada	Cluj		
+1	Drumul	Codrii Cosminului		
+1	Drumul	Codrii Vlăsiei		
+1	Intrarea	Cofiţei		
+1	Intrarea	Cojeşti		
+1	Strada	Colecţiei		
+1	Intrarea	Colierului		
+1	Strada	Comana		
+1	Pasajul	Comedia		
+1	Intrarea	Condeiului		
+1	Strada	Constantin Aricescu		
+1	Strada	Constantin Bălăcescu		
+1	Strada	Constantin Bălescu	Amiral	
+1	Strada	Constantin Blaremberg	Colonel	
+1	Strada	Constantin Boghiu	Sergent	
+1	Strada	Constantin Budișteanu	General	
+1	Strada	Constantin Buzdugan	Poet	
+1	Strada	Constantin Caracaş	Doctor	
+1	Strada	Constantin Coandă	General	
+1	Strada	Constantin Cristescu	General	
+1	Strada	Constantin Daniel		fost FILIMON SÂRBU
+1	Strada	Constantin Disescu		fost MIDIA
+1	Strada	Constantin Dobrogeanu Gherea		
+1	Strada	Constantin Esarcu		
+1	Strada	Constantin Godeanu	Sublocotenent	
+1	Drumul	Constantin Malamuceanu	General	
+1	Strada	Constantin Mille		
+1	Bulevardul	Constantin Prezan	Mareşal	fost Aleea Trandafirilor
+1	Intrarea	Constantin Rauţchi		
+1	Aleea	Constantin Sandu Aldea		
+1	Strada	Constantin Sandu Aldea		
+1	Intrarea	Constantin Simionescu		
+1	Strada	Constantin Stahi	Pictor	
+1	Strada	Constantinide	General	
+1	Strada	Copilului		
+1	Strada	Copşa Mică		
+1	Strada	Coralilor		
+1	Strada	Cornăţel		
+1	Strada	Corneliu Roman		
+1	Strada	Cornescu		
+1	Strada	Cosmeşti		
+1	Strada	Costache Aristia		
+1	Strada	Costache Marinescu		
+1	Strada	Costache Sibiceanu		
+1	Drumul	Costeşti		
+1	Strada	Coteşti		
+1	Strada	Cotiturii		
+1	Strada	Cotnari		
+1	Strada	Crăciun		
+1	Strada	Craiovei		
+1	Strada	Crângul Cu Arţari		
+1	Strada	Crângului		
+1	Strada	Cretei		fost Intrarea CRETEI
+1	Strada	Cricovului		
+1	Strada	Crinului		
+1	Strada	Crişana		
+1	Drumul	Cristeşti		
+1	Intrarea	Cristian Popişteanu		
+1	Strada	Cristianul Mare		
+1	Piaţa	Cristofor Columb		
+1	Strada	Cristofor Columb		
+1	Strada	Criveşti		
+1	Strada	Cronicarilor		
+1	Strada	Cruşovăţ		
+1	Intrarea	Cupşani		
+1	Strada	Curtişoara		
+1	Bulevardul	Dacia		
+1	Intrarea	Dacilor		
+1	Strada	Dăeni		
+1	Strada	Dakar		
+1	Intrarea	Dan Augustin		
+1	Intrarea	Dan Vodă		
+1	Strada	Daniel C. Rosenthal	Pictor	
+1	Strada	Daniel Ciugureanu		fost COMUNA DIN PARIS
+1	Strada	Daniel Danielopolu		
+1	Strada	Dante Alighieri		
+1	Strada	Dărmăneşti		
+1	Strada	Dârza		
+1	Strada	David Emmanuel		
+1	Intrarea	David Ionescu	Caporal	
+1	Strada	Dealul Negru		
+1	Strada	Dej		
+1	Strada	Delta Dunării		
+1	Strada	Dem. I. Dobrescu		fost ONEŞTI
+1	Strada	Demnităţii		
+1	Strada	Diaconu Coresi		
+1	Intrarea	Difuzorului		
+1	Strada	Dima Dumitru	Soldat	
+1	Strada	Dimitrie Giurescu	Maior	
+1	Strada	Dimitrie Gusti		fost BURUIANĂ GHEORGHE Cpt.
+1	Şoseaua	Dimitrievici Pavel Kiseleff		
+1	Bulevardul	Dinicu Golescu		
+1	Strada	Diocheţi		
+1	Strada	Dionisie Fotino		
+1	Strada	Dionisie Lupu 		
+1	Strada	Dirijorului		
+1	Strada	Doamna Despina		
+1	Strada	Doamna Stanca		
+1	Strada	Dobrogei		
+1	Strada	Docenţilor		
+1	Strada	Documentului		
+1	Strada	Dolomitului		
+1	Strada	Domniţa Ancuţa		
+1	Strada	Dornei		
+1	Piaţa	Dorobanţi		
+1	Calea	Dorobanţilor		
+1	Intrarea	Dragomirna		
+1	Strada	Dragoslavele		
+1	Intrarea	Dridu		
+1	Strada	Dridu		
+1	Strada	Duetului		
+1	Strada	Duiliu Zamfirescu		
+1	Strada	Duioşiei		
+1	Strada	Dumitru Darian	Locotenent	
+1	Strada	Dumitru Florescu		
+1	Intrarea	Dumitru Lemnea	Locotenent	
+1	Strada	Dumitru M. Hubert	Căpitan	
+1	Strada	Dumitru Răducu Durbac	Locotenent Colonel	fost POJORATA
+1	Strada	Dumitru Sergiu	Doctor	
+1	Strada	Dumitru Zosimma		
+1	Strada	Dunăceşti		
+1	Strada	Dunei		
+1	Strada	Durău		
+1	Intrarea	Ecaterina Teodoroiu		
+1	Strada	Ecaterina Teodoroiu		
+1	Strada	Echipajului		
+1	Strada	Ecluzei		
+1	Strada	Edgar Quinet		
+1	Strada	Elanului		
+1	Strada	Elena Caragiani		fost MOECIU Secţiune
+1	Strada	Elena Doamna		
+1	Strada	Elena Pleşoianu		
+1	Strada	Elena Văcărescu		fost Şoseaua NORDULUI Secţiune
+1	Strada	Eliberării		
+1	Strada	Elie Carafoli		fost PENTELEU
+1	Intrarea	Eliza Zamfirescu Leonida		fost IONESCU NICOLAE prof.
+1	Strada	Elizeu		
+1	Strada	Elocinţei		
+1	Strada	Emanoil Ionescu		fost TAMPONULUI
+1	Strada	Emanoil Porumbaru		fost CÂMPIA TURZII
+1	Strada	Emil Balaban	Inginer	fost CORTULUI
+1	Piaţa	Emil Cioran		
+1	Piaţa	Enescu George		
+1	Strada	Episcop Vulcan		fost GURA HUMORULUI
+1	Strada	Episcopiei		fost ATENEULUI
+1	Strada	Episcopul Timuş		fost CARPINIS
+1	Intrarea	Epistolei		
+1	Intrarea	Epocii		
+1	Strada	Epureşti		
+1	Strada	Eremia Grigorescu	General	
+1	Strada	Ermil Pangrati	Inginer	
+1	Strada	Ernest Broşteanu	General	
+1	Strada	Ştefan Magheri	Erou	
+1	Strada	Eugen Barbu		
+1	Drumul	Eugen Brote		
+1	Piaţa	Eugen Ionesco		
+1	Strada	Eugen Lovinescu		fost VIDELE
+1	Bulevardul	Expoziţiei		
+1	Intrarea	Ezăreni		
+1	Strada	Fabrica De Cărămidă		
+1	Intrarea	Fabulistului		
+1	Strada	Făgăraş		
+1	Strada	Fagului		
+1	Strada	Fanionului		
+1	Aleea	Făurei		
+1	Strada	Făurei		
+1	Strada	Feldioara		
+1	Strada	Feleacu		
+1	Strada	Feroviarilor		
+1	Bulevardul	Ficusului		
+1	Intrarea	Filioara		
+1	Strada	Finlanda		
+1	Strada	Fiordului		
+1	Strada	Floare De Crâng		
+1	Calea	Floreasca		
+1	Strada	Florilor		fost SIBIU
+1	Strada	Florin Nicolae Creţu	Căpitan	fost CÂMPINEANU ION
+1	Strada	Fluviului		
+1	Strada	Fortunei		
+1	Intrarea	Fosforului		
+1	Strada	Francis Munteanu		
+1	Strada	Frasinului		
+1	Strada	Fraţii Golescu		
+1	Strada	Frezorilor		
+1	Intrarea	Frumoasă		
+1	Strada	Frumoasă		
+1	Strada	Fruntaşului		
+1	Strada	Fuică Vasile	Locotenent Aviator	
+1	Intrarea	Fulgerului		
+1	Intrarea	Gădinţi		
+1	Strada	Gala Galaction		
+1	Strada	Găliceni		
+1	Strada	Galileea		
+1	Piaţa	Gara Băneasa		
+1	Drumul	Gării		
+1	Piaţa	Gării De Nord		
+1	Strada	Gării De Nord		
+1	Strada	Gârlei		
+1	Strada	Garofiţei		
+1	Intrarea	Găvana		
+1	Strada	Gavril Musicescu		
+1	Strada	Gemeni		
+1	Intrarea	Geneva		
+1	Strada	George Călinescu		
+1	Bulevardul	George Constantin		
+1	Strada	George Enescu		fost COSMONAUŢILOR
+1	Strada	George Oprescu		
+1	Strada	George Timica		
+1	Strada	George Valentin Bibescu		fost ALBOTEI
+1	Strada	George Vraca		fost CONSTANTINESCU ALECU
+1	Strada	Georges Clemenceau		fost PERY GABRIEL
+1	Strada	Gheorghe Anghel	Sergent	
+1	Strada	Gheorghe Balş	Inginer	
+1	Strada	Gheorghe Bariţiu		
+1	Strada	Gheorghe Brătianu		fost DANICENI
+1	Intrarea	Gheorghe Buciumat	Soldat	
+1	Strada	Gheorghe Buciumat	Soldat	
+1	Strada	Gheorghe Calpan	Caporal	
+1	Strada	Gheorghe Demetriade	Căpitan	
+1	Bulevardul	Gheorghe Duca	Inginer	
+1	Strada	Gheorghe Iacobini	Colonel	
+1	Şoseaua	Gheorghe Ionescu-Siseşti		fost STRĂULEŞTI
+1	Strada	Gheorghe Lazăr		
+1	Bulevardul	Gheorghe Magheru	General	
+1	Strada	Gheorghe Manu		fost LEMNEA DUMITRU Lt.
+1	Strada	Gheorghe Mărăşoiu	Căpitan	
+1	Strada	Gheorghe Missail		
+1	Strada	Gheorghe Moceanu		
+1	Drumul	Gheorghe Negrescu	General	
+1	Strada	Gheorghe Polizu		
+1	Strada	Gheorghe Pripu	Soldat	
+1	Strada	Gheorghe Şonţu	Maior	
+1	Aleea	Gheorghe Stâlpeanu	Locotenent	
+1	Strada	Gheorghe Stâlpeanu	Locotenent Aviator	
+1	Strada	Gheorghe Ştefan		
+1	Intrarea	Gheorghe Vâlceanu		
+1	Bulevardul	Gherasim Constantinescu		
+1	Strada	Gheţarilor		
+1	Strada	Ghiozdanului		
+1	Strada	Gina Patrichi		
+1	Strada	Glastrei		
+1	Intrarea	Gliei		
+1	Bulevardul	Gloriei		
+1	Strada	Godeni		
+1	Strada	Goloviţa		
+1	Strada	Gorunului		
+1	Strada	Graţioasa		
+1	Strada	Grăuntelui		
+1	Intrarea	Grigore Alexandrescu		
+1	Strada	Grigore Alexandrescu	Poet	
+1	Intrarea	Grigore Cantilli	General	
+1	Strada	Grigore Cerchez		
+1	Strada	Grigore Cobălcescu	Profesor	
+1	Strada	Grigore Gafencu		
+1	Strada	Grigore Manolescu		
+1	Strada	Grigore Mora	Doctor	
+1	Strada	Grigore Niculae	Aviator	
+1	Strada	Grigore Răducanu	Soldat	
+1	Calea	Griviţei		
+1	Intrarea	Griviţei		
+1	Strada	Grohotişului		
+1	Strada	Guatemala		
+1	Intrarea	Gyorgy Kovacs		
+1	Strada	Haga		
+1	Strada	Hagi Ghiţă		
+1	Strada	Hagi Moscu Maria		
+1	Strada	Halta Griviţa		
+1	Strada	Haltei		
+1	Piaţa	Haralambie Botescu		fost MATACHE-ILIE PINTILIE
+1	Strada	Harghita		
+1	Strada	Hariclea Darclée		
+1	Strada	Hatmanul Arbore		
+1	Aleea	Havana		
+1	Strada	Heleşteului		
+1	Strada	Heliului		
+1	Strada	Henri Coandă		fost I. C. FRIMU
+1	Strada	Henri Mathias Berthelot	General	fost NUFERILOR
+1	Strada	Herăstrău		
+1	Strada	Hermann Oberth		fost COSMOSULUI
+1	Strada	Herminei		
+1	Drumul	Homorod		
+1	Strada	Horaţiu		
+1	Strada	Horia Măcelariu		fost GURA MOTRULUI
+1	Piaţa	Horticultorilor		
+1	Strada	Hotin		fost ROAITĂ VASILE
+1	Aleea	Hrisovului		
+1	Strada	Hrisovului		
+1	Drumul	Hulubeşti		
+1	Strada	Hulubiţei		
+1	Strada	I. P. Pavlov		
+1	Intrarea	I. V. Miciurin		
+1	Intrarea	Iacob Felix	Doctor	
+1	Strada	Iacob Felix	Doctor	
+1	Strada	Iacob Negruzzi		
+1	Strada	Ialomicioarei		
+1	Bulevardul	Iancu De Hunedoara		fost ILIE PINTILIE
+1	Strada	Icar		
+1	Strada	Ienupărului		
+1	Intrarea	Ierbarului		
+1	Strada	Iezeru		
+1	Intrarea	Ilinca Marin	Căpitan	
+1	Splaiul	Independenţei		
+1	Strada	Înfrăţirii		
+1	Strada	Inovatorilor		
+1	Strada	Institutul Medico-Militar		
+1	Strada	Insulei		
+1	Strada	Ioan Bianu		fost FAGOTULUI
+1	Strada	Ioan Caragea Vodă		
+1	Intrarea	Ioan D. Dobre	Soldat	
+1	Strada	Ioan Slavici		
+1	Intrarea	Ion Băieşu		
+1	Strada	Ion Bogdan	Profesor	
+1	Strada	Ion Brezoianu		
+1	Strada	Ion Câmpineanu		fost 13 DECEMBRIE
+1	Strada	Ion Cantacuzino	Profesor Doctor	
+1	Strada	Ion Inculeţ		fost KIEV
+1	Bulevardul	Ion Ionescu De La Brad		
+1	Piaţa	Ion Maier		
+1	Strada	Ion Mărăşescu	Locotenent Aviator	
+1	Bulevardul	Ion Mihalache		fost 1 MAI
+1	Strada	Ion Mincu	Arhitect	
+1	Strada	Ion Neculce		
+1	Strada	Ion Negulici	Pictor	
+1	Strada	Ion Oteteleşanu		
+1	Strada	Ion Slătineanu		
+1	Intrarea	Ion Talianu		
+1	Strada	Ion Zalomit		
+1	Calea	Ion Zăvoi		
+1	Strada	Ionel Fernic		fost FERMEI
+1	Strada	Ionel Jianou		
+1	Strada	Ionel Jianu		
+1	Strada	Ionel Perlea		fost AURORA
+1	Strada	Iordache Golescu		
+1	Strada	Iordan Dumitru		
+1	Strada	Iosif Iser	Pictor	
+1	Piaţa	Iosif Sava		
+1	Strada	Ireşti		
+1	Strada	Islaz		
+1	Intrarea	Iulia Haşdeu		
+1	Strada	Iulia Haşdeu		
+1	Bulevardul	Iulian Mihu		
+1	Strada	Iulian Ştefan		
+1	Strada	Iuliu Tetrat	Locotenent Aviator	
+1	Strada	Ivanovici D. Mendeleev		
+1	Strada	Izbândei		
+1	Strada	Izbiceni		
+1	Strada	Jandarmeriei		fost Şoseaua PRISLOP
+1	Strada	Jean Georgescu		fost MINISTERULUI
+1	Strada	Jean Monnet		fost GRĂDINA BORDEI
+1	Strada	Jean Texier		
+1	Intrarea	Jijia		
+1	Strada	Jimbolia		
+1	Strada	Jitia		
+1	Strada	Jiului		
+1	Strada	Johannes Honterus		fost ACCELERATULUI
+1	Strada	Jora Mihail		
+1	Intrarea	Josef Pilsudski		fost POLONĂ
+1	Strada	Jugăstrului		
+1	Intrarea	Jugului		
+1	Strada	Jules Michelet		
+1	Intrarea	Lacul Razelm		
+1	Intrarea	Lacul Roşu		
+1	Intrarea	Lacul Sărat		
+1	Intrarea	Lacul Suhaia		
+1	Strada	Lăculeţ		
+1	Aleea	Lagos		
+1	Strada	Lainici		
+1	Strada	Lămâiului		
+1	Bulevardul	Laminorului		
+1	Drumul	Lăpuş		
+1	Strada	Lascăr Buruiană		
+1	Bulevardul	Lascăr Catargiu		fost ANA IPĂTESCU
+1	Strada	Lăstărişului		
+1	Strada	Lăutei		
+1	Strada	Leagănului		
+1	Strada	Leandrului		
+1	Strada	Lebedei		
+1	Strada	Lectorului		
+1	Strada	Lemnarilor		
+1	Strada	Leonida Varnali	Doctor	
+1	Strada	Leordina		
+1	Strada	Lev Nicolaevici Tolstoi		
+1	Strada	Libelulei		
+1	Strada	Liliacului		
+1	Aleea	Lima		
+1	Strada	Limanului		
+1	Strada	Limpejoarei		
+1	Strada	Liniştei		
+1	Strada	Lipova		
+1	Strada	Lisabona		
+1	Strada	Liţa		
+1	Intrarea	Liteni		
+1	Bulevardul	Liviu Librescu	Doctor	fost NECULAI STAMATIN-Secţiune
+1	Strada	Londra		
+1	Strada	Lonea		
+1	Strada	Lotru		
+1	Strada	Louis Blank	Arhitect	
+1	Strada	Luduş		
+1	Strada	Lugoj		fost TURDA
+1	Intrarea	Luigi Cazzavillan		
+1	Strada	Luigi Cazzavillan		
+1	Intrarea	Luncani		
+1	Bulevardul	Luptătorilor		
+1	Strada	Luterană		
+1	Strada	Macedonia		
+1	Strada	Macul Roşu		
+1	Strada	Macului		
+1	Strada	Madrid		
+1	Strada	Madrigalului		
+1	Intrarea	Măgireşti		
+1	Strada	Măgura Florilor		
+1	Strada	Măgura Odobeşti		
+1	Strada	Măgura Slătioarei		
+1	Strada	Măguricea		
+1	Intrarea	Măguricea Nouă		
+1	Strada	Mahatma Gandhi		fost MILITARU GHEORGHE
+1	Strada	Maica Alexandra		fost MUSOIU PANAIT
+1	Strada	Maica Teofana		
+1	Strada	Măicăneşti		
+1	Pasajul	Majestic		
+1	Strada	Maltopol		fost DREAPTĂ
+1	Strada	Malul Mare		
+1	Strada	Malul Mic		
+1	Strada	Mamaia		
+1	Strada	Managua		
+1	Intrarea	Mânăstirea Bistriţa		
+1	Strada	Mânăstirea Dealului		
+1	Strada	Mânăstirea Horezu		
+1	Strada	Mânăstirea Neamţ		
+1	Strada	Mânăstirea Putna		
+1	Intrarea	Mandolinei		
+1	Strada	Manole Marcus		
+1	Intrarea	Manuscrisului		
+1	Strada	Mânzului		
+1	Strada	Maramureş		
+1	Bulevardul	Mărăşti		
+1	Intrarea	Marcel Andreescu	Locotenent Aviator	
+1	Bulevardul	Alexandru Averescu	Mareşal	fost MICIURIN V. I.
+1	Strada	Marginei		
+1	Drumul	Marin Drăcea		
+1	Strada	Marin Popa	Aviator	
+1	Strada	Marinarilor		
+1	Strada	Marmurei		
+1	Strada	Mârşa		
+1	Strada	Măslinului		
+1	Intrarea	Matei Corvin		
+1	Strada	Matei Corvin		
+1	Strada	Matei Millo		
+1	Aleea	Mateloţilor		
+1	Strada	Maxim Gorki		
+1	Strada	Medelnicerului		
+1	Strada	Mediaş		
+1	Strada	Meditaţiei		
+1	Strada	Medreşti		
+1	Strada	Menuetului		
+1	Strada	Mesteacănului		
+1	Aleea	Meteorologiei		
+1	Strada	Mexic		
+1	Strada	Mezeş		
+1	Strada	Miercani		
+1	Strada	Mihai Crăciun		
+1	Strada	Mihai Levente		
+1	Intrarea	Mihai Mereuţă		
+1	Strada	Mihai Viteazu		
+1	Strada	Mihail Eminescu		
+1	Strada	Mihail Moxa		
+1	Strada	Mihăileni		
+1	Bulevardul	Mihalache Ion		fost 1 MAI
+1	Strada	Mihalache Raiciu		
+1	Strada	Milcov		
+1	Strada	Mimozei		
+1	Strada	Minervei		
+1	Bulevardul	Mircea Eliade		fost KALININ IVANOVICI MIHAIL
+1	Strada	Mircea Petre	Căpitan	
+1	Intrarea	Mircea Şeptilici		
+1	Bulevardul	Mircea Veroiu		
+1	Strada	Mircea Vulcănescu		fost FURTUNĂ ŞTEFAN
+1	Strada	Mircea Zorileanu	Aviator	
+1	Strada	Mirceşti		
+1	Strada	Mirea G. Demetrescu	Pictor	
+1	Strada	Miron Costin		
+1	Strada	Miruţei		
+1	Strada	Andrei Şaguna	Mitropolit	
+1	Strada	Varlaam	Mitropolit	
+1	Strada	Mlădiţei		
+1	Strada	Modestiei		
+1	Strada	Modrogan		fost GHEORGHIU ŞTEFAN
+1	Intrarea	Moeciu		
+1	Strada	Moeciu		
+1	Intrarea	Moigrad		
+1	Strada	Moldovei		
+1	Strada	Moliere		
+1	Intrarea	Moneasa		fost ORIZONTULUI
+1	Strada	Monetăriei		
+1	Piaţa	Montreal		
+1	Drumul	Movileni		
+1	Intrarea	Moviliţei		
+1	Strada	Moviliţei		
+1	Drumul	Muntele Găina		
+1	Strada	Munteniei		
+1	Intrarea	Munţii Gutinului		
+1	Intrarea	Munţii Măcinului		
+1	Strada	Munţii Tatra		fost DRAGOSLAVELE
+1	Strada	Mureş		
+1	Strada	Murfatlar		
+1	Intrarea	Murmurului		
+1	Strada	Muşeteşti		
+1	Piaţa	Muzeul Doctor-Minovici		
+1	Strada	Muzeul Zambaccian		
+1	Strada	Muzicuţei		
+1	Intrarea	Nadeş		
+1	Strada	Nadeş		
+1	Drumul	Nădlac		
+1	Strada	Nămăeşti		
+1	Strada	Napoca		
+1	Piaţa	Napoleon Iii		
+1	Strada	Nataţiei		
+1	Strada	Naturaliştilor		
+1	Strada	Naum Râmniceanu		
+1	Strada	Navigaţiei		
+1	Intrarea	Navigatorilor		
+1	Strada	Năvodari		
+1	Strada	Nazarcea		
+1	Strada	Neagoe Vodă		
+1	Strada	Neajlovului		
+1	Strada	Neamului		
+1	Intrarea	Neatârnării		
+1	Strada	Neatârnării		
+1	Bulevardul	Neculai Stamatin		
+1	Strada	Niagara		
+1	Bulevardul	Nicolae Bălcescu		
+1	Strada	Nicolae Beldiceanu		
+1	Strada	Nicolae Coculescu		fost VALSANULUI
+1	Strada	Nicolae Constantinescu		
+1	Strada	Nicolae Costinescu	Inginer	
+1	Strada	Nicolae Creţulescu		
+1	Strada	Nicolae Dona	General	
+1	Bulevardul	Nicolae Filip		
+1	Strada	Nicolae G. Caramfil		fost ŞCOALA HERĂSTRĂU
+1	Intrarea	Nicolae Girardi		
+1	Strada	Nicolae Giuleşteanu		
+1	Strada	Nicolae Golescu		
+1	Intrarea	Nicolae Iorga		
+1	Strada	Nicolae Iorga		
+1	Strada	Nicolae Nicoleanu	Poet	
+1	Strada	Nicolae Racotă		
+1	Drumul	Nicolae Şuţu		
+1	Şoseaua	Nicolae Titulescu		
+1	Intrarea	Nicoreşti		
+1	Intrarea	Niculae Dascălu	Sergent	
+1	Strada	Niculae Drossu	Căpitan Aviator	
+1	Strada	Niculae Ionescu	Profesor	
+1	Strada	Niculae Minovici	Doctor	
+1	Strada	Niculae Velescu		
+1	Strada	Niculaie Capşa	Maior Aviator	
+1	Strada	Niculescu Cucu Starostescu	Inginer	
+1	Strada	Nikolai Gogol		
+1	Intrarea	Niky Atanasiu		
+1	Strada	Nisipari		
+1	Drumul	Nisipoasa		
+1	Intrarea	Nopţii		
+1	Şoseaua	Nordului		
+1	Strada	Nuferilor		
+1	Strada	Nuvelei		
+1	Bulevardul	Oaspeţilor		
+1	Strada	Oastei		
+1	Strada	Oaşului		
+1	Strada	Occidentului		
+1	Strada	Ocheanului		
+1	Strada	Ocna Mureş		
+1	Strada	Ocna Sibiului		
+1	Strada	Octav Cocărăscu	Căpitan	
+1	Strada	Octavian Moraru		
+1	Şoseaua	Odăi		
+1	Drumul	Ohaba		
+1	Strada	Oinei		
+1	Strada	Olteniei		
+1	Strada	Omului		
+1	Drumul	Opalului		
+1	Şoseaua	Orhideelor		
+1	Strada	Orlando		
+1	Strada	Oslo		
+1	Strada	Ostaşilor		
+1	Strada	Padina		
+1	Drumul	Pădurea Ciolpani		
+1	Drumul	Pădurea Mogoşoaia		
+1	Drumul	Pădurea Neagră		
+1	Drumul	Pădurea Pustnicul		
+1	Strada	Pădurii		
+1	Strada	Paharnicului		
+1	Aleea	Pajurei		
+1	Strada	Pajurei		
+1	Strada	Palisandrului		
+1	Strada	Pană Buescu		
+1	Strada	Panait Istrati		fost DAVID CONSTANTIN-TICA
+1	Aleea	Panama		
+1	Strada	Panciu		
+1	Strada	Pandele Ţăruşeanu	Inginer	
+1	Aleea	Păpuşa		
+1	Strada	Parângului		
+1	Strada	Parapetului		
+1	Strada	Paraschiva Gherghel		
+1	Strada	Pârâul Rece		
+1	Strada	Parcului		
+1	Strada	Paris		
+1	Strada	Pătulea	Inginer	
+1	Strada	Paul Ionescu	Locotenent Colonel	
+1	Bulevardul	Paul Riegler		
+1	Strada	Păunilor		
+1	Intrarea	Pecetei		
+1	Strada	Pechea		
+1	Strada	Peluzei		
+1	Strada	Perfecţionării		
+1	Strada	Petöfi Sándor		
+1	Strada	Petre Comărnescu		
+1	Strada	Petre Creţu	Maior	
+1	Strada	Petre S. Aurelian		
+1	Bulevardul	Petrila		
+1	Strada	Petru	Maior	
+1	Strada	Petru Poni		
+1	Strada	Petru Rareş		
+1	Strada	Petru Şi Pavel		
+1	Strada	Piatra Ceţei		
+1	Strada	Piatra Morii		
+1	Strada	Piculinei		
+1	Strada	Pieţei		
+1	Strada	Pietroşiţa		
+1	Strada	Pinului		
+1	Şoseaua	Pipera		
+1	Drumul	Piscu Cerbului		
+1	Drumul	Piscu Enei		
+1	Drumul	Piscu Lung		
+1	Drumul	Piscu Mare		
+1	Drumul	Piscu Moşului		
+1	Drumul	Piscu Muntelui		
+1	Drumul	Piscu Nou		
+1	Drumul	Piscu Pietrei		
+1	Drumul	Piscu Radului		
+1	Drumul	Piscu Reghiului		
+1	Drumul	Piscu Sadovului		
+1	Drumul	Piscu Scoarţei		
+1	Drumul	Piscu Vechi		
+1	Drumul	Piscul Rusului		
+1	Drumul	Piscul Sadului		
+1	Drumul	Piscul Stejarului		
+1	Strada	Pisoni	Inginer	
+1	Strada	Pitar Moş		
+1	Strada	Pitarul Hristache		
+1	Strada	Pivnicierului		
+1	Drumul	Plaiu Câmpinei		
+1	Drumul	Plaiu Cornului		
+1	Drumul	Plaiu Nucului		
+1	Drumul	Plaiu Sarului		
+1	Strada	Plaiul Muntelui		
+1	Strada	Plaurului		
+1	Strada	Plaviei		
+1	Calea	Plevnei		
+1	Strada	Plopului		
+1	Strada	Plutaşilor		
+1	Strada	Podgoria		
+1	Strada	Podului		
+1	Strada	Poemului		
+1	Strada	Poetului		
+1	Intrarea	Poiana		
+1	Drumul	Poiana Ampoiului		
+1	Strada	Poiana Codrului		
+1	Drumul	Poiana Fagului		
+1	Drumul	Poiana Horea		
+1	Drumul	Poiana Ilvei		
+1	Drumul	Poiana Largului		
+1	Drumul	Poiana Măgura		
+1	Drumul	Poiana Mierlei		
+1	Strada	Poiana Narciselor		
+1	Drumul	Poiana Pietrei		
+1	Drumul	Poiana Sărată		
+1	Drumul	Poiana Ţapului		
+1	Drumul	Poiana Trestiei		
+1	Strada	Poiana Ursului		
+1	Drumul	Poiana Târnavei		
+1	Bulevardul	Poligrafiei		
+1	Strada	Polonă		
+1	Strada	Pompiliu Eliade		
+1	Drumul	Ponoarele		
+1	Intrarea	Ponorului		
+1	Strada	Popa Savu		
+1	Strada	Popa Tatu		
+1	Strada	Popasului		
+1	Strada	Popişteanu	Aviator	
+1	Strada	Postelnicului		
+1	Strada	Povernei		
+1	Strada	Praga		
+1	Strada	Prahova		
+1	Intrarea	Preajba		
+1	Intrarea	Presei		
+1	Piaţa	Presei Libere		fost SCÂNTEII
+1	Bulevardul	Primăverii		
+1	Aleea	Primo Nebiolo	Doctor	fost STRANDULUI
+1	Aleea	Priporului		
+1	Aleea	Privighetorilor		
+1	Strada	Producţiei		
+1	Strada	Proiectată		
+1	Strada	Proletarului		
+1	Strada	Prometeu		
+1	Strada	Promoroacă		
+1	Strada	Propăşirii		
+1	Strada	Prunaru		
+1	Strada	Puşcașului		
+1	Strada	Puşkin Alexandru		
+1	Strada	Puţul Cu Plopi		
+1	Strada	Puţul De Piatră		
+1	Strada	Puţul Lui Crăciun		
+1	Strada	Puţul Lui Zamfir		
+1	Piaţa	Quito		
+1	Strada	Rabat		
+1	Strada	Racordării		
+1	Strada	Radu Beller	Locotenent Aviator	
+1	Strada	Radu Boiangiu		
+1	Strada	Radu Dragoş	Căpitan	fost MANUSCRISULUI
+1	Strada	Radu Greceanu		
+1	Strada	Radu Popescu		
+1	Calea	Radu Vlădescu		
+1	Strada	Rămurele		
+1	Intrarea	Răsadului		
+1	Intrarea	Răşchiţa		
+1	Strada	Raţiu	Doctor	
+1	Strada	Razelor		
+1	Intrarea	Răzeşu		
+1	Strada	Recea		
+1	Strada	Redea		
+1	Intrarea	Redişoara		
+1	Drumul	Regimentului		
+1	Strada	Renaşterii		
+1	Strada	Retortei		
+1	Piaţa	Revoluţiei		fost GHEORGHIU DEJ
+1	Intrarea	Rigas		
+1	Strada	Robăneşti		
+1	Strada	Rocadei		
+1	Strada	Rodului		
+1	Intrarea	Roma		
+1	Strada	Roma		
+1	Piaţa	Romană		
+1	Intrarea	Româneşti		
+1	Strada	Romeo Popescu	Aviator	
+1	Strada	Rotaşului		
+1	Strada	Rucăr		
+1	Intrarea	Ruginita		
+1	Intrarea	Ruguleţ		
+1	Strada	Ruşcova		
+1	Strada	Săcele		
+1	Intrarea	Sagna		
+1	Strada	Sălăjeni		
+1	Strada	Salatruc		
+1	Strada	Sălcuţei		
+1	Strada	Salubrităţii		
+1	Strada	Salva		
+1	Strada	Samuil Micu Clain		
+1	Strada	Sângerului		
+1	Strada	Santiago		
+1	Intrarea	Şantierului		fost Aleea DRAGOSLAVELE
+1	Strada	Şaradei		
+1	Strada	Sarandy Frosa		
+1	Drumul	Sărmaş		
+1	Strada	Sava Henţia	Pictor	
+1	Strada	Săvârşin		
+1	Strada	Săveni		
+1	Strada	Scărişoara		
+1	Strada	Scărlătescu		
+1	Bulevardul	Schitul Măgureanu		
+1	Strada	Şcoala Floreasca		
+1	Strada	Şcoala Herăstrău		fost Intrarea ŞCOALA HERĂSTRĂU
+1	Aleea	Scroviştea		
+1	Strada	Semicercului		
+1	Strada	Şerban Nicolae		
+1	Strada	Şerban Petrescu	Locotenent Aviator	
+1	Intrarea	Serdarului		
+1	Strada	Serdarului		
+1	Intrarea	Setrarului		
+1	Intrarea	Sevastopol		
+1	Strada	Sevastopol		
+1	Strada	Sfântul Constantin		fost CĂLIMĂNEŞTI
+1	Parcul	Sfânta Maria		
+1	Strada	Sfânta Maria		fost ROMÂNIA MUNCITOARE
+1	Strada	Sfântul Gheorghe		
+1	Intrarea	Sfântul Sava		
+1	Intrarea	Sfatului		
+1	Strada	Sfinţii Constantin Şi Elena		
+1	Piaţa	Sfinţii Voievozi		fost Piaţa VOIEVOZILOR
+1	Strada	Sfinţii Voievozi		fost VOIEVOZILOR
+1	Intrarea	Sibioara		
+1	Strada	Simeria		
+1	Strada	Simion Bărnuţiu		
+1	Intrarea	Simionescu Gheorghe		
+1	Strada	Simon Bolivar		
+1	Strada	Şinca		
+1	Strada	Şipotul Fântânilor		
+1	Strada	Siret		
+1	Strada	Siriului		
+1	Intrarea	Slătiniţa		
+1	Strada	Slăveşti		
+1	Strada	Smaranda Brăescu		fost ZĂGAZULUI Secţiune
+1	Strada	Smochinului		
+1	Aleea	Snagov		
+1	Strada	Sofia		
+1	Strada	Şoimăreştilor		fost ECLESIARHULUI
+1	Strada	Şoimului		
+1	Drumul	Soldaţilor		
+1	Intrarea	Solzilor		
+1	Aleea	Someşul Rece		
+1	Strada	Someşul Rece		
+1	Strada	Someşului		
+1	Strada	Soveja		
+1	Strada	Spicului		
+1	Strada	Spiru Haret		
+1	Strada	Stamatescu Grigore	Locotenent	
+1	Strada	Stănileşti		
+1	Strada	Stanislav Cihoschi		
+1	Intrarea	Ştefan Bănică Sr.		
+1	Intrarea	Ştefan Burcuş	Arhitect	
+1	Strada	Ştefan Burcuş	Arhitect	
+1	Strada	Ştefan Burileanu	General	fost LILIACULUI
+1	Şoseaua	Ştefan Cel Mare		
+1	Intrarea	Ştefan Furtună		
+1	Strada	Ştefan Holban	General	
+1	Strada	Ştefan Negulescu		
+1	Strada	Ştefan Protopopescu		
+1	Strada	Ştefan Sănătescu	Maior Aviator	
+1	Strada	Ştefan Stoika	Colonel	
+1	Drumul	Stegarului		
+1	Intrarea	Stegarului		
+1	Strada	Steluţei		
+1	Strada	Stephan Ludwig Roth		fost EXPRESULUI
+1	Strada	Stere Constantin		fost PETRE GHEORGHE
+1	Intrarea	Sterie Radu		
+1	Strada	Stindardului		
+1	Intrarea	Ştirbei Vodă		
+1	Strada	Ştirbei Vodă		
+1	Strada	Stockholm		
+1	Strada	Stoica Ludescu		
+1	Intrarea	Stolnicului		
+1	Strada	Stolnicului		
+1	Strada	Străbună		
+1	Intrarea	Străuleşti		
+1	Şoseaua	Străuleşti		
+1	Strada	Studina		
+1	Strada	Subcetate		
+1	Strada	Surorilor		
+1	Strada	Şuşiţa		
+1	Intrarea	Sutaşului		
+1	Strada	Sutaşului		
+1	Strada	Tăbliţei		
+1	Strada	Tache D. Ionescu		fost BELOIANIS NIKOS
+1	Intrarea	Tarafului		
+1	Strada	Ţărmului		
+1	Strada	Târnava		
+1	Strada	Târnăveni		
+1	Strada	Teheran		
+1	Aleea	Teişani		
+1	Strada	Telega		
+1	Strada	Telescopului		
+1	Intrarea	Temişana		
+1	Strada	Temişana		
+1	Intrarea	Teodor Iliescu	Aviator	
+1	Strada	Teodor Martin		
+1	Strada	Teodor Neagoe	Sublocotenent Post Mortem	fost PARÂMEI
+1	Bulevardul	Teodor Saidel		
+1	Strada	Teodosie Rudeanu		
+1	Strada	Theodor Aman	Pictor	
+1	Strada	Theodor Burada		
+1	Strada	Tiberiu Olah		
+1	Strada	Timişului		
+1	Strada	Timotei Cipariu		
+1	Intrarea	Tinereţii		
+1	Strada	Ţintaşului		
+1	Intrarea	Ţintea		
+1	Strada	Tipografilor		
+1	Strada	Tirana		
+1	Strada	Titus Popovici		
+1	Intrarea	Tocului		
+1	Strada	Tokio		
+1	Intrarea	Toma Tomescu	Doctor	
+1	Strada	Topraisar		
+1	Strada	Transilvaniei		
+1	Intrarea	Tribunei		
+1	Piaţa	Tricolorului		
+1	Strada	Trifeşti		
+1	Aleea	Tripoli		
+1	Strada	Triumfului		
+1	Strada	Trotuşului		
+1	Strada	Truşeşti		
+1	Strada	Tuberozelor		
+1	Piaţa	Tudor Muşatescu		
+1	Intrarea	Tudor Stavru		
+1	Intrarea	Tudor Ştefan		
+1	Strada	Tudor Vianu		fost VÂRFUL CU DOR
+1	Strada	Turda		
+1	Strada	Turgheniev Ivan Sergheevici		
+1	Strada	Turnul Chindiei		
+1	Strada	Turnul Roşu		
+1	Intrarea	Undiţei		
+1	Intrarea	Urali		
+1	Strada	Uruguay		fost BRÂNCUŢEI
+1	Strada	Vacanţei		
+1	Intrarea	Vădeni		
+1	Strada	Vadul Moldovei		
+1	Strada	Valea Merilor		
+1	Strada	Valea Morii		
+1	Strada	Vălenii De Munte		
+1	Strada	Valiug		
+1	Strada	Valsului		
+1	Piaţa	Valter Mărăcineanu		
+1	Intrarea	Valului		
+1	Strada	Vânju Mare		
+1	Drumul	Vârful Berivoiul Mare		
+1	Strada	Vârful Înalt		
+1	Intrarea	Vârful Plaiului		
+1	Drumul	Vârful Pleşiţa		
+1	Strada	Varniţa		
+1	Strada	Varşovia		
+1	Strada	Vasile Alecsandri		
+1	Strada	Vasile Dorobanţu	Sergent	
+1	Strada	Vasile Gherghel		
+1	Strada	Vasile Gheţie		
+1	Strada	Vasile Lupu		
+1	Strada	Vasile Mironiuc		
+1	Intrarea	Vasile Niţulescu		
+1	Strada	Vasile Pârvan		
+1	Strada	Vasile Sion	Doctor	
+1	Strada	Vasile Traian		
+1	Strada	Vasile Urseanu	Amiral	
+1	Strada	Venezuela		
+1	Strada	Verbinelor		
+1	Intrarea	Verde		
+1	Intrarea	Veronica Micle		
+1	Strada	Veronica Micle		
+1	Intrarea	Veşniciei		
+1	Strada	Vespasian		
+1	Strada	Vestei		
+1	Strada	Vetrişoara		
+1	Intrarea	Victor Daimaca		fost JUSTIN GEORGESCU
+1	Strada	Victor Daimaca		fost JUSTIN GEORGESCU
+1	Strada	Victor Eftimiu		fost ALEX MARCOVICI
+1	Calea	Victoriei		
+1	Pasajul	Victoriei		
+1	Piaţa	Victoriei		
+1	Strada	Viişoarei		
+1	Strada	Viorel Ciurea		
+1	Strada	Virgil Drăghiceanu		
+1	Strada	Virgil Madgearu		
+1	Strada	Virgil Pleşoianu		
+1	Strada	Virgil Stoianovici	Sublocotenent	
+1	Strada	Virgiliu		
+1	Strada	Visarion		
+1	Strada	Vizantea		
+1	Strada	Vlad Munteanu		
+1	Strada	Volga		
+1	Strada	Volumului		
+1	Strada	Vorniceni		
+1	Strada	Vrancea		
+1	Strada	Washington		fost ROZELOR
+1	Intrarea	Witing		
+1	Strada	Witing		
+1	Intrarea	Zablăului		
+1	Intrarea	Zablovschi	Inginer	
+1	Strada	Zablovschi	Inginer	
+1	Strada	Zăgazului		
+1	Strada	Zaharia	Sublocotenent	
+1	Strada	Zăpada Mieilor		
+1	Strada	Zeletin		
+1	Strada	Zenitului		
+1	Strada	Zilot Românul		
+1	Strada	Zola Emile		fost LOVINESCU EUGEN
+2	Strada	Aaron Florian		
+2	Intrarea	Abanosului		
+2	Intrarea	Afirmării		
+2	Strada	Aghireş		
+2	Intrarea	Agregatelor		
+2	Strada	Agregatelor		
+2	Strada	Agricultori		
+2	Strada	Albatrosului		
+2	Strada	Albeşti		fost Episcop Clement
+2	Intrarea	Albinari		
+2	Strada	Albişoarei		
+2	Strada	Alecu Mateevici		
+2	Strada	Alecu Russo		
+2	Strada	Alexandru Cel Bun		
+2	Strada	Alexandru Donici		
+2	Strada	Alexandru Giugaru		
+2	Strada	Alexandru Ipsilanti		
+2	Strada	Alexandru Paulescu	Locotenent	
+2	Strada	Alexandru Philippilde		
+2	Strada	Alexandru Săvulescu		
+2	Strada	Alexandru Zagoritz		
+2	Intrarea	Algelor		
+2	Strada	Amidonului		
+2	Strada	Ioan Murgescu	Amiral	
+2	Strada	Ancuţa Băneasa		
+2	Intrarea	Andronache		
+2	Şoseaua	Andronache		
+2	Strada	Angrenajului		
+2	Strada	Anton Holban		
+2	Intrarea	Apold		
+2	Strada	Aprodul Purice		
+2	Strada	Arbore Zamfir		
+2	Strada	Arbustului		
+2	Strada	Arcului		
+2	Strada	Ardeleni		
+2	Intrarea	Argeaua		
+2	Aleea	Argedava		
+2	Strada	Argetoaia		
+2	Strada	Hârjeu	Arhitect	
+2	Strada	Arhiereul Calist		
+2	Strada	Aristotel		
+2	Strada	Armand Călinescu		
+2	Strada	Armenească		
+2	Strada	Armoniei		
+2	Strada	Aromei		
+2	Intrarea	Arpaş		
+2	Intrarea	Arsinului		
+2	Strada	Atleţilor		
+2	Strada	Aura Buzescu		
+2	Strada	Aurel Vlaicu		
+2	Strada	Aurului		
+2	Strada	Austrului		
+2	Strada	Avram Iancu		
+2	Aleea	Avrig		
+2	Strada	Avrig		
+2	Strada	Azotului		
+2	Strada	Azuga		
+2	Intrarea	Babadag		
+2	Strada	Badea Cârţan		
+2	Strada	Baia De Aramă		
+2	Strada	Baicului		
+2	Strada	Bâlciului		
+2	Strada	Balotului		
+2	Strada	Balta Frasinului		
+2	Strada	Bălteni		
+2	Strada	Baniţei		
+2	Strada	Banul Costache		
+2	Strada	Banul Dumitrache		
+2	Strada	Banul Nicolae		
+2	Strada	Banul Scarlat		
+2	Strada	Bărbat Voievod		
+2	Strada	Barbu Brădescu		
+2	Strada	Barbu Mumuleanu		
+2	Strada	Barbu Văcărescu		
+2	Intrarea	Baritonului		
+2	Strada	Barometrului		
+2	Strada	Bartok Bela		
+2	Strada	Bârzava		
+2	Bulevardul	Basarabia		
+2	Strada	Bâsca Mare		
+2	Strada	Bâsca Mică		
+2	Strada	Batişte		
+2	Strada	Beirut		fost BUESTRULUI
+2	Strada	Berechet		
+2	Strada	Betonului		
+2	Strada	Bibanului		
+2	Intrarea	Bicaz		
+2	Strada	Biserica Floreasca		
+2	Strada	Biserica Mărcuţa		
+2	Strada	Biserica Pantelimon		
+2	Aleea	Bistricioara		
+2	Strada	Blanduziei		
+2	Intrarea	Bobeica		
+2	Strada	Bocşa		
+2	Strada	Bodeşti		
+2	Strada	Borangicului		
+2	Strada	Borzeşti		
+2	Strada	Bozioru		
+2	Strada	Brădeşti		
+2	Intrarea	Brâna		
+2	Strada	Brâna		
+2	Aleea	Braşoveni		
+2	Strada	Braşoveni		
+2	Strada	Braţului		
+2	Strada	Brebu		
+2	Strada	Brizei		
+2	Intrarea	Brotăceilor		
+2	Strada	Budilă		
+2	Strada	Bujorul Alb		
+2	Aleea	Buridava		
+2	Strada	Busolei		
+2	Strada	Buşteni		
+2	Strada	Buteanu Ion		
+2	Intrarea	Butiei		
+2	Piaţa	C. A. Rosetti		
+2	Strada	C. A. Rosetti		
+2	Strada	Caimatei		
+2	Strada	Calafat		
+2	Intrarea	Călătorului		
+2	Strada	Căliman		
+2	Strada	Călinului		
+2	Intrarea	Calităţii		
+2	Strada	Callimachi		
+2	Strada	Călmăţui		
+2	Intrarea	Căluşei		
+2	Strada	Căluşei		
+2	Strada	Căminul Fundeni Universitar		
+2	Strada	Căminului		
+2	Strada	Câmpul Cu Narcise		
+2	Aleea	Câmpul Moşilor		
+2	Strada	Câmpului		
+2	Intrarea	Cândeşti		
+2	Strada	Cânepei		
+2	Strada	Canotajului		
+2	Strada	Constantin Merişescu	Caporal	
+2	Strada	Gheorghe Gh. Bulugea	Caporal	
+2	Strada	Ion Stângă	Caporal	
+2	Strada	Ion Vasilescu	Caporal	
+2	Strada	Marcu A. Zamfir	Caporal	
+2	Intrarea	Nicolae Cerga	Caporal	
+2	Strada	Petre Ispir	Caporal	
+2	Aleea	Capidava		
+2	Strada	Căpreni		
+2	Strada	Cărăuşilor		
+2	Strada	Carei		
+2	Bulevardul	Carol I		
+2	Strada	Caroteni		
+2	Strada	Casmalei		
+2	Strada	Catrinţei		
+2	Aleea	Cenuşeresei		
+2	Intrarea	Ceptura		
+2	Strada	Ceptura		
+2	Strada	Cercului		
+2	Strada	Cerna		
+2	Strada	Cernăuţi		
+2	Intrarea	Chefalului		
+2	Intrarea	Chintalului		
+2	Strada	Chiriac Bidoianu		
+2	Strada	Chiristigiilor		
+2	Bulevardul	Chişinău		
+2	Strada	Ciberneticii		
+2	Strada	Cimentului		
+2	Strada	Ciobănaşului		
+2	Intrarea	Ciocanului		
+2	Strada	Ciocârliei		
+2	Strada	Ciorchinilor		
+2	Strada	Ciortanului		
+2	Aleea	Circului		
+2	Strada	Cireşului		
+2	Aleea	Cislău		
+2	Strada	Ciulinului		
+2	Strada	Ciurea		
+2	Strada	Claudiu		
+2	Intrarea	Clopoţeilor		
+2	Strada	Clopotiva		
+2	Strada	Clopotului		
+2	Strada	Cloşani		
+2	Strada	Cluceru Sandu		
+2	Strada	Coacăzelor		
+2	Intrarea	Cobiliţei		
+2	Strada	Cocostârcului		
+2	Strada	Codălbiţei		
+2	Aleea	Codlea		
+2	Strada	Coifului		
+2	Şoseaua	Colentina		
+2	Strada	Coloniei		
+2	Intrarea	Colţii Brezei		
+2	Intrarea	Colţii Morarului		
+2	Strada	Eugen Botez	Comandor	
+2	Strada	Comăniţa		
+2	Strada	Comarnic		
+2	Strada	Comisul Buzincă		
+2	Strada	Comoara		
+2	Strada	Competiţiei		
+2	Strada	Constanţa		
+2	Intrarea	Constantin Beiu		
+2	Strada	Constantin Beiu		
+2	Strada	Constantin Georgian		
+2	Strada	Constantin Gheaţă		
+2	Strada	Constantin Kiriţescu		
+2	Strada	Constantin Nacu		
+2	Intrarea	Constantin Stăniloiu		
+2	Strada	Constantin Tănase		
+2	Strada	Corăbeasca		
+2	Strada	Corabia		
+2	Strada	Corbeni		
+2	Strada	Corneliu Botez		
+2	Strada	Cornişei		
+2	Strada	Cornişor		
+2	Strada	Cosminului		
+2	Strada	Costache Conachi		
+2	Strada	Cotmeana		
+2	Aleea	Cozia		
+2	Strada	Gheorghe Roventa	Căpitan	
+2	Strada	Gheorghevici	Căpitan	
+2	Strada	Juverdeanu	Căpitan	
+2	Strada	Paul Urechescu	Căpitan	
+2	Strada	Valer Dumitrescu	Căpitan	
+2	Strada	Crapului		
+2	Strada	Cremeniţa		
+2	Strada	Cristea Mateescu		
+2	Strada	Crişul Negru		
+2	Strada	Cuişoarei		
+2	Strada	Cuiului		
+2	Strada	Culmea Făgăraşului		
+2	Aleea	Cumidava		
+2	Intrarea	Cumpenei		
+2	Strada	Cumpenei		
+2	Strada	Cuparului		
+2	Strada	Cuprului		
+2	Bulevardul	Dacia		
+2	Strada	Dâmbovicioarei		
+2	Strada	Dănuleşti		
+2	Strada	Dascălului		
+2	Intrarea	Debarcaderului		
+2	Strada	Declamării		
+2	Aleea	Deda		
+2	Intrarea	Degetarului		
+2	Strada	Delea Veche		
+2	Aleea	Deleni		
+2	Strada	Delfinului		
+2	Strada	Deliorman		
+2	Intrarea	Depoului		
+2	Strada	Despot Vodă		
+2	Intrarea	Detectorului		
+2	Strada	Deva		
+2	Intrarea	Diacului		
+2	Strada	Dianei		
+2	Aleea	Diham		
+2	Strada	Dimineţii		
+2	Strada	Dimitrie Grozdea		
+2	Strada	Dimitrie Hârlescu		
+2	Strada	Dimitrie Marinescu		
+2	Strada	Dimitrie Onciul		
+2	Strada	Dimitrie Orbescu		
+2	Strada	Dimitrie Paciurea		
+2	Bulevardul	Dimitrie Pompeiu		
+2	Strada	Dimitrie Racoviţă		
+2	Aleea	Dinogeţia		
+2	Strada	Dinu Lipatti		
+2	Strada	Dinu Vintilă		
+2	Strada	Dionisie Lupu		
+2	Intrarea	Diosig		
+2	Aleea	Doamna Ghica		
+2	Strada	Doamna Ghica		
+2	Strada	Doamna Oltea		
+2	Strada	Dobrici		
+2	Aleea	Dobrina		
+2	Şoseaua	Dobroeşti		
+2	Strada	Dobrota		
+2	Strada	Dogarilor		
+2	Intrarea	Domneşti		
+2	Strada	Domniţa Ruxandra		
+2	Strada	Dorin Pavel		
+2	Strada	Burghelea	Doctor	
+2	Strada	Calistrat Grozovici	Doctor	
+2	Strada	Emanoil Bacaloglu	Doctor	
+2	Strada	Russel	Doctor	
+2	Strada	Dragoş Vodă		
+2	Strada	Drăguşin Deleanu		
+2	Strada	Drobeta		
+2	Strada	Dropiei		
+2	Intrarea	Dublei		
+2	Strada	Dumbrava Roşie		
+2	Strada	Dumitrana		
+2	Strada	Dumitru Cariagdi		
+2	Strada	Dumitru Iorgulescu		
+2	Intrarea	Dumitru Secăreanu		
+2	Strada	Dumitru Secăreanu		
+2	Strada	Dumitru Slugeru		
+2	Strada	Dumitru Theodor Neculuţă		
+2	Strada	Duzilor		
+2	Strada	Educaţiei		
+2	Şoseaua	Electronicii		
+2	Strada	Elena		
+2	Strada	Elena Polizu		
+2	Strada	Ştefan Ştefănescu	Elev	
+2	Strada	Elevatorului		
+2	Strada	Emancipării		
+2	Strada	Emisferei		
+2	Strada	Enache Sandu		
+2	Strada	Energiei		
+2	Strada	Episcopul Damaschin		
+2	Strada	Episcopul Ilarion		
+2	Intrarea	Episcopul Radu		
+2	Strada	Episcopul Radu		
+2	Strada	Constantin Bogorin	Erou	
+2	Intrarea	Ion Călin	Erou	
+2	Strada	Ion Călin	Erou	
+2	Strada	Ion Floruţă	Erou	
+2	Strada	Ion Scorţan	Erou	
+2	Strada	Mihail Cazacu	Erou	
+2	Intrarea	Erupţiei		
+2	Strada	Escalei		
+2	Piaţa	Eudoxiu Hurmuzachi		
+2	Strada	Eufrosin Potecă		
+2	Strada	Existenţei		
+2	Strada	Fabrica De Gheaţă		
+2	Şoseaua	Fabrica De Glucoză		
+2	Strada	Făinari		
+2	Intrarea	Fălciei		
+2	Strada	Fălticeni		
+2	Intrarea	Fanfarei		
+2	Strada	Fântânica		
+2	Intrarea	Făureşti		
+2	Strada	Fecioarei		
+2	Strada	Ferăstrău		
+2	Bulevardul	Ferdinand I		
+2	Strada	Ferestrei		
+2	Strada	Fibrei		
+2	Strada	Fierari		
+2	Strada	Florica Pantazi		
+2	Strada	Fluierului		
+2	Piaţa	Foişorul De Foc		
+2	Strada	Folclorului		
+2	Strada	Franzelarilor		
+2	Strada	Frâului		
+2	Strada	Frederic Chopin		
+2	Strada	Fructelor		
+2	Intrarea	Frumuşiţa		
+2	Intrarea	Frunzei		
+2	Strada	Frunzei		
+2	Intrarea	Fundeni		
+2	Şoseaua	Fundeni		
+2	Strada	G. T. Niculescu-Varone		
+2	Strada	Gaetano Donizetti		
+2	Intrarea	Galaţi		
+2	Intrarea	Galenei		
+2	Strada	Galeş		
+2	Strada	Galiţa		
+2	Strada	Gara Herăstrău		
+2	Strada	Gârbov		
+2	Bulevardul	Gării Obor		
+2	Strada	Gătaia		
+2	Strada	Gaterului		
+2	Strada	Geamandurei		
+2	Strada	Alex. Şt. Radovici	General	
+2	Strada	David Praporgescu	General	
+2	Strada	Dimitrie Salmen	General	
+2	Piaţa	Nicolae C. Dabija	General	
+2	Strada	Traian Doda	General	
+2	Strada	George Constantinescu		
+2	Strada	George Folescu		
+2	Strada	Georges Bizet		
+2	Piaţa	Gheorghe Cantacuzino		
+2	Intrarea	Gheorghe Costa-Foru		
+2	Strada	Gheorghe Costa-Foru		
+2	Strada	Gheorghe D. Palade		
+2	Strada	Gheorghe Iacobescu		
+2	Intrarea	Gheorghe Ioanid		
+2	Strada	Gheorghe Mandrea		
+2	Intrarea	Gheorghe Pop De Băseşti		
+2	Strada	Gheorghe Pop De Băseşti		
+2	Strada	Gheorghe Şerban		
+2	Strada	Gheorghe Sterian		
+2	Strada	Gheorghe Ţiţeica		
+2	Şoseaua	Gherase		
+2	Intrarea	Gherghiţei		
+2	Strada	Gherghiţei		
+2	Bulevardul	Ghica Tei		
+2	Strada	Ghimbav		
+2	Strada	Ghinea Brătăşanu		
+2	Strada	Ghiocei		
+2	Strada	Ghiţă Pădureanu		
+2	Strada	Giacomo Puccini		
+2	Strada	Gimalău		
+2	Strada	Gioacchino Rossini		
+2	Strada	Giuseppe Garibaldi		
+2	Strada	Giuseppe Verdi		
+2	Intrarea	Glasului		
+2	Strada	Glăvăneşti		
+2	Strada	Glodeni		
+2	Intrarea	Glucozei		
+2	Strada	Gorgan Spătarul		
+2	Strada	Grădiştea Floreştilor		
+2	Intrarea	Grigore Ipătescu	General	
+2	Strada	Grigore Ipătescu	General	
+2	Intrarea	Grânarului		
+2	Strada	Greblei		
+2	Strada	Grigore C. Moisil		
+2	Strada	Grigore Gabrielescu		
+2	Strada	Grigore Ionescu		
+2	Strada	Grigore Vasiliu Birlic		
+2	Intrarea	Grindul Mare		
+2	Strada	Gureni		
+2	Strada	Hagiului		
+2	Strada	Halmeu		
+2	Strada	Hambarului		
+2	Strada	Hăţişului		
+2	Intrarea	Heliade Între Vii		
+2	Strada	Heliade Între Vii		
+2	Strada	Herţa		
+2	Strada	Hiramului		
+2	Strada	Hispania		
+2	Aleea	Hobiţa		
+2	Strada	Horei		
+2	Strada	Hortensia Papadat Bengescu		
+2	Strada	Hortensiei		
+2	Strada	Huilei		
+2	Strada	Iancu Căpitanul		
+2	Strada	Iancu Cavaler De Flondor		
+2	Şoseaua	Iancului		
+2	Strada	Icoanei		
+2	Strada	Iernii		
+2	Strada	Ilarie Chendi		
+2	Strada	Ilgani		
+2	Aleea	Ilia		
+2	Strada	Inaugurării		
+2	Intrarea	Ineu		
+2	Strada	Iorceanu	Inginer	
+2	Strada	Slăniceanu N.	Inginer	
+2	Intrarea	Inginerilor Tei		
+2	Strada	Inginerilor Tei		
+2	Strada	Inişor		
+2	Strada	Inocenţei		
+2	Intrarea	Suliga Ion	Invalid	
+2	Strada	Ioan M. Socolescu		
+2	Strada	Ion Alexe		
+2	Strada	Ion Berindei		
+2	Strada	Ion Chiriţă		
+2	Strada	Ion Heliade Rădulescu		
+2	Intrarea	Ion Luca Caragiale		
+2	Strada	Ion Luca Caragiale		
+2	Strada	Ion Maiorescu		
+2	Strada	Ion Movilă		
+2	Strada	Ion Muntenescu		
+2	Strada	Ion Păun Pincio		
+2	Strada	Ion Polizu		
+2	Strada	Ion Porumbăceanu		
+2	Strada	Ion Ursu		
+2	Strada	Ionel Teodoreanu		
+2	Strada	Ioniţă Vornicul		
+2	Strada	Ipsilanti Voievod		
+2	Strada	Irimicului		
+2	Strada	Ispravnicului		
+2	Intrarea	Italiană		
+2	Strada	Italiană		
+2	Strada	Iţcani		
+2	Strada	Ivărului		
+2	Strada	Izvorul Muntelui		
+2	Intrarea	Jana		
+2	Strada	Jean Athanasiu		
+2	Strada	Jean Louis Calderon		
+2	Strada	Joagărului		
+2	Strada	Johann Sebastian Bach		
+2	Strada	Johann Strauss		
+2	Strada	Johannes K. Kepler		
+2	Strada	Judeţului		
+2	Intrarea	Jugărului		
+2	Strada	Justinian		
+2	Strada	Lăcătuşului		
+2	Strada	Lacul Amara		
+2	Strada	Lacul Fortuna		
+2	Strada	Lacul Gorgova		
+2	Strada	Lacul Ianca		
+2	Bulevardul	Lacul Tei		
+2	Strada	Lacului		
+2	Strada	Lăicerului		
+2	Strada	Lanternei		
+2	Strada	Lanului		
+2	Strada	Lăptari Tei		
+2	Strada	Latină		
+2	Strada	Laviţei		
+2	Strada	Lazăr Florea	Soldat	
+2	Strada	Lecturii		
+2	Intrarea	Legendei		
+2	Strada	Lehliu		
+2	Strada	Leonard Nicolae		
+2	Strada	Leonida		
+2	Strada	Licurg		
+2	Strada	Linotipului		
+2	Strada	Linului		
+2	Strada	Lirei		
+2	Strada	Litoralului		
+2	Strada	Litovoi Voievod		
+2	Intrarea	Litrei		
+2	Strada	Lizeanu		
+2	Strada	Logofatul Cârstea		
+2	Strada	Logofătul Dan		
+2	Strada	Logofătul Luca Stroici		
+2	Strada	Lopeţii		
+2	Strada	Anton Ionescu	Locotenent	
+2	Strada	Baican Ionescu	Locotenent	
+2	Intrarea	Bazar Romulus Niculescu	Locotenent	
+2	Strada	Gheorghe Bănciulescu	Locotenent Comandor Aviator	
+2	Strada	Constantin Zlătescu	Locotenent	
+2	Strada	Petre Negulescu	Locotenent	
+2	Strada	Radu Robescu	Locotenent	
+2	Strada	Sachelarie Visarion	Locotenent	
+2	Strada	Victor Manu	Locotenent	
+2	Strada	Virgil Lazarovici	Locotenent	
+2	Strada	Luca		
+2	Strada	Ludwig Van Beethoven		
+2	Strada	Luigi Galvani		
+2	Strada	Luminei		
+2	Strada	Luminiţei		
+2	Aleea	Lunca Florilor		
+2	Aleea	Luncşoara		
+2	Strada	Luncşoara		
+2	Aleea	Lunguleţu		
+2	Strada	Lunii		
+2	Strada	Luntrei		
+2	Strada	Macazului		
+2	Strada	Măcelari		
+2	Strada	Măcrişului		
+2	Strada	Magneziului		
+2	Strada	Magnoliei		
+2	Strada	Măgura Văii		
+2	Aleea	Măgura Vulturului		
+2	Strada	Măgura Vulturului		
+2	Strada	Maica Domnului		
+2	Strada	Ion Coravu	Maior	
+2	Strada	Vasile Băcilă	Maior	
+2	Strada	Maiorului		
+2	Intrarea	Maliuc		
+2	Strada	Maliuc		
+2	Strada	Malului		
+2	Intrarea	Mandarinei		
+2	Strada	Manolache Vornicul		
+2	Intrarea	Mântuleasa		
+2	Strada	Mântuleasa		
+2	Strada	Marcel Iancu		
+2	Strada	Marcu Armaşul		
+2	Intrarea	Margareta		
+2	Strada	Margareta Sterian		
+2	Strada	Mărgăritarelor		
+2	Strada	Maria Ghiculeasa		
+2	Strada	Maria Rosetti		
+2	Strada	Marian Cristescu		
+2	Strada	Marin Preda		
+2	Strada	Marin Serghiescu		
+2	Strada	Maşina De Pâine		
+2	Strada	Mătăsari		
+2	Intrarea	Matei Elina Voievod		
+2	Strada	Matei Elina Voievod		
+2	Strada	Matei Voievod		
+2	Intrarea	Mecet		
+2	Strada	Mecet		
+2	Strada	Medaliei		
+2	Strada	Medianei		
+2	Strada	Melodiei		
+2	Intrarea	Memoriei		
+2	Strada	Menţiunii		
+2	Strada	Mică		
+2	Intrarea	Mieilor		
+2	Strada	Mieilor		
+2	Strada	Mihăeşti		
+2	Şoseaua	Mihai Bravu		
+2	Intrarea	Mihai Eminescu		
+2	Strada	Mihai Eminescu		
+2	Strada	Mihail Ivanovici Glinka		
+2	Strada	Mihail Sadoveanu		
+2	Strada	Minerilor		
+2	Strada	Mircea Rosetti		
+2	Strada	Miresmei		
+2	Intrarea	Mistriei		
+2	Strada	Mogoş Vornicul		
+2	Intrarea	Monahului		
+2	Strada	Monumentului		
+2	Şoseaua	Morarilor		
+2	Strada	Moroeni		
+2	Calea	Moşilor		
+2	Strada	Motorului		
+2	Aleea	Mozaicului		
+2	Strada	Atanase Ionescu	Maior	
+2	Strada	Claudian Laurentiu	Maior	
+2	Strada	Vasile Băcilă	Maior	
+2	Strada	Mrenei		
+2	Strada	Munţii Buzăului		
+2	Strada	Nada Florilor		
+2	Strada	Nalbei		
+2	Strada	Neagota		
+2	Strada	Negustori		
+2	Strada	Nemira		
+2	Strada	Nicolae Apostol		
+2	Strada	Nicolae Cânea		
+2	Strada	Nicolae Cartojan		
+2	Strada	Nicolae Filipescu		
+2	Strada	Nicolae Hagi Stoica		
+2	Strada	Nicolae Kirilov		
+2	Strada	Nicolae Paraschiv		
+2	Strada	Nicolae Pârâu		
+2	Strada	Nicolae Zamfir		
+2	Strada	Nicovalei		
+2	Strada	Nifon Bălăşescu		
+2	Intrarea	Nisetrului		
+2	Strada	Nistor Răileanu		
+2	Strada	Obleţilor		
+2	Strada	Oborul Nou		
+2	Strada	Ochişoru		
+2	Strada	Ocolului		
+2	Strada	Odorhei		
+2	Strada	Oituz		
+2	Strada	Olanelor		
+2	Strada	Olari		
+2	Strada	Olimpiadei		
+2	Strada	Oltarului		
+2	Strada	Olteţului		
+2	Strada	Opanez		
+2	Strada	Oradea		
+2	Strada	Ortacului		
+2	Strada	Orzari		
+2	Strada	Oţelului		
+2	Aleea	Oteşani		
+2	Strada	Oteşani		
+2	Strada	Oţetari		
+2	Strada	Ottoi Călin		
+2	Strada	Ovăzului		
+2	Bulevardul	Pache Protopopescu		
+2	Piaţa	Pache Protopopescu		
+2	Strada	Padina Roşie		
+2	Intrarea	Paharnicul Turturea		
+2	Intrarea	Pălămidei		
+2	Strada	Palanca		
+2	Strada	Paleologu		
+2	Intrarea	Palmacului		
+2	Intrarea	Palmierului		
+2	Intrarea	Pâncota		
+2	Strada	Pâncota		
+2	Aleea	Pantelimon		
+2	Şoseaua	Pantelimon		
+2	Intrarea	Pârgarilor		
+2	Strada	Pârgarilor		
+2	Strada	Părintele Galeriu		fost Venerei
+2	Strada	Părintele Stăniloaie		fost Cernica
+2	Strada	Paroşeni		
+2	Strada	Păsărani		
+2	Strada	Păstorului		
+2	Strada	Pasului		
+2	Strada	Paul Greceanu		
+2	Intrarea	Pavezei		
+2	Strada	Peisajului		
+2	Strada	Pepelea		
+2	Strada	Periş		
+2	Strada	Pescarilor		
+2	Strada	Pescăruşului		
+2	Intrarea	Peşterii		
+2	Aleea	Petre Antonescu		
+2	Strada	Petre Antonescu		
+2	Strada	Petricani		
+2	Aleea	Piatra Mare		
+2	Strada	Alexandru Romano	Pictor	
+2	Strada	Arthur Verona	Pictor	
+2	Strada	Ion Andreescu	Pictor	
+2	Intrarea	Nicolae Vermont	Pictor	
+2	Strada	Oscar Obedeanu	Pictor	
+2	Strada	Rafael Sanzio	Pictor	
+2	Strada	Ştefan Luchian	Pictor	
+2	Bulevardul	Pierre De Coubertin		
+2	Strada	Pietrişuluii		
+2	Strada	Pietroasa		
+2	Strada	Pinul Alb		
+2	Strada	Piotr Ilici Ceaikovski		
+2	Şoseaua	Pipera		
+2	Strada	Plantaţiei		
+2	Strada	Plantelor		
+2	Strada	Plăticei		
+2	Strada	Ion Niţă	Plutonier	
+2	Intrarea	Vasile Luicu	Plutonier	
+2	Strada	Pluguşor		
+2	Strada	Plumbuita		
+2	Strada	Podul Corbului		
+2	Strada	Podul Neagului		
+2	Strada	Podul Vadului		
+2	Strada	Podul Vârtosului		
+2	Strada	Poeziei		
+2	Aleea	Poiana Cu Aluni		
+2	Strada	Polixenia Rădulescu		
+2	Strada	Polovraci		
+2	Intrarea	Pontonului		
+2	Strada	Popa Iancu		
+2	Intrarea	Popa Lazăr		
+2	Strada	Popa Lazăr		
+2	Intrarea	Popa Nan		
+2	Strada	Popa Nan		
+2	Strada	Popa Nicolae		
+2	Strada	Popa Petre		
+2	Strada	Popa Rusu		
+2	Strada	Popa Soare		
+2	Aleea	Porolissum		
+2	Strada	Porţile De Fier		
+2	Strada	Potârnichii		
+2	Strada	Potcoavei		
+2	Strada	Prăjinei		
+2	Intrarea	Precupeţii Vechi		
+2	Strada	Precupeţii Vechi		
+2	Strada	Predeal		
+2	Strada	Preluca		
+2	Strada	Prepeliţei		
+2	Intrarea	Procopie Dumitrescu		
+2	Strada	Mihail Georgescu	Profesor Doctor	
+2	Strada	Prudenţei		
+2	Strada	Puiandrului		
+2	Intrarea	Puieţilor		
+2	Strada	Puieţilor		
+2	Strada	Radovanu		
+2	Strada	Radu Captariu		
+2	Strada	Radu Cristian		
+2	Strada	Radu De La Afumaţi		
+2	Strada	Radu Tudoran		
+2	Intrarea	Râmnic		
+2	Strada	Ramuri Tei		
+2	Strada	Rariştei		
+2	Strada	Răscoala 1907		
+2	Strada	Râşnov		
+2	Strada	Răspântiilor		
+2	Strada	Răsuri		
+2	Strada	Râul Colentina		
+2	Strada	Răuşeni		
+2	Strada	Reactorului		
+2	Strada	Recoltei		
+2	Strada	Recreerii		
+2	Strada	Refrenului		
+2	Strada	Reinvierii		
+2	Strada	Remetea		
+2	Intrarea	Renului		
+2	Strada	Renului		
+2	Strada	Revoluţia 1848		
+2	Strada	Ricinului		
+2	Strada	Ripiceni		
+2	Strada	Ritmului		
+2	Strada	Rodica		
+2	Intrarea	Roiniţa		
+2	Intrarea	Româneşti		
+2	Aleea	Romula		
+2	Strada	Romulus		
+2	Intrarea	Rondă		
+2	Strada	Rondă		
+2	Strada	Ropotului		
+2	Strada	Roşioarei		
+2	Strada	Rovine		
+2	Strada	Rumeoara		
+2	Strada	Ruşchiţa		
+2	Intrarea	Safirului		
+2	Strada	Săgeţii		
+2	Strada	Salcâmilor		
+2	Strada	Sălciilor		
+2	Strada	Saltului		
+2	Strada	Sânmedru		
+2	Strada	Sânzieni		
+2	Strada	Sarafineşti		
+2	Aleea	Sargeţia		
+2	Strada	Scaeţilor		
+2	Strada	Scheiul De Jos		
+2	Strada	Scheiul De Sus		
+2	Intrarea	Scheiului		
+2	Strada	Schitul Dârvari		
+2	Strada	Şcoalei		
+2	Strada	Scoicilor		
+2	Intrarea	Securei		
+2	Strada	Semilunei		
+2	Strada	Semnalului		
+2	Strada	Seneslav Voievod		
+2	Strada	Constantin Şomoiog	Sergent	
+2	Strada	Dumitru Dardiac	Sergent	
+2	Intrarea	Gheorghe Costea	Sergent	
+2	Intrarea	Ion Panţâru	Sergent	
+2	Strada	Ion Pironaşu	Sergent	
+2	Intrarea	Ion Tancu	Sergent	
+2	Strada	Ion Teodorescu	Sergent	
+2	Strada	Petre Cardaş	Sergent Major	
+2	Strada	Simion Busuioc	Sergent Major	
+2	Strada	Ştefan Sorescu	Sergent Major	
+2	Strada	Theodor Buzoiu	Sergent Major	
+2	Strada	Matei Dumitru	Sergent	
+2	Strada	Năstase Pamfil	Sergent	
+2	Strada	Nicolae Culea	Sergent	
+2	Strada	Şerbanică Vasile	Sergent	
+2	Strada	Vasile Predescu	Sergent	
+2	Strada	Nicolae Trifu	Sergent	
+2	Strada	Serghei Vasilievici Rahmaninov		
+2	Strada	Serii		
+2	Strada	Sever Popescu		
+2	Strada	Sfânta Ana		
+2	Strada	Sfânta Treime		
+2	Strada	Sfântul Niceta		
+2	Strada	Sfântul Petru Tei		fost Lopătarilor
+2	Strada	Sfântul Spiridon		
+2	Piaţa	Sfântul Ştefan		
+2	Strada	Sfântul Ştefan		
+2	Strada	Sfinţilor		
+2	Strada	Sică Alexandrescu		
+2	Strada	Sighet		
+2	Strada	Sighişoara		
+2	Aleea	Siliştea		
+2	Strada	Siliştea		
+2	Strada	Silozului		
+2	Strada	Silvestru		
+2	Strada	Silvia		
+2	Strada	Simetriei		
+2	Aleea	Sinaia		
+2	Strada	Sinaia		
+2	Strada	Şipca		
+2	Strada	Şiragului		
+2	Strada	Slovei		
+2	Strada	Dima Cristescu	Sublocotenent	
+2	Strada	Făgărăşanu	Sublocotenent	
+2	Strada	Gheorghe Stănescu	Sublocotenent	
+2	Strada	Pompiliu Manoliu	Sublocotenent	
+2	Strada	Smeurei		
+2	Strada	Şoană Tudor		
+2	Aleea	Socului		
+2	Strada	Ene Niţă	Soldat	
+2	Strada	Florea Neagu	Soldat	
+2	Strada	Gheorghe Matac	Soldat	
+2	Intrarea	Gheorghe Mina	Soldat	
+2	Strada	Gheorghe Răduţă	Soldat	
+2	Strada	Gheorghe Zamfir	Soldat	
+2	Intrarea	Ion Bulgaru	Soldat	
+2	Strada	Ion Geicu	Soldat	
+2	Strada	Ion Marin	Soldat	
+2	Intrarea	Marin Calotă	Soldat	
+2	Strada	Marin Savu	Soldat	
+2	Strada	Mihăilă Radu	Soldat	
+2	Strada	Savu Bâra	Soldat	
+2	Strada	Ştefan Pascale	Soldat	
+2	Strada	Ştefan Velicu	Soldat	
+2	Strada	Stelian Tomovici	Soldat	
+2	Intrarea	Zambilă Ioniţă	Soldat	
+2	Strada	Zambilă Ioniţă	Soldat	
+2	Strada	Dumitru Ţane	Soldat	
+2	Strada	Şoltuzului		
+2	Intrarea	Somnului		
+2	Piaţa	Spania		
+2	Strada	Spartacus		
+2	Strada	Spătarul Mihai		
+2	Strada	Spătarul Nicolae Milescu		
+2	Intrarea	Spătarului		
+2	Strada	Spătarului		
+2	Strada	Speranţei		
+2	Strada	Spinului		
+2	Strada	Sportului		
+2	Intrarea	Stâncii		
+2	Strada	Stăvilarului		
+2	Strada	Steaua Roşie		
+2	Şoseaua	Ştefan Cel Mare		
+2	Strada	Ştefan Ciucă		
+2	Strada	Ştefan Greceanu		
+2	Strada	Ştefan Mihăileanu		
+2	Intrarea	Sterului		
+2	Intrarea	Ştiucii		
+2	Strada	Ştiucii		
+2	Strada	Stolnicul Vasile		
+2	Strada	Stroe Postelnicu		
+2	Strada	Struţului		
+2	Strada	Sub Tei		
+2	Intrarea	Suceava		
+2	Strada	Suceava		
+2	Aleea	Sucidava		
+2	Strada	Suhard		
+2	Strada	Sulfului		
+2	Strada	Suveica		
+2	Strada	Suvenir		
+2	Intrarea	Tăciunelui		
+2	Strada	Tamâioarei		
+2	Strada	Tâmpa		
+2	Strada	Tănase Dumitrescu		
+2	Strada	Tărcăuş		
+2	Intrarea	Tarlingului		
+2	Strada	Târnăcopului		
+2	Aleea	Teiul Doamnei		
+2	Strada	Teiul Doamnei		
+2	Intrarea	Teleajen		
+2	Strada	Teleajen		
+2	Strada	Telia		
+2	Strada	Teofil		
+2	Strada	Ţepeş Vodă		
+2	Strada	Termopile		
+2	Strada	Ţesătoarelor		
+2	Prelungirea	Teslei		
+2	Strada	Teslei		
+2	Strada	Thomas Masaryk		
+2	Intrarea	Tibana		
+2	Aleea	Tibiscum		
+2	Intrarea	Ţiglelor		
+2	Strada	Timpului		
+2	Strada	Titu Maiorescu		
+2	Strada	Toamnei		
+2	Strada	Tony Bulandra		
+2	Intrarea	Topliceni		
+2	Strada	Toporului		
+2	Strada	Traian		
+2	Strada	Traian Grozăvescu		
+2	Strada	Traian Vuia		
+2	Strada	Trei Scaune		
+2	Strada	Triteni		
+2	Strada	Tudor Arghezi		
+2	Strada	Tudor Mihai		
+2	Strada	Tugomir Voievod		
+2	Strada	Tulpinei		
+2	Strada	Tunari		
+2	Strada	Turbinei		
+2	Strada	Turiştilor		
+2	Strada	Turnătorilor		
+2	Strada	Turnul Eiffel		
+2	Intrarea	Turnului		
+2	Strada	Tuşnad		
+2	Strada	Tuzla		
+2	Aleea	Ulmetum		
+2	Strada	Utieşului		
+2	Intrarea	Vagonului		
+2	Strada	Valea Jiului		
+2	Strada	Valea Măgurei		
+2	Strada	Valea Nucului		
+2	Strada	Vaporul Lui Assan		
+2	Intrarea	Varna		
+2	Strada	Vaşcău		
+2	Intrarea	Vaselor		
+2	Strada	Vaselor		
+2	Strada	Vasile Conta		
+2	Intrarea	Vasile Cristescu		
+2	Strada	Vasile Lascăr		
+2	Strada	Vasile Vasilievici Stroescu		
+2	Strada	Vatra Luminoasă		
+2	Strada	Velinţei		
+2	Aleea	Vergului		
+2	Şoseaua	Vergului		
+2	Strada	Verii		
+2	Intrarea	Versului		
+2	Strada	Veveritei		
+2	Strada	Vidin		
+2	Strada	Vidraru		
+2	Strada	Viesparilor		
+2	Intrarea	Viitorului		
+2	Strada	Viitorului		
+2	Intrarea	Viroagei		
+2	Intrarea	Vişinilor		
+2	Strada	Vişinilor		
+2	Strada	Vistiernicul Trufanda		
+2	Strada	Vitejiei		
+2	Intrarea	Vladimir Streinu		
+2	Strada	Vladislav Voievod		
+2	Intrarea	Volburei		
+2	Strada	Vrâncioaia		
+2	Strada	Vulcanei		
+2	Strada	Wolfgang Amadeus Mozart		
+2	Strada	Zalău		
+2	Strada	Zalelor		
+2	Strada	Zambilelor		
+2	Aleea	Zarandului		
+2	Strada	Zece Mese		
+2	Strada	Zefirului		
+2	Intrarea	Ziduri Între Vii		
+2	Strada	Ziduri Între Vii		
+2	Strada	Ziduri Moşi		
+2	Strada	Zidurilor		
+2	Strada	Zmeului		
+3	Bulevardul	1 Decembrie 1918		
+3	Strada	19 Noiembrie		
+3	Strada	Academiei		
+3	Strada	Adamache Vasile		
+3	Aleea	Adjud		
+3	Aleea	Adrian Cârstea		
+3	Strada	Agatha Bârsescu		
+3	Strada	Agricultori		
+3	Piaţa	Alba Iulia		
+3	Intrarea	Albăstriţei		
+3	Strada	Alexander Von Humbold		fost CAOLINULUI
+3	Aleea	Alexandru Brătescu Voineşti		
+3	Strada	Alexandru Papiu-Ilarian		
+3	Strada	Alexandru Sihleanu		
+3	Strada	Alexandru Vlahuţă		
+3	Strada	Alunelului		
+3	Intrarea	Amazoanei		
+3	Strada	Anastasie Panu		
+3	Intrarea	Andrei Bârseanu		
+3	Strada	Andrei Bârseanu		
+3	Intrarea	Anestinelor		
+3	Strada	Anestinelor		
+3	Intrarea	Aniversării		
+3	Intrarea	Antenei		
+3	Aleea	Apahida		
+3	Aleea	Apostol Mărgărit		
+3	Strada	Arcuşului		
+3	Intrarea	Argintului		
+3	Strada	Aristide Pascal		
+3	Strada	Armeniş		fost Aleea ARMENIŞ
+3	Intrarea	Arsura		
+3	Intrarea	Ataşamentului		
+3	Piaţa	August Treboniu Laurian		
+3	Strada	Petre Lăzărescu	Aviator Locotenent	
+3	Strada	Avuţiei		
+3	Intrarea	Baba Novac		
+3	Strada	Baba Novac		
+3	Strada	Băbeni		
+3	Strada	Băcani		
+3	Strada	Baciul Judeţul		
+3	Intrarea	Bădeni		
+3	Strada	Baia De Fier		
+3	Strada	Baia Mare		
+3	Strada	Bălceşti		fost SFÂNTUL MINA
+3	Strada	Balta Albina		
+3	Drumul	Balta Arin		
+3	Drumul	Balta Doamnei		
+3	Drumul	Balta Plopului		
+3	Strada	Băniei		fost SFÂNTUL GHEORGHE NOU
+3	Aleea	Banul Udrea		
+3	Strada	Banul Udrea		
+3	Aleea	Barajul Bicaz		
+3	Aleea	Barajul Bistriţa		
+3	Aleea	Barajul Cucuteni		
+3	Aleea	Barajul Dunării		
+3	Aleea	Barajul Iezeru		
+3	Aleea	Barajul Lotru		
+3	Aleea	Barajul Rovinari		
+3	Aleea	Barajul Sadului		
+3	Aleea	Barajul Uzului		
+3	Strada	Bărăţiei		
+3	Strada	Barcarolei		
+3	Intrarea	Bârsei		
+3	Bulevardul	Basarabia		fost MUNCII
+3	Strada	Becaţei		
+3	Aleea	Berevoieşti		
+3	Strada	Biserica Doamnei		
+3	Strada	Biserica Răsvan		
+3	Aleea	Blăjel		
+3	Strada	Blănari		
+3	Strada	Bogdan Gheorghe Tudor		
+3	Intrarea	Bondarului		
+3	Intrarea	Borceag		
+3	Aleea	Botta Emil		
+3	Strada	Brăiliţa		
+3	Strada	Brâncuşi Constantin		
+3	Strada	Brânduşelor		
+3	Strada	Brăneşti		
+3	Strada	Branişte Valeriu		
+3	Strada	Brăţării		
+3	Intrarea	Brateş		
+3	Strada	Breaza		
+3	Intrarea	Brichetei		
+3	Aleea	Buchetului		
+3	Strada	Bucovina		fost I. O. R.
+3	Aleea	Budacu		
+3	Intrarea	Budeasa		
+3	Strada	Buga		
+3	Aleea	Buhuşi		
+3	Strada	Buhuşi		
+3	Strada	Bumbăcari		
+3	Strada	Burdujeni		
+3	Bulevardul	Burebista		
+3	Strada	Burluşi		
+3	Strada	Burniţei		
+3	Aleea	Buteică Emanoil Marius		
+3	Strada	C. F. Robescu		
+3	Strada	Călan		
+3	Calea	Călăraşilor		
+3	Calea	Călărăşilor		
+3	Strada	Căldărari		
+3	Aleea	Calistrat Hogaş		
+3	Aleea	Câlnău		
+3	Intrarea	Caloian Judeţul		
+3	Strada	Caloian Judeţul		
+3	Strada	Caloteşti		
+3	Strada	Călugăreni		
+3	Strada	Căluşarilor		
+3	Bulevardul	Camil Ressu		
+3	Strada	Câmpia Libertăţii		
+3	Strada	Câmpineanca		
+3	Intrarea	Canarului		
+3	Strada	Ilie Caragea	Caporal	
+3	Bulevardul	Carol I		fost REPUBLICII
+3	Strada	Cătănoaia		
+3	Aleea	Căuzaşi		
+3	Strada	Căuzaşi		
+3	Strada	Cavafii Vechi		
+3	Strada	Căzăneşti		
+3	Strada	Cazangiilor		
+3	Strada	Ceairului		
+3	Strada	Cerceluş		
+3	Intrarea	Cezar Bolliac		
+3	Strada	Cezar Bolliac		
+3	Strada	Chezăşiei		
+3	Strada	Chiciurei		
+3	Strada	Chilioara		
+3	Intrarea	Chimiei		
+3	Strada	Chiparosului		
+3	Strada	Chitarei		
+3	Strada	Cicoarei		
+3	Aleea	Cindrel		
+3	Aleea	Cioplea		
+3	Aleea	Ciucea		
+3	Strada	Ciucea		
+3	Intrarea	Ciutei		
+3	Intrarea	Clăilor		
+3	Intrarea	Clucereasa Maria		
+3	Strada	Cluceru Udricani		
+3	Aleea	Coconi		
+3	Intrarea	Cocorilor		
+3	Aleea	Codrii Neamţului		
+3	Strada	Codrii Neamţului		
+3	Strada	Cogâlnic		
+3	Strada	Iosif Albu	Colonel	
+3	Strada	Poenaru Bordea	Colonel	
+3	Strada	Colţei		
+3	Intrarea	Colţului		
+3	Strada	Columbelor		
+3	Pasajul	Comercial		
+3	Strada	Complexului		
+3	Strada	Conacului		
+3	Intrarea	Concursului		
+3	Strada	Confederaţiei		
+3	Strada	Constantin Nottara		
+3	Strada	Copăceni		
+3	Bulevardul	Corneliu Coposu		fost Calea CĂLĂRAŞILOR
+3	Piaţa	Corneliu Coposu		
+3	Strada	Cornu Luncii		
+3	Strada	Cornul Caprei		
+3	Intrarea	Cortinei		
+3	Intrarea	Coşarului		
+3	Strada	Cosiţelor		
+3	Strada	Covaci		
+3	Strada	Cozla		
+3	Strada	Credinţei		
+3	Strada	Crestei		
+3	Strada	Crinul De Grădină		
+3	Strada	Crivăţului		
+3	Strada	Cromului		
+3	Strada	Cugir		
+3	Strada	Cuibaru D. Ioan		
+3	Strada	Culesului		
+3	Strada	Culmea Veche		
+3	Strada	Cultul Patriei		
+3	Strada	Cuneşti		
+3	Strada	Cutezătorilor		
+3	Strada	Dadu		
+3	Strada	Daniel Barcianu		
+3	Strada	Danubiu		
+3	Strada	Darabani		
+3	Intrarea	Dealul Poenii		
+3	Bulevardul	Decebal		
+3	Strada	Delea Nouă		
+3	Strada	Deltei		
+3	Strada	Depozitului		
+3	Intrarea	Detaşamentului		
+3	Strada	Diligenţei		
+3	Strada	Dimitrie Bolintineanu		
+3	Strada	Dimitrie Rallet		
+3	Aleea	Dimitrie Stelaru		
+3	Intrarea	Dinamicei		
+3	Strada	Discului		
+3	Strada	Doamna Chiajna		
+3	Strada	Doamnei		
+3	Strada	Doiceşti		
+3	Strada	Doliei		
+3	Strada	Dor Mărunt		
+3	Strada	Dregătorului		
+3	Strada	Dristorului		
+3	Strada	Drumeagului		
+3	Strada	Drumeţului		
+3	Calea	Dudeşti		
+3	Şoseaua	Dudeşti-Pantelimon		
+3	Strada	Dunărea Albastră		
+3	Strada	Economiei		
+3	Strada	Eftimie Murgu		
+3	Strada	Elbrus		
+3	Strada	Elena Teodorini		
+3	Strada	Elias Jacques		
+3	Strada	Elinescu Niţă		
+3	Strada	Emil Gârleanu		
+3	Bulevardul	Energeticienilor		
+3	Aleea	Eprubetei		
+3	Strada	Eretelui		
+3	Strada	Gheorghe Pană	Erou	
+3	Strada	Eşarfei		
+3	Strada	Eterului		
+3	Intrarea	Eufrosina Popescu		
+3	Strada	Eufrosina Popescu		
+3	Strada	Eugeniu Carada		
+3	Strada	Everest		
+3	Strada	Ezeriş		
+3	Aleea	Feteşti		
+3	Strada	Feteşti		
+3	Strada	Fetiţelor		
+3	Strada	Fildeşului		
+3	Strada	Firidei		
+3	Aleea	Fizicienilor		
+3	Strada	Fizicienilor		
+3	Strada	Floare Albastră		
+3	Aleea	Florin Ciungan		
+3	Aleea	Foişorului		
+3	Strada	Foişorului		
+3	Pasajul	Francez		
+3	Strada	Franceză		fost IULIU MANIU
+3	Strada	Frăsinetului		
+3	Strada	Constantin Stan	Fruntaş	
+3	Aleea	Constantin Tudor	Fruntaş	
+3	Aleea	Fuiorului		
+3	Intrarea	Fumăriţei		
+3	Strada	Gabroveni		
+3	Pasajul	Galeriile Blanduziei		
+3	Şoseaua	Gării Căţelu		
+3	Strada	George-Gion Ionescu		
+3	Strada	Gheorghe Dem Teodorescu		
+3	Strada	Gheorghe Doja		
+3	Strada	Gheorghe Judeţu		
+3	Strada	Gheorghe Manea		
+3	Strada	Gheorghe Petraşcu		fost RUICĂ
+3	Intrarea	Gheorghe Tudorache		
+3	Aleea	Giurgeni		
+3	Strada	Gologanului		
+3	Strada	Gospodăriei		
+3	Strada	Grădinarilor		
+3	Strada	Ion Florescu	General	
+3	Intrarea	Graurului		
+3	Intrarea	Greierului		
+3	Intrarea	Grigore Gănescu		
+3	Strada	Grindeiului		
+3	Strada	Grota Lacurilor		
+3	Strada	Gruiul Argeşului		
+3	Drumul	Gura Arieşului		
+3	Drumul	Gura Bădicului		
+3	Drumul	Gura Caliţei		
+3	Drumul	Gura Călmăţui		
+3	Drumul	Gura Câlnăului		
+3	Drumul	Gura Crivăţului		
+3	Drumul	Gura Făgetului		
+3	Drumul	Gura Gârliţei		
+3	Strada	Gura Ialomiţei		
+3	Drumul	Gura Putnei		
+3	Drumul	Gura Racului		
+3	Drumul	Gura Sărăţii		
+3	Drumul	Gura Siriului		
+3	Drumul	Gura Solcii		
+3	Strada	Gura Vadului		
+3	Strada	Gura Văii		
+3	Drumul	Gura Vlădesei		
+3	Strada	Hagiului		
+3	Strada	Halelor		
+3	Strada	Hanul Cu Tei		
+3	Strada	Hârşova		
+3	Strada	Hăşmaş		
+3	Aleea	Hodoş Iosif		
+3	Intrarea	Horbotei		
+3	Strada	Horezu		
+3	Intrarea	Hornului		
+3	Bulevardul	Hristo Botev		
+3	Intrarea	Hulubilor		
+3	Aleea	Ianca		
+3	Strada	Iancu Brezeanu		
+3	Strada	Idealului		
+3	Aleea	Ilioara		
+3	Strada	Ilioara		
+3	Splaiul	Independenţei		
+3	Intrarea	Industriilor		
+3	Strada	Industriilor		
+3	Drumul	Între Tarlale		
+3	Drumul	Între Vii		
+3	Strada	Întrecerii		
+3	Strada	Invenţiei		
+3	Intrarea	Învingătorilor		
+3	Strada	Învingătorilor		
+3	Strada	Ioan C. Filitti		
+3	Aleea	Ion Agârbiceanu		
+3	Bulevardul	Ion C. Brătianu		
+3	Intrarea	Ion Ciopleanu		
+3	Strada	Ion Filibiliu		
+3	Intrarea	Ion Gh. Buzoianu		
+3	Strada	Ion Ghica		
+3	Strada	Ion Morţun		
+3	Strada	Ion Nistor		fost BIBLIOTECII
+3	Strada	Ion Paltin Păunescu		
+3	Strada	Ion Pillat		
+3	Strada	Ion Ţuculescu		fost STEJARULUI
+3	Strada	Ion Voinescu		
+3	Strada	Iosifeşti		
+3	Strada	Irisului		
+3	Strada	Istriei		
+3	Strada	Iuliu Barasch		
+3	Intrarea	Iuliu Valaori		
+3	Strada	Iuliu Valaori		
+3	Strada	Ivo Andric		fost LOTUSULUI
+3	Strada	Jariştea		
+3	Strada	Jean Alexandru Steriadi		
+3	Aleea	Jieneasca		
+3	Strada	Labirint		
+3	Strada	Laborator		
+3	Aleea	Lăceni		
+3	Aleea	Lăcrămioarei		
+3	Strada	Lăcrămioarei		
+3	Strada	Lacul Greaca		
+3	Intrarea	Lacul Lala		
+3	Strada	Lalelelor		
+3	Strada	Lăzăreanu Barbu		
+3	Strada	Lăzăreni		
+3	Strada	Lemnişorului		
+3	Aleea	Leorda		
+3	Strada	Levănţica		
+3	Intrarea	Lianei		
+3	Intrarea	Licurici		
+3	Aleea	Lipăneşti		
+3	Strada	Lipscani		
+3	Intrarea	Literei		
+3	Strada	Liviu Rebreanu		
+3	Intrarea	Lobodei		
+3	Strada	Logofătul Năsturel Udrişte		
+3	Strada	Logofătul Tăutu		
+3	Strada	Lotrioara		
+3	Strada	Lovişte		
+3	Strada	Alexandru Popescu	Locotenent	
+3	Strada	Aurel Botea	Locotenent	
+3	Strada	Dumitru Papazoglu	Locotenent Colonel	
+3	Strada	Dumitru Ganovici	Locotenent	
+3	Strada	Foişoreanu Mihail	Locotenent	
+3	Strada	Niculae Pascu	Locotenent	
+3	Strada	Scarlat Mareş	Locotenent	
+3	Strada	Lucian Blaga		
+3	Strada	Lucieni		
+3	Strada	Lucreţiu Pătrăşcanu		
+3	Strada	Lugojana		
+3	Strada	Lunca Banului		
+3	Drumul	Lunca Bisericii		
+3	Aleea	Lunca Bradului		
+3	Strada	Lunca Bradului		
+3	Drumul	Lunca Cetăţii		
+3	Drumul	Lunca Corbului		
+3	Drumul	Lunca Dochiei		
+3	Drumul	Lunca Dunării		
+3	Drumul	Lunca Ilvei		
+3	Drumul	Lunca Jariştei		
+3	Drumul	Lunca Mărcuşului		
+3	Drumul	Lunca Mare		
+3	Drumul	Lunca Merilor		
+3	Aleea	Lunca Moldovei		
+3	Aleea	Lunca Mureşului		
+3	Drumul	Lunca Ozunului		
+3	Drumul	Lunca Priporului		
+3	Drumul	Lunca Prutului		
+3	Drumul	Lunca Rateş		
+3	Drumul	Lunca Sătească		
+3	Drumul	Lunca Târnavei		
+3	Drumul	Lunca Veche		
+3	Drumul	Lunca Vişagului		
+3	Strada	Lupşanu		
+3	Pasajul	Macca		fost BIJUTERIA
+3	Aleea	Mădăraşi		
+3	Strada	Magnetului		
+3	Strada	Măgura Mare		
+3	Drumul	Malu Cu Flori		
+3	Drumul	Malu Mierii		
+3	Drumul	Malu Roşu		
+3	Drumul	Malu Spart		
+3	Strada	Mălureni		
+3	Strada	Malva		
+3	Intrarea	Mămulari		
+3	Strada	Mămulari		
+3	Aleea	Mânăstirea Agapia		
+3	Strada	Mântuleasa		
+3	Strada	Marin Bonea		
+3	Strada	Martineşti		
+3	Strada	Mărului		
+3	Strada	Matache Dobrescu		
+3	Strada	Matei Basarab		
+3	Strada	Medeleni		
+3	Strada	Meiului		
+3	Strada	Meşterul Manole		
+3	Intrarea	Metalului		
+3	Şoseaua	Mihai Bravu		
+3	Strada	Mihail Târnoveanu		
+3	Strada	Mileanca		
+3	Strada	Miletin		
+3	Strada	Miniş		
+3	Strada	Minulescu Ion		
+3	Strada	Mirăslău		
+3	Strada	Mircea Bădescu		
+3	Bulevardul	Mircea Vodă		
+3	Strada	Mitriţă Constantinescu		
+3	Aleea	Mizil		
+3	Strada	Mizil		
+3	Strada	Moise Nicoară		
+3	Intrarea	Monolitului		
+3	Aleea	Moreni		
+3	Strada	Morilor		
+3	Strada	Moş Ion Roată		
+3	Calea	Moşilor		
+3	Aleea	Mostiştea		
+3	Strada	Moţilor		
+3	Intrarea	Avram Zenovie	Maior	
+3	Strada	Ion Racoţeanu	Maior	
+3	Strada	Mugur Mugurel		
+3	Intrarea	Muncii		
+3	Strada	Munţii Mehedinţi		
+3	Strada	Mureşana		
+3	Strada	Mureşeni		
+3	Strada	Murgeni		
+3	Drumul	Murgului		
+3	Intrarea	Muşcatei		
+3	Strada	Năzuinţei		
+3	Strada	Negoiu		
+3	Strada	Negostina		
+3	Aleea	Negru Vodă		
+3	Strada	Nerva Traian		
+3	Bulevardul	Nicolae Grigorescu		
+3	Strada	Nicolae Licăreţ		
+3	Strada	Nicolae Mavrogheni		
+3	Strada	Nicolae Roşu		
+3	Intrarea	Nicolae Şelari		
+3	Strada	Nicolae Teclu		
+3	Strada	Nicolae Tonitza		
+3	Strada	Nicolae Tudor		
+3	Strada	Niculae T. Sebe		
+3	Aleea	Ninsorii		
+3	Strada	Nucului		
+3	Strada	Octavian		
+3	Bulevardul	Octavian Goga		
+3	Intrarea	Odobeşti		
+3	Strada	Odobeşti		
+3	Strada	Olteni		
+3	Aleea	Onisifor Ghibu		
+3	Strada	Oriav		
+3	Strada	Ozana		
+3	Aleea	Păcală		
+3	Aleea	Pădurea Craiului		
+3	Strada	Pădurea Craiului		
+3	Strada	Paleologu		
+3	Strada	Pann Anton		
+3	Strada	Păpădiei		
+3	Intrarea	Parfumului		
+3	Strada	Parfumului		
+3	Intrarea	Părului		
+3	Intrarea	Patinoarului		
+3	Strada	Pătlaginei		
+3	Strada	Pătraşcu Vodă		
+3	Strada	Patriei		
+3	Strada	Patrioţilor		
+3	Intrarea	Patrulei		
+3	Strada	Pătulului		
+3	Strada	Păuneşti		
+3	Strada	Peleş		
+3	Strada	Pelinului		
+3	Strada	Peneş Curcanul		
+3	Strada	Pericle Papahagi		
+3	Aleea	Perişoru		
+3	Strada	Petre M. Tina		
+3	Strada	Gheorghe Tăttărescu	Pictor	
+3	Strada	Pietroşelului		
+3	Strada	Piscul Răchitei		
+3	Intrarea	Platon		
+3	Aleea	Pleniţa		
+3	Strada	Pleşeşti		
+3	Strada	Marin Pazon	Plutonier Major	
+3	Strada	Gheorghe Radu	Plutonier	
+3	Strada	Ion Nedelcu	Plutonier	
+3	Strada	Petre D. Ionescu	Plutonier	
+3	Strada	Plutei		
+3	Aleea	Dimitrie Anghel	Poet	
+3	Strada	Panait Cerna	Poet	
+3	Strada	Vasile Cârlova	Poet	
+3	Strada	Popa Nan		
+3	Strada	Popa Soare		
+3	Strada	Popa Stoica Farcaş		
+3	Intrarea	Popper Maximilian		
+3	Strada	Popper Maximilian		
+3	Strada	Poştaşului		
+3	Aleea	Postăvarul		
+3	Strada	Postăvarul		
+3	Strada	Poştei		
+3	Aleea	Prevederii		
+3	Strada	Prevederii		
+3	Strada	Prieteniei		
+3	Strada	Prigoriilor		
+3	Strada	Prisaca Dornei		
+3	Intrarea	Prispei		
+3	Intrarea	Pristolului		
+3	Strada	Ştefan S. Nicolau	Profesor Doctor	
+3	Strada	Petre Cumpănici	Profesor	
+3	Strada	Pupitrului		
+3	Strada	Puţul Cu Roată		
+3	Strada	Răcari		
+3	Strada	Răcătău		
+3	Strada	Radu Calomfirescu		
+3	Intrarea	Radu Ceauş		
+3	Strada	Radu Ceauş		
+3	Aleea	Râmnicu Sărat		
+3	Bulevardul	Râmnicu Sărat		
+3	Aleea	Râmnicu Vâlcea		
+3	Strada	Râmnicu Vâlcea		
+3	Strada	Rampei		
+3	Strada	Rândunelelor		
+3	Strada	Rarău		
+3	Strada	Răşinari		
+3	Strada	Raşoviţa		
+3	Strada	Răsvani		
+3	Strada	Războieni		
+3	Intrarea	Reconstrucţiei		
+3	Strada	Regenerării		
+3	Bulevardul	Regina Elisabeta		fost REPUBLICII
+3	Strada	Releului		
+3	Strada	Remus		
+3	Strada	Rodiei		
+3	Strada	Rodnei		
+3	Strada	Rodul Pamântului		
+3	Strada	Romulus		
+3	Strada	Roşianu		
+3	Aleea	Rotundă		
+3	Strada	Rotundă		
+3	Intrarea	Rubinului		
+3	Piaţa	Rudolf Schweitzer Cumpăna		
+3	Strada	Rulmentului		
+3	Strada	Rusăneşti		
+3	Intrarea	Sabiţei		
+3	Strada	Sahighian Ion		
+3	Intrarea	Salbei		
+3	Strada	Sălcioarei		
+3	Strada	Şapte Drumuri		
+3	Strada	Sarmisegetuza		
+3	Strada	Satelitului		
+3	Drumul	Sătenilor		
+3	Strada	Scaune		
+3	Intrarea	Scenei		
+3	Strada	Schitului		
+3	Strada	Şcoala Ciocanu		
+3	Aleea	Şcolarilor		
+3	Intrarea	Scorţeni		
+3	Strada	Sebeş		
+3	Strada	Sebeşana		
+3	Intrarea	Sectorului		
+3	Strada	Segovia		
+3	Strada	Şelari		
+3	Strada	Selinberg		
+3	Strada	Şepcari		
+3	Intrarea	Ion Barbu	Sergent	
+3	Strada	Ion Rotaru	Sergent	
+3	Strada	Vasile R. Siţă	Sergent	
+3	Strada	Sfânta Vineri		
+3	Piaţa	Sfântul Anton		
+3	Strada	Sfântul Dumitru		fost MĂNDINEŞTI
+3	Strada	Dumitru Pene	Sergent	
+3	Strada	Florea Petrache	Sergent	
+3	Strada	Gheorghe Vârtej	Sergent	
+3	Strada	Grigore Ion	Sergent	
+3	Strada	Ion Ciubaru	Sergent	
+3	Strada	Petre Petre	Sergent	
+3	Strada	Vasile Gheorghiev	Sergent	
+3	Aleea	Sibiana		
+3	Intrarea	Siliciului		
+3	Intrarea	Simbolului		
+3	Strada	Siminocului		
+3	Strada	Sineşti		
+3	Strada	Sinteşti		
+3	Strada	Slănic		
+3	Strada	Alexandru Moga	Sublocotenent	
+3	Strada	Smârdan		
+3	Strada	Soarelui		
+3	Strada	Şoimari		
+3	Strada	Alexandru Magatti	Soldat	
+3	Strada	Andrei Neagu	Soldat	
+3	Intrarea	Anghel Gheţu	Soldat	
+3	Strada	Anghel Gheţu	Soldat	
+3	Strada	C. Teodorescu	Soldat	
+3	Strada	Constantin Drăgan	Soldat	
+3	Strada	Constantin Ştefan	Soldat	
+3	Intrarea	Dumitru Drăgan	Soldat	
+3	Strada	Florea Popa	Soldat	
+3	Strada	Ghiţă Şerban	Soldat	
+3	Strada	Grigore I. Iancu	Soldat	
+3	Strada	Ion Pârjolescu	Soldat	
+3	Aleea	Ion Tudor	Soldat	
+3	Strada	Ion Tudor	Soldat	
+3	Strada	Iosif Ion	Soldat	
+3	Strada	Marin Marin	Soldat	
+3	Intrarea	Mihail Lescu	Soldat	
+3	Strada	Nicolae Z. Dumitru	Soldat	
+3	Strada	Niculae Marin	Soldat	
+3	Strada	Petre Dumitru	Soldat	
+3	Strada	Radu Tina	Soldat	
+3	Strada	Spiridon Matei	Soldat	
+3	Strada	Stelian N. Mihale	Soldat	
+3	Strada	Tănase Poloşcă	Soldat	
+3	Aleea	Solidarităţii		
+3	Strada	Speranţia D. Theodor		
+3	Strada	Spieşti		
+3	Intrarea	Ştafetei		
+3	Strada	Stan Judeţul		
+3	Aleea	Stănilă		
+3	Strada	Stavropoleos		
+3	Strada	Ştefan Octavian Iosif		
+3	Intrarea	Stejarului		
+3	Strada	Stelea Spătarul		
+3	Strada	Ştirului		
+3	Strada	Ştiubei		
+3	Strada	Succesului		
+3	Aleea	Suraia		
+3	Aleea	Taifunului		
+3	Aleea	Tândală		
+3	Aleea	Ţăndărei		
+3	Strada	Ţărăncuţei		
+3	Intrarea	Tarcău		
+3	Strada	Tarniţa		
+3	Strada	Tazlău		
+3	Strada	Tehnicii		
+3	Strada	Teodor Ştefănescu		
+3	Aleea	Textiliştilor		
+3	Bulevardul	Theodor Pallady		
+3	Strada	Ticuş		
+3	Intrarea	Ţiglina		
+3	Strada	Ţinutului		
+3	Intrarea	Titan		
+3	Strada	Toma Caragiu		
+3	Strada	Tomis		
+3	Aleea	Tornadei		
+3	Strada	Traian		
+3	Intrarea	Traian Demetrescu		
+3	Strada	Traian Popovici		fost UNITĂŢII
+3	Strada	Trandafirul Roşu		
+3	Strada	Trapezului		
+3	Strada	Trifoi		
+3	Strada	Trilului		
+3	Intrarea	Tropicelor		
+3	Strada	Troscotului		
+3	Intrarea	Trubadurului		
+3	Strada	Tufănica		
+3	Strada	Turturelelor		
+3	Bulevardul	Unirii		
+3	Piaţa	Unirii		
+3	Splaiul	Unirii		
+3	Piaţa	Universităţii		
+3	Intrarea	Văilor		
+3	Strada	Văilor		
+3	Strada	Valea Buzăului		
+3	Strada	Valea Mieilor		
+3	Strada	Valea Sadului		
+3	Strada	Vâlsăneşti		
+3	Strada	Vameşului		
+3	Strada	Vântului		
+3	Strada	Vărăşti		
+3	Aleea	Vârfu Cu Dor		
+3	Strada	Vârfureni		
+3	Aleea	Vasile Goldiş		
+3	Intrarea	Vasile Lucaciu		
+3	Strada	Vasile Lucaciu		
+3	Strada	Vasile Toneanu		
+3	Strada	Vasile Voiculescu		
+3	Intrarea	Vâslei		
+3	Strada	Verdeţei		
+3	Strada	Vericescu		
+3	Strada	Victor Brauner		
+3	Calea	Victoriei		
+3	Pasajul	Vilacross		fost BIJUTERIA
+3	Strada	Vintilă Vodă		
+3	Intrarea	Violoncelului		
+3	Intrarea	Vişeul De Sus		
+3	Strada	Vişeul De Sus		
+3	Calea	Vitan		
+3	Strada	Vitejilor		
+3	Strada	Vitioara		
+3	Strada	Vlad Dracul		
+3	Strada	Vlad Judeţul		
+3	Aleea	Vlăhiţa		
+3	Strada	Vlăhiţa		
+3	Strada	Vlaicu Vodă		
+3	Aleea	Voievod Alexandru Moruzzi		
+3	Strada	Voievod Alexandru Moruzzi		
+3	Strada	Voineasa		
+3	Strada	Voinicului		
+3	Strada	Voioşiei		
+3	Strada	Voroneţ		fost Intrarea ARENEI, Intrarea VORONEŢ
+3	Strada	Vrejului		
+3	Strada	Vulcan Judeţul		
+3	Strada	Vulturilor		
+3	Strada	Wilhelm Filderman		fost AGRIŞELOR
+3	Strada	Zarafi		
+3	Strada	Zarzărilor		
+3	Aleea	Zăvideni		
+3	Strada	Zborului		
+3	Strada	Zemeş		
+3	Strada	Zimnicea		
+3	Strada	Zizin		
+3	Strada	Zossima Demarat		
+4	Strada	11 Iunie		
+4	Bulevardul	Abatorului		
+4	Intrarea	Acţiunii		
+4	Strada	Acţiunii		
+4	Strada	Adamescu Gheorghe		
+4	Intrarea	Adierii		
+4	Strada	Alba		
+4	Intrarea	Albiliţei		
+4	Strada	Albinelor		
+4	Aleea	Aliorului		
+4	Strada	Aliorului		
+4	Strada	Almaşu Mare		fost Razachiei
+4	Strada	Almaşu Mic		
+4	Strada	Alpineşti		
+4	Strada	Alunişului		
+4	Strada	Aluviunii		
+4	Intrarea	Amara		
+4	Strada	Arcadiei		
+4	Strada	Argeşelu		
+4	Strada	Avalanşei		
+4	Strada	Ţurcaş	Aviator	
+4	Intrarea	Baba Voica		
+4	Strada	Bacalbaşa Anton		fost OŢELARILOR
+4	Strada	Băcia		
+4	Strada	Bacovia George		
+4	Strada	Băileşti		
+4	Intrarea	Balaci		
+4	Strada	Baladei		
+4	Strada	Bălăşanu Alexandru		
+4	Strada	Bâldana		
+4	Strada	Bâlea		
+4	Intrarea	Băltişoara		
+4	Strada	Băltiţa		
+4	Strada	Bănişor		
+4	Strada	Bardului		
+4	Strada	Bârza		
+4	Intrarea	Belciugatele		
+4	Drumul	Bercenarului		
+4	Intrarea	Berceni		
+4	Şoseaua	Berceni		
+4	Strada	Bibescu Vodă		
+4	Drumul	Binelui		
+4	Intrarea	Binelui		
+4	Strada	Biserica Alexe		fost AFINELOR
+4	Strada	Blândeşti		
+4	Strada	Boccaccio Giovanni		
+4	Intrarea	Bod		
+4	Strada	Bodoc		
+4	Intrarea	Bogza		
+4	Strada	Boian		
+4	Strada	Boldului		
+4	Intrarea	Bologa		
+4	Strada	Boltei		
+4	Aleea	Borcea		
+4	Strada	Bordeşti		
+4	Strada	Borodeşti		
+4	Strada	Bosianu Constantin		
+4	Strada	Brădetului		
+4	Intrarea	Brădiceni		
+4	Aleea	Bran		
+4	Bulevardul	Brâncoveanu Constantin		
+4	Strada	Brazdei		
+4	Strada	Buciumaşilor		
+4	Strada	Bucovăţ		
+4	Strada	Bucşoiu		
+4	Piaţa	Bucur		
+4	Strada	Bucur		
+4	Strada	Caisului		
+4	Aleea	Călineşti		
+4	Intrarea	Călţuna		
+4	Strada	Călţunaşi		
+4	Strada	Călugăru Marin		
+4	Drumul	Câmpeni		
+4	Bulevardul	Cantemir Dimitrie		
+4	Strada	Costescu Petre	Caporal	
+4	Strada	Dinu Paraschiv	Caporal	
+4	Strada	Gheorghe Ion	Caporal	
+4	Strada	Grigore Marin	Caporal	
+4	Intrarea	Rusu Olteanu	Caporal	
+4	Strada	Vasile Gheorghe	Caporal	
+4	Strada	Vasilescu Constantin	Caporal	
+4	Strada	Capidava		
+4	Strada	Cărămidarii De Jos		
+4	Strada	Cărăruia		
+4	Intrarea	Căscioarelor		
+4	Strada	Cătruneşti		
+4	Intrarea	Cavalului		
+4	Strada	Cercel Petru		
+4	Strada	Cercetătorilor		fost VEGETAŢIEI
+4	Strada	Cetatea Poenari		
+4	Aleea	Cetatea Veche		
+4	Strada	Cetatea Veche		
+4	Strada	Cetinei		
+4	Drumul	Cheile Turzii		
+4	Strada	Chindiei		
+4	Strada	Chipereşti		
+4	Aleea	Ciceu		
+4	Strada	Cimpoierilor		
+4	Strada	Ciobanu Mircea		
+4	Strada	Ciocăneşti		
+4	Strada	Ciochina		
+4	Intrarea	Ciorogârla		
+4	Intrarea	Ciubărului		
+4	Strada	Ciucaş		
+4	Intrarea	Ciuruleasa		
+4	Intrarea	Ciurului		
+4	Strada	Cojescu Iancu		
+4	Strada	Costescu Gheorghe	Colonel	
+4	Strada	Colnicului		
+4	Strada	Comişani		
+4	Piaţa	Concordiei		
+4	Strada	Concordiei		
+4	Strada	Constantin Rădulescu Motru		fost CUZA VODĂ 142-146
+4	Strada	Constantin Rădulescu Motru		fost CUZA VODĂ 148-160
+4	Strada	Constantin Rădulescu Motru		fost CUZA VODĂ 157-199
+4	Strada	Cornelia		
+4	Strada	Corneşti		
+4	Strada	Cornetului		
+4	Intrarea	Cosaşului		
+4	Bulevardul	Coşbuc George		
+4	Strada	Costache Stamate		
+4	Strada	Coştila		
+4	Aleea	Covasna		
+4	Strada	Covasna		
+4	Strada	Merişan Nicolae	Căpitan	
+4	Strada	Popescu Eremia	Căpitan	
+4	Intrarea	Preoţescu Gheorghe	Căpitan	
+4	Strada	Preoţescu Gheorghe	Căpitan	
+4	Strada	Vasilescu Mircea	Căpitan	
+4	Drumul	Creţeştilor		
+4	Aleea	Crevedia		
+4	Aleea	Cricovul Dulce		
+4	Aleea	Cricovul Sărat		
+4	Intrarea	Crişul Alb		
+4	Strada	Crişului		
+4	Strada	Cucuzel Ion		
+4	Strada	Cuţitul De Argint		
+4	Strada	Cuza Elena		
+4	Strada	Cuza Vodă		
+4	Strada	Dălhăuţi		
+4	Strada	Dâmbovnicului		
+4	Strada	Dâmbului		
+4	Strada	Danielopol Gheorghe		
+4	Strada	Daracului		
+4	Drumul	Dealu Armanului		
+4	Drumul	Dealu Bisericii		
+4	Drumul	Dealu Bistrii		
+4	Drumul	Dealu Bradului		
+4	Drumul	Dealu Caselor		
+4	Drumul	Dealu Corbului		
+4	Drumul	Dealu Crişului		
+4	Drumul	Dealu Crucii		
+4	Drumul	Dealu Cucului		
+4	Drumul	Dealu Ferului		
+4	Drumul	Dealu Floreni		
+4	Drumul	Dealu Frumos		
+4	Drumul	Dealu Geoagiului		
+4	Drumul	Dealu Istriţa		
+4	Drumul	Dealu Leului		
+4	Drumul	Dealu Pădurii		
+4	Drumul	Dealu Scheiului		
+4	Drumul	Dealu Viei		
+4	Drumul	Dealul Aluniş		
+4	Drumul	Dealul Babii		
+4	Strada	Dealul Mare		
+4	Aleea	Dealul Mitropoliei		fost Aleea M. A. N
+4	Strada	Deceneu		fost BUREBISTA
+4	Intrarea	Deciu		
+4	Strada	Deleanu Budai Ion		
+4	Strada	Democraţiei		
+4	Strada	Deseşti		
+4	Intrarea	Diademei		
+4	Strada	Didiţel		
+4	Intrarea	Digului		
+4	Strada	Dolhasca		
+4	Aleea	Dolina		
+4	Strada	Domniţa Florica		
+4	Aleea	Donea Diana Alexandra		fost Aleea SECUILOR B
+4	Aleea	Dorohoi		
+4	Strada	Dorohoi		
+4	Strada	Istrati Constantin	Doctor	
+4	Strada	Musceleanu Grigore	Doctor	
+4	Strada	Drăgăneşti		
+4	Intrarea	Drăguşa		
+4	Strada	Dumbrăveni		
+4	Strada	Dumbrăveşti		
+4	Strada	Duminicii		
+4	Strada	Dumitru Brumărescu		
+4	Strada	Dunării		
+4	Strada	Episcop Chesarie		fost CRĂIŢELOR
+4	Strada	Eroii Neamului		
+4	Strada	Evidenţiaţilor		
+4	Strada	Fabrica De Chibrituri		
+4	Intrarea	Fabulei		
+4	Strada	Făcliei		
+4	Intrarea	Făgeţelu		
+4	Strada	Făgetului		
+4	Strada	Farului		
+4	Intrarea	Fieni		
+4	Strada	Floarea Soarelui		
+4	Strada	Fraţii Făgărăşanu		
+4	Strada	Frigului		
+4	Strada	Dumitru Dumitru	Fruntaş	
+4	Strada	Nicolae Marinescu	Fruntaş	
+4	Strada	Frumuşani		
+4	Strada	Frunzişului		
+4	Piaţa	Gara Filaret		
+4	Intrarea	Gara Progresul		
+4	Strada	Gârniţei		
+4	Intrarea	Găsea		
+4	Drumul	Găzarului		
+4	Strada	Gazelei		
+4	Strada	George Georgescu		fost Calea RAHOVEI 1-91, 4-100
+4	Strada	Geţilor		
+4	Strada	Ghemului		
+4	Strada	Ghimpaţi		
+4	Strada	Ghindei		
+4	Drumul	Gilăului		
+4	Intrarea	Gilăului		
+4	Şoseaua	Giurgiului		
+4	Strada	Gladiolelor		fost LIBERTĂŢII şi Intrarea LIBERTĂŢII
+4	Strada	Glădiţei		
+4	Strada	Gociu Tudor		
+4	Aleea	Gorneşti		
+4	Strada	Gospodinelor		
+4	Strada	Govora		
+4	Strada	Grădiştea		
+4	Intrarea	Graiului		
+4	Strada	Cerchez Mihai	General	
+4	Strada	Haralambie Nicolae	General	
+4	Strada	Lupu Gheorghe	General	
+4	Strada	Popescu Candiano	General	
+4	Strada	Gramont		
+4	Strada	Grâului		
+4	Strada	Grigore Vodă		
+4	Strada	H. C. Andersen		
+4	Intrarea	Hârlău		
+4	Strada	Hârtopului		
+4	Strada	Haţegana		
+4	Strada	Haţeganu Iuliu		
+4	Strada	Haţegului		
+4	Aleea	Huedin		
+4	Strada	Huedin		
+4	Strada	Huşi		
+4	Strada	Iarba Câmpului		
+4	Strada	Idilei		
+4	Strada	Iliaş Vodă		
+4	Strada	Ilie Nicolae		
+4	Strada	Împăratul Traian		
+4	Splaiul	Independenţei		
+4	Strada	Ineluş		
+4	Strada	Hepiteş Ştefan	Inginer	
+4	Strada	Între Gârle		
+4	Strada	Inului		
+4	Strada	Învăţătorului		
+4	Strada	Ion Vodă Viteazul		
+4	Strada	Ipoteşti		fost SFÂNTA MARIA
+4	Intrarea	Ispravei		
+4	Aleea	Izvorul Crişului		
+4	Strada	Izvorul Crişului		
+4	Strada	Izvorul Mureşului		
+4	Aleea	Izvorul Oltului		
+4	Strada	Izvorul Oltului		
+4	Strada	Izvorul Rece		
+4	Strada	Izvorul Trotuşului		
+4	Strada	Jepilor		
+4	Drumul	Jilavei		
+4	Strada	Jirului		
+4	Strada	Joiţa		
+4	Strada	Justiţiei		
+4	Intrarea	Lacul Potelu		
+4	Strada	Laloşu		
+4	Strada	Lămâiţei		
+4	Aleea	Lamoteşti		
+4	Strada	Lamoteşti		
+4	Strada	Lânăriei		
+4	Strada	Lăstarului		
+4	Strada	Lăzărescu Maria		
+4	Strada	Leon Vodă		
+4	Drumul	Leordeni		
+4	Bulevardul	Libertăţii		
+4	Strada	Liciu Petre		
+4	Aleea	Livada Cu Duzi		
+4	Strada	Liveni		
+4	Strada	Păiuş Vasile	Locotenent	
+4	Strada	Luică		
+4	Strada	Luminişului		
+4	Strada	Luminoasă		
+4	Strada	Lunca Bârzeşti		
+4	Intrarea	Lunca Nouă		
+4	Strada	Măceşului		
+4	Strada	Boroczin	Maior	
+4	Intrarea	Manganului		
+4	Bulevardul	Mărăşeşti		
+4	Strada	Maria Tănase		fost CUZA VODĂ, fostă EVOLUŢIEI
+4	Strada	Măriuca		
+4	Strada	Mărţişor		
+4	Strada	Tănăsescu Ion	Medic	
+4	Strada	Melineşti		
+4	Strada	Meridianului		
+4	Bulevardul	Metalurgiei		fost Prelungirea DUMITRU PETRESCU
+4	Şoseaua	Mihai Bravu		
+4	Strada	Mihnea Vodă		
+4	Strada	Militaru Stoian		
+4	Aleea	Mirea Mioara Luiza		fost Aleea SECUILOR C
+4	Intrarea	Miron Cristea		fost PATRIARHIEI
+4	Strada	Filaret	Mitropolit	
+4	Strada	Grigore	Mitropolit	fost Strada STREHAIA
+4	Strada	Iosif	Mitropolit	fost Strada ŞERCAIA
+4	Strada	Nifon	Mitropolit	fost Strada MICŞUNEŞTI
+4	Strada	Veniamin Costache	Mitropolit	fost Strada VENIAMIN COSTACHE
+4	Intrarea	Miului		
+4	Strada	Mixandrei		
+4	Strada	Mocăncuţei		
+4	Strada	Moldoveanu Anghel		
+4	Strada	Moldoveni		
+4	Aleea	Moldoviţa		
+4	Strada	Moldoviţa		fost DUMITRU PETRESCU
+4	Strada	Moldoviţa		
+4	Intrarea	Moroiu Eliza		
+4	Intrarea	Moş Nicolae		
+4	Strada	Moşoaia		
+4	Strada	Opriş Ilie	Maior	
+4	Strada	Muguraş		
+4	Strada	Muntele Lung		
+4	Strada	Muntele Mare		
+4	Strada	Muzelor		
+4	Intrarea	Năruja		
+4	Piaţa	Naţiunile Unite		
+4	Strada	Negureni		
+4	Aleea	Nehoiu		
+4	Intrarea	Nestorei		
+4	Strada	Nicolinei		
+4	Strada	Nicopole		
+4	Aleea	Niculiţel		
+4	Strada	Nucetului		
+4	Strada	Obolului		
+4	Bulevardul	Obregia Alexandru		fost Bulevardul METALURGIEI
+4	Intrarea	Obstacolului		
+4	Strada	Odei		
+4	Strada	Oiţelor		
+4	Strada	Olimpului		
+4	Şoseaua	Olteniţei		
+4	Strada	Oprea Ilie		
+4	Intrarea	Orăştie		
+4	Strada	Orăştie		
+4	Strada	Oraviţa		
+4	Strada	Orgu Tănase		
+4	Aleea	Ornamentului		
+4	Intrarea	Ovidiu		
+4	Strada	Padeşu		
+4	Strada	Păduroiu		
+4	Strada	Păişului		
+4	Strada	Pajiştei		
+4	Strada	Păltinişului		
+4	Strada	Panselelor		
+4	Strada	Parincea		
+4	Strada	Patriarhiei		
+4	Strada	Penelului		
+4	Strada	Peroni		
+4	Strada	Perşani		
+4	Strada	Perşu Aurel		fost PRELUNGIRE CONSTANTIN BRÂNCOVEANU
+4	Strada	Petrescu Mihail		
+4	Strada	Petrilova		
+4	Strada	Petrolului		
+4	Strada	Dimitrescu Ştefan	Pictor	fost POMETULUI
+4	Strada	Picturii		
+4	Strada	Piperului		
+4	Calea	Piscului		
+4	Strada	Piscului		
+4	Strada	Plaiul Foii		
+4	Intrarea	Plaiului		
+4	Strada	Plugarilor		
+4	Intrarea	Plumbului		
+4	Strada	Podarului		
+4	Strada	Podul Înalt		
+4	Aleea	Poenari		
+4	Strada	Poenari		
+4	Intrarea	Pogăneşti		
+4	Strada	Pogoanele		
+4	Strada	Poiana Florilor		
+4	Intrarea	Poiana Mărului		
+4	Strada	Poieni		
+4	Intrarea	Pomârla		
+4	Strada	Pomârla		
+4	Strada	Poştalionului		
+4	Strada	Poteraş		
+4	Intrarea	Povestei		
+4	Strada	Povestei		
+4	Strada	Praşilei		
+4	Strada	Prescurea Valerian		
+4	Strada	Priboiului		
+4	Strada	Pridvorului		
+4	Strada	Principatele Unite		
+4	Strada	Prinosului		
+4	Strada	Colorian Anton	Profesor Doctor	
+4	Strada	Murgoci Gheorghe	Profesor	
+4	Strada	Profesorilor		
+4	Strada	Puşcariu Ion		
+4	Strada	Puţul Cu Tei		
+4	Strada	Răbojului		
+4	Aleea	Racoviţă Emil		
+4	Strada	Racoviţă Emil		
+4	Strada	Radu Vodă		
+4	Strada	Rădulescu Drumea		
+4	Strada	Radului		
+4	Strada	Rămăşagului		
+4	Strada	Râul Mara		
+4	Aleea	Râul Sadului		
+4	Strada	Râul Şoimului		
+4	Aleea	Râul Târgului		
+4	Strada	Râul Vedea		
+4	Strada	Rediu		
+4	Strada	Redutei		
+4	Bulevardul	Regina Maria		fost Bulevardul GEORGE COŞBUC 1-51, 2-98
+4	Piaţa	Regina Maria		
+4	Strada	Relu		
+4	Strada	Reşita		
+4	Strada	Reşiţa		
+4	Aleea	Reşiţa A		
+4	Aleea	Reşita B		
+4	Aleea	Reşiţa C		
+4	Aleea	Reşiţa D		
+4	Strada	Rezonanţei		
+4	Strada	Roată Ion		
+4	Intrarea	Rolei		
+4	Strada	Romanescu Aristizza		
+4	Strada	Rondelului		
+4	Strada	Rosiori		
+4	Intrarea	Roşiori		
+4	Strada	Ruginoasa		
+4	Strada	Runcu		
+4	Strada	Sabarului		
+4	Strada	Săcăşel		
+4	Strada	Sălcetului		
+4	Strada	Salinei		
+4	Strada	Săvineşti		
+4	Intrarea	Scoruşului		
+4	Intrarea	Scropoasa		
+4	Strada	Scumpiei		
+4	Intrarea	Secarei		
+4	Strada	Secerei		
+4	Strada	Secerişului		
+4	Aleea	Secuilor		fost Aleea SECUILOR D
+4	Strada	Secuilor		fost VULTURICA 31
+4	Strada	Şeica		
+4	Strada	Semenic		
+4	Strada	Şerban Constantin		
+4	Calea	Şerban Vodă		
+4	Intrarea	Brujba Ion	Sergent	
+4	Strada	Gheorghe Tache	Sergent	
+4	Strada	Iriceanu Ion	Sergent	
+4	Strada	Ancuţa Ilie	Sergent Major	
+4	Aleea	Holuţ Emil	Sergent Major	
+4	Strada	Niţu Vasile	Sergent	
+4	Strada	Şezătoarei		
+4	Strada	Sfântul Ilie		
+4	Strada	Sfânta Ecaterina		fost LALELELOR
+4	Strada	Condurache Gheorghe	Sergent	
+4	Strada	David Ilie	Sergent	
+4	Strada	Florescu Nicolae	Sergent	
+4	Strada	Lătăreţu Dumitru	Sergent	
+4	Aleea	Popescu Victor	Sergent Major	
+4	Strada	Samoilă Dumitru	Sergent Major	
+4	Strada	Niţu Vasile	Sergent	
+4	Strada	Pechiu Ion	Sergent	
+4	Strada	Petcu Avram	Sergent	
+4	Strada	Sandu Marin	Sergent	
+4	Strada	Sibiel		
+4	Strada	Silvestri Constantin		fost SFINŢII APOSTOLI 41-79, 80-84
+4	Strada	Simigiului		
+4	Bulevardul	Şincai Gheorghe		
+4	Intrarea	Siseşti		
+4	Strada	Sistematizării		
+4	Aleea	Slătioara		
+4	Intrarea	Slobozia		
+4	Strada	Slobozia		
+4	Strada	Belerciu Nicolae	Sublocotenent	
+4	Strada	Ionescu Gheorghe	Sublocotenent	
+4	Aleea	Dragoş Mladinovici	Sublocotenent Post Mortem	fost NIŞEI
+4	Intrarea	Smaranda		
+4	Strada	Şoimuş		
+4	Aleea	Barbu Nicolae	Soldat	
+4	Strada	Ciocodeică Ioan	Soldat	
+4	Strada	Enache Ion	Soldat	
+4	Strada	Ilie Şerban	Soldat	
+4	Strada	Ion . G. Ion	Soldat	
+4	Strada	Ionescu Florea	Soldat	
+4	Strada	Lică Gheorghe	Soldat	
+4	Strada	Mincă Dumitru	Soldat	
+4	Strada	Ristea Ion	Soldat	
+4	Strada	Ştefan Simion	Soldat	
+4	Strada	Şoldanului		
+4	Aleea	Someşu Mare		
+4	Aleea	Someşul Cald		
+4	Aleea	Someşul Mare		
+4	Aleea	Someşul Mic		
+4	Intrarea	Sorocului		
+4	Strada	Spătar Buzescu Preda		
+4	Strada	Spineni		
+4	Strada	Spiniş		
+4	Strada	Stânei		
+4	Strada	Stânjeneilor		
+4	Strada	Stejărişului		
+4	Intrarea	Stoicani		
+4	Strada	Stolnici		
+4	Strada	Străduinţei		
+4	Strada	Straja		
+4	Intrarea	Strunelor		
+4	Aleea	Stupilor		
+4	Strada	Stupilor		
+4	Intrarea	Şuerului		
+4	Strada	Sulina		fost CANONICUL BUNEA
+4	Strada	Şura Mare		
+4	Aleea	Suter		fost NEGRENI
+4	Strada	Tăbăcarilor		
+4	Intrarea	Târgu Frumos		
+4	Strada	Târnava Mică		
+4	Strada	Tătuleşti		
+4	Strada	Teascului		
+4	Aleea	Ţebea		
+4	Intrarea	Tecşeşti		
+4	Intrarea	Tempea Radu		
+4	Strada	Tempea Radu		
+4	Aleea	Terasei		
+4	Strada	Timuş Nicolae		fost COLNICUL MIC
+4	Bulevardul	Tineretului		fost PIONIERILOR
+4	Strada	Tismana		
+4	Strada	Titus		
+4	Aleea	Tohani		
+4	Strada	Tohani		
+4	Aleea	Tomeşti		
+4	Strada	Torţei		
+4	Intrarea	Trei Brazi		
+4	Strada	Trei Brazi		
+4	Aleea	Trestiana		
+4	Strada	Trestiana		
+4	Strada	Trivale		
+4	Strada	Tulnici		
+4	Intrarea	Tunetului		
+4	Strada	Tunului		
+4	Strada	Turlei		
+4	Strada	Turnu Măgurele		fost DUMITRU PETRESCU
+4	Strada	Turnu Măgurele		
+4	Strada	Ţuţea Petre		fost LĂCUSTEI
+4	Aleea	Ucea		
+4	Strada	Ucea		
+4	Aleea	Uioara		
+4	Strada	Uioara		
+4	Strada	Ulieşti		
+4	Intrarea	Ulmeni		
+4	Strada	Ulmetului		
+4	Strada	Ungra		
+4	Splaiul	Unirii		
+4	Intrarea	Urcuşului		
+4	Aleea	Urucu Adrian		fost Aleea SECUILOR A
+4	Strada	Urziceni		
+4	Strada	V. V. Stanciu		fost CUZA VODĂ 162-168, 201-215, fost COLECTORULUI
+4	Strada	Văcărescu Ienăchiţă		
+4	Calea	Văcăreşti		
+4	Intrarea	Văcăreşti		
+4	Strada	Vârciorova		
+4	Strada	Vasilescu Gheorghe		
+4	Strada	Vatra Dornei		
+4	Strada	Verzişori		
+4	Strada	Vestitorului		
+4	Intrarea	Vicşani		
+4	Strada	Viorele		
+4	Strada	Vişana		
+4	Şoseaua	Vitan Bârzeşti		
+4	Strada	Vitejescu		
+4	Strada	Voila		
+4	Strada	Volovăţ		
+4	Strada	Vuietului		
+4	Strada	Vulcăneşti		
+4	Strada	Vultureni		
+4	Intrarea	Vulturul		
+4	Strada	Xenofon		
+4	Strada	Zamora		
+4	Aleea	Zânelor		
+4	Strada	Zănoaga		
+4	Drumul	Zaplazului		
+4	Strada	Zărneşti		
+4	Strada	Zătreni		
+4	Strada	Zeicani		
+4	Intrarea	Zgurei		
+4	Intrarea	Zlatna		
+4	Strada	Zlătunoaia		
+4	Strada	Zmeica		
+4	Strada	Zorileni		
+4	Intrarea	Zorleasca		
+5	Calea	13 Septembrie		
+5	Intrarea	Abagiilor		
+5	Strada	Abatajului		
+5	Strada	Abnegaţiei		
+5	Strada	Acidava		
+5	Intrarea	Acvila		
+5	Strada	Acvila		
+5	Strada	Adrian		
+5	Strada	Agapie Ion	Caporal	
+5	Strada	Albeni		
+5	Strada	Alboteşti		
+5	Şoseaua	Alexandria		
+5	Strada	Aliman		
+5	Strada	Altoiului		
+5	Strada	Amaradiei		
+5	Strada	Amurgului		
+5	Strada	Amza Pellea		
+5	Strada	Anastasiu Constantin		
+5	Strada	Anghel Alexandru		
+5	Strada	Anghelache Ivan	Caporal	
+5	Strada	Antiaeriană		
+5	Strada	Antoniu Alexandru		
+5	Strada	Anul 1821		
+5	Strada	Apolodor		
+5	Strada	Arămeşti		
+5	Strada	Arbanaşi		
+5	Strada	Arefu		
+5	Strada	Armistiţiului		
+5	Strada	Aron Pumnu		
+5	Strada	Asachi Gheorghe		
+5	Strada	Asistenţei		
+5	Strada	Atanase Demosthen	General Medic	
+5	Strada	Atanasiu Ion	Profesor Doctor	
+5	Intrarea	Azimei		
+5	Strada	Babeş Victor	Profesor Doctor	
+5	Strada	Băcănău		
+5	Aleea	Bacău		
+5	Strada	Bacău		
+5	Strada	Bachus		
+5	Strada	Baciului		
+5	Intrarea	Bădărău Eugen		
+5	Strada	Badea Dumitru		
+5	Strada	Bagdasar Dumitru	Doctor	
+5	Strada	Baionetei		
+5	Strada	Băiulescu Ion		
+5	Strada	Băjeşti		
+5	Strada	Bălan Constantin	Caporal	
+5	Strada	Bălăneşti		
+5	Strada	Băleni		
+5	Strada	Bălineşti		
+5	Strada	Balomir		
+5	Strada	Baltagului		
+5	Strada	Baltăreţului		
+5	Strada	Banu Mărăcine		
+5	Strada	Barajului		
+5	Strada	Baraolt		
+5	Strada	Bărbătescu Vechi		
+5	Aleea	Bărbăteşti		
+5	Strada	Bărdaşului		
+5	Strada	Basarab Neagoe		
+5	Strada	Basarabilor		
+5	Strada	Bascov		
+5	Intrarea	Bătăşani		
+5	Strada	Bazaltului		
+5	Strada	Beclean		
+5	Intrarea	Bega		
+5	Strada	Bega		
+5	Intrarea	Beica		
+5	Strada	Beldiman Alexandru		
+5	Strada	Berescu Ion		
+5	Strada	Berzovia		
+5	Strada	Bârcă		
+5	Strada	Bârlad		
+5	Strada	Bârlea		
+5	Strada	Bârnova		
+5	Intrarea	Biserica Ghencea		
+5	Strada	Bistreţu		
+5	Strada	Bitumului		
+5	Strada	Blejan Florea	Sergent Major	
+5	Intrarea	Blidari		
+5	Strada	Bobâlna		
+5	Strada	Bobului		
+5	Strada	Bocăneţ Alexandru		
+5	Strada	Bogdanescu Iordan		
+5	Strada	Boicescu Alexandru	Doctor	
+5	Intrarea	Bolboci		
+5	Strada	Boldeşti		
+5	Strada	Bonea Constantin		
+5	Strada	Borcan Ion		
+5	Strada	Borsec		
+5	Strada	Botescu Haralambie	Doctor	
+5	Strada	Botez Dumitru		
+5	Aleea	Botorani		
+5	Intrarea	Botorca		
+5	Strada	Botorca		
+5	Strada	Botoşani		
+5	Strada	Brădeana		
+5	Drumul	Bragadiru		
+5	Intrarea	Brăniştari		
+5	Strada	Brăniştari		
+5	Strada	Brătăşanca		
+5	Strada	Brătila		
+5	Strada	Brazilor		
+5	Strada	Brebenei		
+5	Strada	Breslelor		
+5	Strada	Brezoi		
+5	Strada	Brezoianu Ion		
+5	Strada	Brâului		
+5	Strada	Brutus M. I.		
+5	Intrarea	Bucureasa		
+5	Intrarea	Bucureşti-Măgurele		
+5	Şoseaua	Bucureşti-Măgurele		
+5	Strada	Buicliu Cristea	Doctor	
+5	Strada	Bulboacă		
+5	Strada	Bulgăruş		
+5	Intrarea	Burlacu Ion	Caporal	
+5	Strada	Burlacu Ion	Caporal	
+5	Strada	Burzuc		
+5	Strada	Busuiocului		
+5	Strada	Butimanu		
+5	Strada	Butoianu Mihail	General Doctor	
+5	Intrarea	Buturugeni		
+5	Strada	Buturugilor		
+5	Strada	Buzău		
+5	Strada	Buzoieni		
+5	Strada	Călăreţilor		
+5	Strada	Califarului		
+5	Strada	Calinici Mihail		
+5	Strada	Câmpina		
+5	Strada	Capşa Ştefan	Doctor	
+5	Strada	Caracal		
+5	Strada	Carcalechi Zaharia		
+5	Strada	Carelor		
+5	Strada	Carpea Ion	Sergent Major	
+5	Intrarea	Cartojanca		
+5	Strada	Cartojani		
+5	Strada	Carul Mare		
+5	Strada	Carul Mic		
+5	Intrarea	Căruţei		
+5	Strada	Căruţei		
+5	Strada	Cascadei		
+5	Strada	Cedrilor		
+5	Strada	Cegan Ioniţă		
+5	Strada	Cenad		
+5	Intrarea	Cernădia		
+5	Strada	Cernavodă		
+5	Strada	Cheia		
+5	Strada	Chihlimbarului		
+5	Strada	Chimirului		
+5	Intrarea	Chirilescu Mihail	Sergent	
+5	Strada	Chirilescu Mihail	Sergent	
+5	Intrarea	Chiriţescu Radu		
+5	Intrarea	Chirnogi		
+5	Strada	Cibinului		
+5	Intrarea	Ciclop		
+5	Strada	Câlniste		
+5	Strada	Câmpeanu	Locotenent	
+5	Intrarea	Câmpeneşti		
+5	Strada	Câmpeneşti		
+5	Strada	Câmpia Burnas		
+5	Strada	Câmpia Mierlei		
+5	Strada	Câmpul Mare		
+5	Intrarea	Cincu		
+5	Strada	Cândea Ion	Soldat	
+5	Intrarea	Ciolpani		
+5	Strada	Cioranu Mihail		
+5	Intrarea	Ciorăşti		
+5	Strada	Circulaţiei		
+5	Strada	Cârlibaba		
+5	Intrarea	Cisla		
+5	Intrarea	Ciuboţica Cucului		
+5	Strada	Ciuboţica Cucului		
+5	Strada	Ciucă Mihai	Doctor	
+5	Strada	Ciuleandra		
+5	Intrarea	Ciurea Aurel		
+5	Strada	Cladova		
+5	Strada	Clejani		
+5	Strada	Cluceru Sonia		
+5	Strada	Clunet	Doctor	
+5	Intrarea	Cobadin		
+5	Strada	Cobadin		
+5	Strada	Cocea N. D.		
+5	Intrarea	Codrului		
+5	Strada	Codrului		
+5	Strada	Cojocaru Elena Si Vasile		
+5	Intrarea	Colibaşi		
+5	Strada	Colindelor		
+5	Strada	Colinei		
+5	Strada	Coman Ion	Soldat	
+5	Intrarea	Comaneşti		
+5	Strada	Comşeşti		
+5	Strada	Condorului		
+5	Intrarea	Confirmării		
+5	Strada	Consecvenţei		
+5	Strada	Constantin Vodă		
+5	Strada	Consumului		
+5	Strada	Conţescu Constantin		
+5	Strada	Conţeşti		
+5	Strada	Cooperaţiei		
+5	Drumul	Cooperativei		
+5	Intrarea	Cooperativei		
+5	Strada	Corbiţa		
+5	Intrarea	Coriolan Caius Marcius		
+5	Strada	Coriolan Caius Marcius		
+5	Strada	Cornea Ion		
+5	Strada	Corod		
+5	Intrarea	Cosmina		
+5	Strada	Coşoveni		
+5	Aleea	Costineşti		
+5	Strada	Coşuleni		
+5	Strada	Cozieni		
+5	Strada	Craioveanu Luca	Colonel	
+5	Aleea	Craioviţa		
+5	Strada	Crăişorului		
+5	Drumul	Crăiţelor		
+5	Strada	Crasna		
+5	Strada	Creangă Ion		
+5	Strada	Creaţa		
+5	Strada	Cremenei		
+5	Strada	Crizantemelor		
+5	Strada	Croitoru Vasile	Soldat	
+5	Strada	Cucuteni		
+5	Strada	Culturii		
+5	Strada	Cunţan Maria		
+5	Strada	Cununiţa		
+5	Strada	Cupidon		
+5	Strada	Curie Jolliot Frederic		
+5	Strada	Curtea De Argeş		
+5	Intrarea	Daia		
+5	Strada	Dăicăreanu		
+5	Strada	Dăişoara		
+5	Intrarea	Daliei		
+5	Strada	Dan Mihail	Pictor	
+5	Strada	Dantelei		
+5	Intrarea	Dărăşti		
+5	Strada	Dărniciei		
+5	Drumul	Dârvari		
+5	Strada	Datinilor		
+5	Strada	Davideşti		
+5	Strada	Davila Ana		
+5	Strada	Davila Carol	Doctor	
+5	Strada	Dealul Cotmeana		
+5	Intrarea	Degeţelului		
+5	Strada	Deliu Constantin	Sergent	
+5	Strada	Delureni		
+5	Strada	Dihorului		
+5	Intrarea	Dimieni		
+5	Strada	Dincă Ştefan		
+5	Strada	Dârste		
+5	Strada	Disciplinei		
+5	Strada	Dobrin Nicolae		
+5	Strada	Dobrun		
+5	Strada	Docolina		
+5	Strada	Docuri		
+5	Strada	Dogaru Anghel		
+5	Intrarea	Doina		
+5	Strada	Doina		
+5	Strada	Doljeşti		
+5	Strada	Domniţa Anastasia		
+5	Strada	Donici Gheorghe	Sergent	
+5	Strada	Dorneasca		
+5	Strada	Dornişoara		
+5	Strada	Dorului		
+5	Strada	Dosoftei	Mitropolit	
+5	Strada	Drag Marin	Sergent Major	
+5	Strada	Dragalina Ion	General	
+5	Strada	Drăgan Nicolae		
+5	Strada	Drăgăşani		
+5	Strada	Drăghiescu Dimitrie	Doctor	
+5	Strada	Dragomireşti		
+5	Strada	Dragova		
+5	Strada	Dragu Teodor	Inginer	
+5	Strada	Drăguţ Gheorghe	Caporal	
+5	Strada	Dretea		
+5	Intrarea	Drumul Mic Între Vii		
+5	Strada	Drumul Mic Între Vii		
+5	Strada	Dudescu Radu		
+5	Strada	Dumbrava Nouă		
+5	Strada	Dumitrescu Ilie	Sergent	
+5	Strada	Dumitrescu Vasile		
+5	Strada	Dunavăţ		
+5	Strada	Duţă Gheorghe		
+5	Intrarea	Echerului		
+5	Strada	Echinocţiului		
+5	Strada	Eclipsei		
+5	Strada	Ecoului		
+5	Strada	Ecuatorului		
+5	Strada	Eforiei		
+5	Strada	Eftimiu Mache		
+5	Strada	Elegiei		
+5	Strada	Enache Spirache		
+5	Strada	Epigonilor		
+5	Intrarea	Epigramei		
+5	Strada	Erie Eroul		
+5	Bulevardul	Eroii Sanitari		
+5	Bulevardul	Eroilor		
+5	Intrarea	Eternităţii		
+5	Strada	Eternităţii		
+5	Strada	Eustaţiu Mihail	General	
+5	Intrarea	Evocării		
+5	Strada	Fabrica De Chibrituri		
+5	Intrarea	Fărcăşanca		
+5	Strada	Fărcăşanca		
+5	Strada	Făt Frumos		
+5	Intrarea	Fedeleşului		
+5	Calea	Ferentari		
+5	Prelungirea	Ferentari		
+5	Intrarea	Ferentarilor A		
+5	Intrarea	Ferentarilor B		
+5	Intrarea	Ferentarilor C		
+5	Strada	Filiaşi		
+5	Strada	Firuţa		
+5	Strada	Flamurei		
+5	Strada	Flautului		
+5	Drumul	Floare De Colţ		
+5	Strada	Floare De Gheaţă		
+5	Strada	Floare De Vârf		
+5	Strada	Florarilor		
+5	Strada	Florea Gheorghe	Soldat	
+5	Strada	Florescu Aurel		
+5	Strada	Floretei		
+5	Strada	Florica		
+5	Strada	Fluturilor		
+5	Strada	Focşani		
+5	Intrarea	Fragilor		
+5	Strada	Fragmentului		
+5	Strada	Fraţii Buzeşti		
+5	Strada	Freamătului		
+5	Strada	Frânarului		
+5	Intrarea	Frânceşti		
+5	Strada	Frunte Lată		
+5	Strada	Fulgereşti		
+5	Intrarea	Fulgilor		
+5	Drumul	Funigeilor		
+5	Strada	Furculeşti		
+5	Strada	Furnalului		
+5	Intrarea	Găeşti		
+5	Strada	Găeşti		
+5	Strada	Gafton Lazăr	Sergent	
+5	Strada	Găgeşti		
+5	Strada	Găiceana		
+5	Strada	Gălăuţaşi		
+5	Intrarea	Gălbinelelor		
+5	Strada	Galea Nicolae		
+5	Strada	Gall Iuliu		
+5	Strada	Gardeniei		
+5	Intrarea	Garoafei		
+5	Strada	Garoafei		
+5	Strada	Garofeanu I.	Locotenent Aviator	
+5	Strada	Gaşpar Dumitru	Locotenent	
+5	Intrarea	Gazonului		
+5	Strada	Gemănata		
+5	Bulevardul	George Coşbuc		
+5	Strada	Gheorghiade Teodosiu	Doctor	
+5	Strada	Gheorghieni		
+5	Strada	Gheorghiu Filofteia		
+5	Strada	Gheorghiu Pericle		
+5	Strada	Gherghefului		
+5	Strada	Gherghina		
+5	Intrarea	Ghidigeni		
+5	Strada	Ghidigeni		
+5	Aleea	Ghimeş		
+5	Drumul	Ghindari		
+5	Strada	Ghiocului		
+5	Strada	Ghiulamila Ion	Doctor	
+5	Strada	Gâdescu Petre	Doctor	
+5	Strada	Gilortului		
+5	Strada	Gârbea Ion	Căpitan	
+5	Intrarea	Giurgiului		
+5	Strada	Giuvala		
+5	Strada	Glicinelor		
+5	Strada	Gorani		
+5	Strada	Gorgona Dimitrie		
+5	Strada	Gorjului		
+5	Intrarea	Gorneni		
+5	Strada	Gorovei Artur		
+5	Strada	Grădina Cu Cai		
+5	Strada	Grădinii		
+5	Intrarea	Grădiniţei		
+5	Strada	Grapei		
+5	Strada	Greaca		
+5	Strada	Grecescu Dimitrie	Doctor	
+5	Strada	Grigoreanu Petre	Caporal	
+5	Strada	Grindu		
+5	Strada	Gripescu Ilie		
+5	Strada	Grozavu Vasile	Sublocotenent	
+5	Strada	Gruia		
+5	Strada	Gura Lotrului		
+5	Strada	Gura Padinii		
+5	Strada	Guriţă Ilie	Fruntaş	
+5	Strada	Gutuilor		
+5	Strada	Hagi Dina		
+5	Strada	Hălmăgeanu Gheorghe		
+5	Strada	Hărniciei		
+5	Strada	Harpei		
+5	Strada	Haşdeu Petriceicu Bogdan		
+5	Strada	Haţegana		
+5	Strada	Hepiteş Ştefan	Inginer	
+5	Strada	Herculane		
+5	Strada	Hercule		
+5	Strada	Herescu Petre	Doctor	
+5	Intrarea	Hereşti		
+5	Intrarea	Humuleşti		
+5	Strada	Humuleşti		
+5	Strada	Hurmuzescu Dragomir		
+5	Intrarea	Huţani		
+5	Strada	Iacob Andrei		
+5	Aleea	Iacob Andrei A		
+5	Aleea	Iacob Andrei B		
+5	Aleea	Iacob Andrei C		
+5	Aleea	Iacob Andrei D		
+5	Strada	Iacobeni		
+5	Strada	Iacovache Alexandru	Inginer	
+5	Strada	Iancu Jianu		
+5	Strada	Iaşi		
+5	Strada	Iasomiei		
+5	Strada	Iatropol Panait	Doctor	
+5	Strada	Iazului		
+5	Strada	Iederei		
+5	Strada	Ileana Cosânzeana		
+5	Strada	Ilfov		
+5	Strada	Iliada		
+5	Strada	Ilie Mihail	Soldat	
+5	Strada	Ilina	Caporal	
+5	Aleea	Imaşului		
+5	Strada	Imaşului		
+5	Strada	Imboldului		
+5	Strada	Înclinată		
+5	Splaiul	Independenţei		
+5	Strada	Îndrumării		
+5	Intrarea	Inovaţiei		
+5	Strada	Învoirii		
+5	Strada	Ioachim Gheorghe		
+5	Strada	Ion Conea		
+5	Intrarea	Ionescu Cristea		
+5	Strada	Ionescu Cristea		
+5	Strada	Ionescu Stefan Octavian		
+5	Strada	Ionescu Thoma	Doctor	
+5	Strada	Iordache Năstase		
+5	Strada	Iordana		
+5	Strada	Iorga Gheorghe	Sergent Major	
+5	Strada	Iosif O. Eugen	Doctor	
+5	Strada	Iovan Ion	Fruntaş	
+5	Strada	Ioviţa		
+5	Intrarea	Ispirescu Petre		
+5	Strada	Ispirescu Petre		
+5	Strada	Ivănescu Dumitru		
+5	Strada	Ivireanu Antim	Mitropolit	
+5	Strada	Izvor		
+5	Strada	Jiblea		
+5	Intrarea	Jibou		
+5	Strada	Jilişte		
+5	Strada	Jirlău		
+5	Strada	Johann Gutenberg		
+5	Strada	Jugureni		
+5	Intrarea	Jupâneşti		
+5	Strada	Jurilovca		
+5	Strada	Koch K. Robert	Doctor	
+5	Bulevardul	Kogălniceanu Mihail		
+5	Piaţa	Kogălniceanu Mihail		
+5	Strada	Lacul Bucura		
+5	Strada	Lacul Ciulniţa		
+5	Strada	Lacul Dulce		
+5	Strada	Lacul Mare		
+5	Strada	Lacul Oltina		
+5	Strada	Lacul Orza		
+5	Strada	Lacul Pasărea		
+5	Strada	Lacul Plopului		
+5	Strada	Lacul Rastu		
+5	Intrarea	Lacul Urlea		
+5	Strada	Lăngeşti		
+5	Strada	Lanţului		
+5	Strada	Lăscărescu Valdemar	Căpitan	
+5	Strada	Lăstunului		
+5	Strada	Lavei		
+5	Strada	Lăzărescu Dumitru		
+5	Strada	Lecca Constantin	Pictor	
+5	Strada	Leonte Anastasievici	Doctor	
+5	Strada	Leopardului		
+5	Aleea	Lereşti		
+5	Strada	Lereşti		
+5	Strada	Lespezi		
+5	Intrarea	Letea		
+5	Bulevardul	Libertăţii		
+5	Strada	Liliacul Alb		
+5	Strada	Limanul Corbului		
+5	Strada	Lintes Petre	Locotenent	
+5	Intrarea	Lintesti		
+5	Strada	Lipşa		
+5	Strada	Lipscani		
+5	Strada	Lister	Doctor	
+5	Strada	Litografiei		
+5	Aleea	Livezilor		
+5	Intrarea	Livezilor		
+5	Strada	Livezilor		
+5	Strada	Locusteanu Alexandru	Profesor Doctor	
+5	Strada	Luceafărului		
+5	Intrarea	Lucernei		
+5	Strada	Lucernei		
+5	Strada	Lucifer		
+5	Strada	Luntreni		
+5	Strada	Lupoaicei		
+5	Drumul	Luptătorii Antifascişti		
+5	Intrarea	Luptătorii Antifascişti		
+5	Strada	Măghiranului		
+5	Strada	Măgura Codlei		
+5	Strada	Măgurei		
+5	Strada	Malcoci		
+5	Strada	Manea Şerban	Sergent	
+5	Strada	Mănescu Constantin		
+5	Intrarea	Mangalia		
+5	Strada	Manolescu Nicolae	Doctor	
+5	Drumul	Mărăcineni		
+5	Strada	Marc Aureliu		
+5	Strada	Mărgeanului		
+5	Intrarea	Mărgineni		
+5	Strada	Mărgineni		
+5	Strada	Marin Constantin		
+5	Strada	Marinescu Constantin	Locotenent Colonel	
+5	Bulevardul	Marinescu Gheorghe	Profesor Doctor	
+5	Strada	Marinescu Petre		
+5	Strada	Matei Constantin		
+5	Strada	Mateiaşul		
+5	Strada	Mateiu Caragiale		
+5	Strada	Merişani		
+5	Strada	Mestecăniş		
+5	Strada	Miculescu Constantin		
+5	Strada	Miercurea Ciuc		
+5	Strada	Mihai Stan	Sergent	
+5	Strada	Mihai Vodă		
+5	Strada	Mihail Sebastian		
+5	Strada	Mândreşti		
+5	Strada	Minotaurului		
+5	Intrarea	Minucu		
+5	Strada	Mircea Cel Batrân		
+5	Strada	Mirinescu Mihail	Doctor	
+5	Strada	Mişcă Petre	Caporal	
+5	Intrarea	Mistreţului		
+5	Strada	Miţari		
+5	Strada	Miuleşti		
+5	Strada	Mizileni		
+5	Strada	Moara Roşie		
+5	Strada	Modoran Ene	Soldat	
+5	Strada	Moldoveanului		
+5	Intrarea	Moneasa		
+5	Strada	Moraru Ştefan	Sergent	
+5	Strada	Moruzeştilor		
+5	Strada	Moş Adam		
+5	Strada	Moscului		
+5	Intrarea	Mostiştea		
+5	Strada	Moţoc		
+5	Strada	Motrului		
+5	Strada	Mucenicul Becheru		
+5	Strada	Muncitorului		
+5	Strada	Munţii Carpaţi		
+5	Strada	Muşat Constantin	Sergent	
+5	Strada	Muşatinilor		
+5	Intrarea	Muscă Nicolae		
+5	Intrarea	Muscă Vasile		
+5	Strada	Năbucului		
+5	Strada	Naipu		
+5	Strada	Nandru		
+5	Strada	Nanu Muscel Ioan	Doctor	
+5	Strada	Năsăud		
+5	Bulevardul	Naţiunile Unite		
+5	Strada	Năvalnicului		
+5	Strada	Nedeia		
+5	Strada	Nedelcu Ilie	Căpitan	
+5	Strada	Nedeleanu Ion	Sergent Major	
+5	Drumul	Nefliului		
+5	Intrarea	Negri Costache		
+5	Strada	Negri Costache		
+5	Strada	Nehoiaşi		
+5	Strada	Nenciu Petre		
+5	Intrarea	Neptun		
+5	Strada	Neptun		
+5	Strada	Nicolae Păulescu		fost SECTIUNE DIN ATANASE DEMOSTHEN
+5	Strada	Niculescu Iosif		
+5	Strada	Nivelării		
+5	Strada	Novaci		
+5	Strada	Nufărul Galben		
+5	Strada	Nuţu Anghel		
+5	Strada	Nuţu Ion	Sergent	
+5	Strada	Oaie Ion	Erou	
+5	Strada	Obedenaru Mihail	Doctor	
+5	Strada	Odihnei		
+5	Strada	Odoarei		
+5	Strada	Ofrandei		
+5	Strada	Ogorului		
+5	Intrarea	Ogradei		
+5	Strada	Ogrezeni		
+5	Intrarea	Ojogului		
+5	Strada	Olaru Zamfir		
+5	Strada	Olteanu	Soldat	
+5	Strada	Oltina		
+5	Strada	Oltului		
+5	Strada	Omătului		
+5	Strada	Operetei		
+5	Strada	Oprea Istrate		
+5	Strada	Ordinii		
+5	Strada	Orion		
+5	Strada	Orleanu Paul	Doctor	fost SECTIUNE DIN MITROPOLIT ANTIM IVIREANU
+5	Strada	Osiris		
+5	Strada	Ostrov		
+5	Intrarea	Ostroveni		
+5	Intrarea	Oţeleni		
+5	Strada	Oţelul Roşu		
+5	Strada	Otulescu Scarlat		
+5	Strada	Palota		
+5	Strada	Paltinilor		
+5	Strada	Păltinoasa		
+5	Şoseaua	Panduri		
+5	Strada	Panerului		
+5	Strada	Panterei		
+5	Strada	Păpuşoiului		
+5	Strada	Paraschivescu		
+5	Strada	Pasărea		
+5	Strada	Pasteur Louis	Doctor	
+5	Strada	Păstrăvilor		
+5	Intrarea	Păşunilor		
+5	Strada	Păşunilor		
+5	Intrarea	Pătuleni		
+5	Strada	Paulina		
+5	Strada	Păun Ilie		
+5	Strada	Păun Nicolae	Caporal	
+5	Strada	Păun Petre		
+5	Intrarea	Păun Vasile		
+5	Strada	Păunaşul Codrilor		
+5	Strada	Păuşa		
+5	Strada	Pavel Constantin		
+5	Strada	Pazei		
+5	Strada	Pecineaga		
+5	Strada	Pecinisca		
+5	Strada	Peciu Nou		
+5	Strada	Peleaga		
+5	Strada	Peneş Dumitru	Aviator	
+5	Drumul	Penteleu		
+5	Strada	Pereni		
+5	Strada	Periniţa		
+5	Intrarea	Persicani		
+5	Strada	Persicani		
+5	Strada	Petalelor		
+5	Strada	Petrescu Zaharia	Doctor	
+5	Strada	Petrini Galati Mihail	Doctor	
+5	Strada	Petroşeni		
+5	Strada	Petru Vodă		
+5	Strada	Piatra Albă		
+5	Strada	Piatra Neamţ		
+5	Strada	Piatra Olt		
+5	Strada	Piatra Şoimului		
+5	Strada	Pichetului		
+5	Bulevardul	Pieptănari		
+5	Intrarea	Pângăraţi		
+5	Drumul	Pipirig		
+5	Strada	Piramidei		
+5	Strada	Pârâului		
+5	Strada	Piteşti		
+5	Intrarea	Piticului		
+5	Strada	Pitpalacului		
+5	Strada	Plăişor		
+5	Aleea	Platanului		
+5	Intrarea	Platinei		
+5	Strada	Pleşani		
+5	Calea	Plevnei		
+5	Strada	Plivitului		
+5	Intrarea	Plopeni		
+5	Strada	Plopeni		
+5	Intrarea	Podoleni		
+5	Aleea	Podul Giurgiului		
+5	Strada	Podul Giurgiului		
+5	Strada	Poenaru Petrache		
+5	Strada	Poenaru Vasile	Fruntaş	
+5	Strada	Poeniţa		
+5	Strada	Poiana Verde		
+5	Strada	Poliţiei		
+5	Strada	Poloni Victor	Doctor	
+5	Strada	Pontonierilor		
+5	Strada	Popa Nae		
+5	Strada	Popa Ştefan		
+5	Strada	Popa	Sublocotenent	
+5	Strada	Popeia Corneliu	Colonel	
+5	Strada	Popescu Gheorghe		
+5	Strada	Popina		
+5	Strada	Popovici Nicolae	Elev	
+5	Strada	Porojan Nicolae	Soldat	
+5	Strada	Portiţa		
+5	Strada	Porumbaru Ion	Maior	
+5	Aleea	Posada		
+5	Intrarea	Posada		
+5	Strada	Posada		
+5	Strada	Preda	Caporal	
+5	Strada	Prepelicarului		
+5	Strada	Pretorienilor		
+5	Strada	Pribeagului		
+5	Aleea	Pricopan		
+5	Strada	Pricopan		
+5	Strada	Progresului		
+5	Intrarea	Prundeni		
+5	Strada	Prundeni		
+5	Strada	Prundului		
+5	Strada	Prunilor		
+5	Intrarea	Prunişor		
+5	Strada	Pucheni		
+5	Strada	Puişor		
+5	Strada	Răcăciuni		
+5	Strada	Rachetei		
+5	Strada	Răchitaşului		
+5	Strada	Racoviţă Felicia		
+5	Strada	Rădăcinei		
+5	Strada	Radarului		
+5	Aleea	Rădăşeni		
+5	Strada	Rădiţei		
+5	Strada	Radovici Ion	Doctor	
+5	Strada	Radu Constantin		
+5	Strada	Răducanu Cristea	Caporal	
+5	Strada	Rădulescu Muşat		
+5	Strada	Rafiei		
+5	Calea	Rahovei		
+5	Intrarea	Recaş		
+5	Strada	Recrutului		
+5	Bulevardul	Regina Elisabeta		fost Bulevardul M. KOGĂLNICEANU
+5	Strada	Rhea Silvia		
+5	Strada	Rinocerului		
+5	Strada	Risipitu Samoilă	Soldat	
+5	Strada	Ritoride		
+5	Strada	Râureanu	Doctor	
+5	Intrarea	Râureni		
+5	Intrarea	Rojiştea		
+5	Strada	Roman		
+5	Intrarea	Romaniţei		
+5	Strada	Rombului		
+5	Strada	Romniceanu Grigore	Doctor	
+5	Strada	Roşca Pandele		
+5	Strada	Rovinari		
+5	Strada	Rozetului		
+5	Strada	Roznov		
+5	Prelungirea	Rupea		
+5	Strada	Rupea		
+5	Intrarea	Ruscăi		
+5	Strada	Ruse Dumitru		
+5	Strada	Sabinelor		
+5	Strada	Sadului		
+5	Aleea	Sălaj		
+5	Şoseaua	Sălaj		
+5	Strada	Saligny Anghel	Inginer	
+5	Strada	Salvatorului		
+5	Strada	Salviei		
+5	Strada	Sanatoriului		
+5	Drumul	Sâncraiu		
+5	Strada	Şandor Gheorghe		
+5	Strada	Sănduliţa		
+5	Strada	Sânmartin		
+5	Drumul	Sântana		
+5	Strada	Sântimbru		
+5	Strada	Sapienţei		
+5	Strada	Săpunari		
+5	Strada	Şaru Dornei		
+5	Strada	Sascut		
+5	Strada	Saturn		
+5	Strada	Scarlat	Sergent	
+5	Bulevardul	Schitul Măgureanu		
+5	Strada	Scoarţei		
+5	Intrarea	Scurtă		
+5	Intrarea	Semănătorului		
+5	Strada	Semănătorului		
+5	Strada	Şerbeşti		
+5	Strada	Şerbota		
+5	Strada	Sever Axente		
+5	Strada	Severeanu Constantin	Doctor	
+5	Strada	Sfinţii Apostoli		
+5	Strada	Sfântul Elefterie		
+5	Strada	Silexului		
+5	Strada	Silfidelor		
+5	Strada	Simfoniei		
+5	Intrarea	Şimleu		
+5	Intrarea	Şinei		
+5	Strada	Şinei		
+5	Strada	Sirenelor		
+5	Strada	Slatina		
+5	Strada	Soceni		
+5	Strada	Socoleşti		
+5	Aleea	Solca		
+5	Strada	Solului		
+5	Strada	Soreni		
+5	Strada	Spătăreşti		
+5	Strada	Spătarul Preda		
+5	Strada	Spaţiului		
+5	Strada	Spiralei		
+5	Strada	Spulber		
+5	Strada	Staicovici D. Nicolae	Doctor	
+5	Strada	Staminelor		
+5	Aleea	Stanciu George Cristian		
+5	Strada	Stanciu Petre		
+5	Strada	Stănescu Irina		
+5	Strada	Stănişoara		
+5	Intrarea	Ştefan Vodă		
+5	Strada	Ştefan Vodă		
+5	Strada	Ştefănescu Ion		
+5	Strada	Ştefeşti		
+5	Intrarea	Stelelor		
+5	Intrarea	Stere Ioniţă	Soldat	
+5	Strada	Ştiinţei		
+5	Strada	Stâna De Vale		
+5	Intrarea	Stoenescu	Colonel Medic	
+5	Aleea	Stogu		
+5	Strada	Stoicăneşti		
+5	Intrarea	Stroe Vasile	Sublocotenent	
+5	Strada	Suceviţa		
+5	Strada	Şufaru Gheorghe		
+5	Strada	Suhaia		
+5	Strada	Sulfinei		
+5	Strada	Sulina		
+5	Strada	Suliţei		
+5	Strada	Sumandra		
+5	Intrarea	Sunătoarei		
+5	Strada	Şurăneşti		
+5	Strada	Surduc		
+5	Aleea	Şurianu		
+5	Strada	Surlei		
+5	Intrarea	Şuviţa		
+5	Strada	Şuviţa		
+5	Strada	Suzana		
+5	Strada	Tabără Stan		
+5	Strada	Tablan Dumitru	Sergent	
+5	Strada	Tăcerii		
+5	Strada	Tacu Dumitru	Inginer	
+5	Strada	Taiga		
+5	Strada	Talazului		
+5	Intrarea	Tălmaci		
+5	Strada	Tămăşoaia		
+5	Intrarea	Tănase Ion	Soldat	
+5	Strada	Tăpşanului		
+5	Strada	Ţăranu Grigore	Doctor	
+5	Intrarea	Ţarcului		
+5	Strada	Târgu Cărbuneşti		
+5	Strada	Târgu Jiu		
+5	Intrarea	Tătaru Petre	Erou	
+5	Strada	Tătaru Petre	Erou	
+5	Strada	Tatu Tudor	Soldat	
+5	Strada	Tecuci		
+5	Strada	Teiului		
+5	Strada	Teiuş		
+5	Intrarea	Teliţa		
+5	Strada	Teliţa		
+5	Strada	Teliu		
+5	Strada	Teodor Mazilu		
+5	Strada	Teodorescu Florea	Doctor	
+5	Strada	Teodori Iuliu	Doctor	
+5	Strada	Teodoru Dumitru	Inginer	
+5	Strada	Teohari Anibal	Profesor Doctor	
+5	Strada	Ţepeluş		
+5	Intrarea	Teremia		
+5	Strada	Ţichindeal Dimitrie		
+5	Strada	Tigrului		
+5	Intrarea	Tigveni		
+5	Intrarea	Tiparniţei		
+5	Strada	Tiparniţei		
+5	Strada	Târgovişteanu Negoiţă		
+5	Strada	Târgoviştei		
+5	Intrarea	Târgu Ocna		
+5	Strada	Toboşari		
+5	Strada	Tocilei		
+5	Strada	Tocilescu Grigore		
+5	Strada	Todireni		
+5	Strada	Toma Constantin	Erou	
+5	Strada	Tomescu Nicolae	Doctor	
+5	Strada	Tomescu Voicu		
+5	Strada	Topleţ		
+5	Strada	Topliceanu Vasile	Sergent Major	
+5	Strada	Topolniţa		
+5	Strada	Topologului		
+5	Intrarea	Toporaşi		
+5	Strada	Toporaşi		
+5	Strada	Tortoman		
+5	Strada	Trăgaciului		
+5	Strada	Trăznea		
+5	Strada	Triunghiului		
+5	Intrarea	Trompetului		
+5	Strada	Trompetului		
+5	Strada	Tudor Alexandru		
+5	Strada	Tufanilor		
+5	Strada	Tufelor		
+5	Strada	Tufişului		
+5	Aleea	Tulcea		
+5	Strada	Tunsu Petre	Soldat	
+5	Intrarea	Ţurcanei		
+5	Intrarea	Turceni		
+5	Strada	Turceni		
+5	Strada	Turnescu Nicolae	Doctor	
+5	Strada	Turturică	Sergent	
+5	Strada	Tutunari		
+5	Strada	Ulmilor		
+5	Strada	Umbrarului		
+5	Strada	Ungheni		
+5	Intrarea	Ungherului		
+5	Bulevardul	Unirii		
+5	Intrarea	Uraniului		
+5	Strada	Uranus		
+5	Strada	Urdăreanu Ion		
+5	Strada	Urleanu Barbu		
+5	Strada	Ursa Mică		
+5	Strada	Uşurelu Ion	Caporal	
+5	Intrarea	Valea Albă		
+5	Strada	Valea Albă		
+5	Intrarea	Valea Dragului		
+5	Strada	Valea Hârtibaciului		
+5	Strada	Valea Poenii		
+5	Strada	Valea Timişului		
+5	Strada	Văleni		
+5	Strada	Vălişoara		
+5	Strada	Vaslui		
+5	Strada	Vedea		
+5	Strada	Veniamin Costache	Mitropolit	
+5	Strada	Venus		
+5	Strada	Verigei		
+5	Intrarea	Veseliei		
+5	Strada	Veseliei		
+5	Aleea	Vicina		
+5	Strada	Vicina		
+5	Strada	Vicol Nicolae	Doctor	
+5	Strada	Vidului		
+5	Strada	Vigilenţei		
+5	Strada	Vigoniei		
+5	Intrarea	Viilor		
+5	Şoseaua	Viilor		
+5	Strada	Vijelie	Căpitan	
+5	Strada	Vâlcele		
+5	Strada	Vâltoarei		
+5	Strada	Vânători		
+5	Şoseaua	Vârtejului		
+5	Strada	Viştea Gheorghe		
+5	Strada	Vistierilor		
+5	Strada	Vitzu Alexandru	Doctor	
+5	Strada	Vlad Vodă		
+5	Intrarea	Vlădaia		
+5	Bulevardul	Vladimirescu Tudor		
+5	Intrarea	Vladimiri		
+5	Drumul	Vlaşin		
+5	Strada	Voiceşti		
+5	Strada	Voinţei		
+5	Strada	Voitin		
+5	Intrarea	Vrabiei		
+5	Strada	Vredniciei		
+5	Strada	Vulcan Samuil		
+5	Drumul	Vultureşti		
+5	Strada	Zăbrăuţului		
+5	Strada	Zamfir Marin		
+5	Strada	Zării		
+5	Strada	Zăvoiului		
+5	Strada	Zebrei		
+5	Strada	Zeţarilor		
+5	Intrarea	Zetea		
+5	Strada	Zidarului		
+5	Intrarea	Zimbrului		
+5	Strada	Ziminel		
+5	Strada	Zori De Zi		
+5	Strada	Zorilor		
+6	Bulevardul	1 Mai		
+6	Strada	9 Mai		
+6	Strada	Acvariului		
+6	Strada	Ada-Kaleh		
+6	Strada	Adrian Fulga		
+6	Aleea	Agigea		
+6	Strada	Agnita		
+6	Intrarea	Agudului		
+6	Strada	Ajustorului		
+6	Strada	Albiţei		
+6	Aleea	Aleşd		
+6	Strada	Aleşd		
+6	Strada	Alexandru Borneanu		
+6	Strada	Alexandru Iacobescu		
+6	Strada	Alexandru Ivasiuc		
+6	Strada	Alizeului		
+6	Strada	Ametistului		
+6	Strada	Amilcar C. Săndulescu		
+6	Strada	Amnarului		
+6	Intrarea	Angelinei		
+6	Bulevardul	Anul 1864		
+6	Calea	Apeductului		
+6	Strada	Apele Vii		
+6	Strada	Apusului		
+6	Strada	Aragonitului		
+6	Strada	Argilei		
+6	Aleea	Arheologilor		
+6	Aleea	Arieşul Mare		
+6	Strada	Arieşul Mare		
+6	Aleea	Arinii Dornei		
+6	Aleea	Ariniş		
+6	Aleea	Arutela		
+6	Strada	Asău		
+6	Strada	Atmosferei		
+6	Strada	Cicalov Valeriu	Aviator	
+6	Strada	Azurului		
+6	Strada	Băbeşti		
+6	Drumul	Bacriului		
+6	Aleea	Baia De Arieş		
+6	Strada	Baia De Arieş		
+6	Aleea	Băiuţ		
+6	Aleea	Bărăganu		
+6	Strada	Bărbulescu Marius		
+6	Intrarea	Bârsanei		
+6	Aleea	Bârsăneşti		
+6	Strada	Bârsăneşti		
+6	Strada	Basmului		
+6	Strada	Begoniei		
+6	Drumul	Belşugului		
+6	Intrarea	Binoclului		
+6	Aleea	Bistra		
+6	Strada	Blandiana		
+6	Intrarea	Blejoi		
+6	Strada	Bogdan Şerban Stan		
+6	Strada	Boişoara		
+6	Strada	Boja		
+6	Strada	Bolidulu		
+6	Intrarea	Bolobocului		
+6	Strada	Bostanilor		
+6	Strada	Bozieni		
+6	Strada	Boziilor		
+6	Aleea	Brădişului		
+6	Strada	Brădişului		
+6	Strada	Braşov		
+6	Aleea	Brătescu Constantin		
+6	Aleea	Bucşeneşti		
+6	Strada	Budieni		
+6	Aleea	Bujoreni		
+6	Strada	Bunicuţei		
+6	Strada	Burlă Vasile		
+6	Strada	Bursucani		
+6	Intrarea	Butiri Florin		
+6	Intrarea	Caiacului		
+6	Intrarea	Calelor		
+6	Intrarea	Calendarului		
+6	Aleea	Callatis		
+6	Strada	Câlnic		
+6	Aleea	Câmpul Cu Flori		
+6	Strada	Câmpulung		
+6	Intrarea	Canalul Argeş		
+6	Strada	Cântării		
+6	Strada	Eftimie Croitoru	Caporal	
+6	Intrarea	Capelei		
+6	Strada	Cărăbuşului		
+6	Intrarea	Cărămidăriei		
+6	Strada	Cărămidăriei		
+6	Intrarea	Caravanei		
+6	Intrarea	Carnavalului		
+6	Strada	Cărvunarilor		
+6	Strada	Castranova		
+6	Strada	Cătinei		
+6	Intrarea	Catlabuga		
+6	Strada	Ceahlăul		
+6	Strada	Centurii		
+6	Intrarea	Cerişor		
+6	Intrarea	Cernişoara		
+6	Strada	Cernişoara		
+6	Strada	Cetatea Ciceului		
+6	Strada	Cetatea De Baltă		
+6	Strada	Cetatea Histria		
+6	Aleea	Cetăţuia		
+6	Strada	Cetăţuia		
+6	Strada	Cheile Orzei		
+6	Strada	Chemării		
+6	Strada	Chibzuinţei		
+6	Strada	Chilia Veche		
+6	Strada	Chitila-Triaj		
+6	Intrarea	Chitila-Triaj		
+6	Intrarea	Cicliştilor		
+6	Intrarea	Cimpoiului		
+6	Drumul	Ciorogârla		
+6	Intrarea	Cişmelei		
+6	Şoseaua	Ciurel		
+6	Drumul	Coasta Cerbului		
+6	Drumul	Coasta Grindului		
+6	Drumul	Coasta Henţi		
+6	Drumul	Coasta Măgurii		
+6	Intrarea	Colaborării		
+6	Aleea	Coloana Infinitului		
+6	Strada	Compasului		
+6	Aleea	Compozitorilor		
+6	Strada	Constantin Noica		
+6	Strada	Constantin Titel Petrescu		
+6	Intrarea	Constelaţiei		
+6	Bulevardul	Constructorilor		
+6	Strada	Copacului		
+6	Strada	Corbilor		
+6	Strada	Corcoduşului		
+6	Strada	Cornului		
+6	Strada	Corvinilor		
+6	Strada	Costin Neniţescu		
+6	Strada	Costişa		
+6	Şoseaua	Cotroceni		
+6	Strada	Cotul Siretului		
+6	Strada	Vasile Moangă	Căpitan	
+6	Strada	Zăgănescu Pavel	Căpitan	
+6	Aleea	Crăieşti		
+6	Intrarea	Crainicului		
+6	Intrarea	Craiovei		
+6	Calea	Crângaşi		
+6	Intrarea	Crenguţei		
+6	Strada	Crinul De Pădure		
+6	Strada	Crişul Repede		
+6	Intrarea	Cucuruzului		
+6	Strada	Cupolei		
+6	Strada	Dagâţa		
+6	Strada	Dâmboviţa		
+6	Intrarea	Dâmboviţei		
+6	Aleea	Danaide		
+6	Aleea	Dealul Măcinului		
+6	Strada	Dealul Ţugulea		
+6	Strada	Dealului		
+6	Strada	Deduleşti		
+6	Strada	Delineşti		
+6	Strada	Denta		
+6	Strada	Dezrobirii		
+6	Strada	Dobreni		
+6	Aleea	Domnişoara Pogany		
+6	Strada	Doniţei		
+6	Strada	Brândza Dimitrie	Doctor	
+6	Strada	Juvara Ernest	Doctor	
+6	Intrarea	Severin Emanoil	Doctor	
+6	Strada	Severin Emanoil	Doctor	
+6	Strada	Drajna		
+6	Strada	Drenajului		
+6	Aleea	Dreptăţii		
+6	Strada	Dreptăţii		fost Strada DREPTĂŢII
+6	Strada	Dreptăţii		
+6	Intrarea	Drumul Taberei		
+6	Intrarea	Drumul La Roşu		
+6	Strada	Dudului		
+6	Aleea	Dumbrăviţa		
+6	Strada	Dumitru Pera		
+6	Intrarea	Duşului		
+6	Strada	Ecaterina Varga		
+6	Strada	Econom Atanasie Stoicescu		
+6	Strada	Econom Cezărescu		
+6	Strada	Elena Farago		
+6	Strada	Entuziasmului		
+6	Strada	Eroina De La Jiu		
+6	Strada	Estacadei		
+6	Strada	Eucaliptului		
+6	Intrarea	Fabricii		
+6	Strada	Fabricii		
+6	Strada	Făgădău		
+6	Drumul	Fântâna Albă		
+6	Drumul	Fântâna Babii		
+6	Drumul	Fântâna Domnească		
+6	Aleea	Fântâna Lui Narcis		
+6	Drumul	Fântâna Mare		
+6	Drumul	Fântâna Oilor		
+6	Drumul	Fântâna Zânelor		
+6	Strada	Fânului		
+6	Intrarea	Filmului		
+6	Strada	Finta		
+6	Strada	Floare Galbenă		
+6	Strada	Floare Roşie		
+6	Intrarea	Flondor Teodor		
+6	Intrarea	Flotei		
+6	Intrarea	Foşnetului		
+6	Intrarea	Frasinului		
+6	Strada	Fraţilor		
+6	Strada	Rostogolea Gheorghe	Fruntaş	
+6	Strada	Anghel Mihail	Fruntaş	
+6	Strada	Fumureni		
+6	Strada	Furtunei		
+6	Intrarea	Gabriel Cioran		
+6	Intrarea	Gabriela Szabo		
+6	Drumul	Gării		
+6	Strada	Gârleni		
+6	Aleea	Culcer Ioan	General	
+6	Strada	Culcer Ioan	General	
+6	Strada	Macarovici George	General	
+6	Strada	Petre Popovăţ	General	
+6	Bulevardul	Vasile Milea	General	
+6	Bulevardul	Geniului		
+6	Strada	Geoagiu		
+6	Strada	George Calboreanu		fost TAMBURULUI
+6	Strada	George Mihai Zamfirescu		
+6	Strada	George Ranetti		
+6	Aleea	Ghencea		
+6	Bulevardul	Ghencea		
+6	Prelungirea	Ghencea		
+6	Strada	Gheorghe Cuţui		
+6	Strada	Gheorghe Spacu		
+6	Intrarea	Ghioceilor		
+6	Aleea	Ghirlandei		
+6	Strada	Ghirlandei		
+6	Calea	Giuleşti		
+6	Intrarea	Giuleşti		
+6	Intrarea	Giuleşti Sărindari		
+6	Intrarea	Godeni		
+6	Strada	Golcea Vasile		
+6	Intrarea	Golfului		
+6	Strada	Govodarva		
+6	Strada	Grandea Grigore		
+6	Strada	Granitului		
+6	Strada	Grinţieşului		
+6	Şoseaua	Grozăveşti		
+6	Intrarea	Guliver		
+6	Strada	Gurahonţ		
+6	Aleea	Haiducului		
+6	Aleea	Hamului		
+6	Strada	Hanul Ancutei		
+6	Strada	Harap Alb		
+6	Intrarea	Hotarului		
+6	Strada	Hrisoverghi Alexandru		
+6	Intrarea	Ialomiţei		
+6	Strada	Iedului		
+6	Intrarea	Ierbei		
+6	Strada	Ierbei		
+6	Strada	Ilovăţul		
+6	Splaiul	Independenţei		
+6	Strada	Giulini B.	Inginer	
+6	Strada	Pascal Cristian	Inginer	
+6	Strada	Scarlat Vârnav	Inginer	
+6	Strada	Teodorescu Nicolae	Inginer	
+6	Strada	Inspiraţiei		
+6	Strada	Ion Creţescu		
+6	Strada	Ion Manolescu		
+6	Strada	Ion Nonna Otescu		
+6	Intrarea	Iridiului		
+6	Intrarea	Işalniţa		
+6	Intrarea	Istmului		
+6	Aleea	Istru		
+6	Bulevardul	Iuliu Maniu		
+6	Intrarea	Izvorani		
+6	Intrarea	Jarului		
+6	Drumul	La Chiajna		
+6	Drumul	La Roşu		
+6	Aleea	Lacul Morii		
+6	Strada	Lacul Ursului		
+6	Strada	Lacul Zănoaga		
+6	Strada	Lămăşeni		
+6	Strada	Larisa		
+6	Strada	Lavandei		
+6	Strada	Leaota		
+6	Aleea	Leda		
+6	Intrarea	Liniei		
+6	Strada	Liniei		
+6	Intrarea	Caranda Gheorghe	Locotenent Aviator	
+6	Strada	Caranda Gheorghe	Locotenent Aviator	
+6	Strada	Marinescu Constantin	Locotenent Colonel	
+6	Strada	Găina Nicolae	Locotenent	
+6	Strada	Marinescu Stefan	Locotenent	
+6	Strada	Negel Gheorghe	Locotenent	
+6	Strada	Saidac Gheorghe	Locotenent	
+6	Strada	Zalic	Locotenent	
+6	Strada	Lucăceşti		
+6	Strada	Lujerului		
+6	Aleea	Lunca Cernei		
+6	Aleea	Lunca Siretului		
+6	Strada	Luncii		
+6	Strada	Popescu Eugen	Maior	
+6	Strada	Mălinului		
+6	Strada	Mălinului Fara		
+6	Drumul	Mânastirea Govora		
+6	Drumul	Mânăstirea Sihăstria		
+6	Drumul	Mânastirea Văratec		
+6	Intrarea	Mândriei		
+6	Intrarea	Maratonului		
+6	Intrarea	Mărgelelor		
+6	Strada	Mărgelelor		
+6	Strada	Marin Calciu		
+6	Aleea	Masa Tăcerii		
+6	Strada	Mateescu Nicolae		
+6	Intrarea	Mecanicilor		
+6	Strada	Mehadia		
+6	Intrarea	Merelor		
+6	Aleea	Meseriaşilor		
+6	Strada	Migdalului		
+6	Strada	Mihaela Ruxandra Marcu		
+6	Strada	Mihăilescu Vintilă		
+6	Strada	Minodora		
+6	Intrarea	Mioriţa		
+6	Strada	Mioriţa		
+6	Intrarea	Mirodeniei		
+6	Strada	Miroslavei		
+6	Intrarea	Mohor Vasile		
+6	Strada	Mohorului		
+6	Aleea	Moineşti		
+6	Intrarea	Moineşti		
+6	Strada	Moineşti		
+6	Strada	Moisei		
+6	Strada	Montana		
+6	Intrarea	Movilelor		
+6	Strada	Muniţiei		
+6	Strada	Munţii Apuseni		
+6	Strada	Munţii Gurghiului		
+6	Strada	Munţilor		
+6	Strada	Murelor		
+6	Strada	Murguţa		
+6	Aleea	Muza Adormită		
+6	Strada	Nera		
+6	Strada	Nicodim		
+6	Strada	Nicolae Filimon		
+6	Strada	Nicolae Oncescu		
+6	Strada	Nucşoara		
+6	Strada	Obcina Mare		
+6	Aleea	Obcina Mică		
+6	Strada	Oboga		
+6	Intrarea	Oboiului		
+6	Intrarea	Ochiuri		
+6	Strada	Odgonului		
+6	Strada	Olăneşti		
+6	Şoseaua	Orhideelor		
+6	Strada	Orşova		
+6	Drumul	Osiei		
+6	Strada	Pădurarilor		
+6	Strada	Pădurea Tăuzului		
+6	Strada	Pădureni		
+6	Strada	Pădureţu		
+6	Intrarea	Panificaţiei		
+6	Strada	Parafinei		
+6	Strada	Părăluţelor		
+6	Strada	Partiturii		
+6	Strada	Partizanilor		
+6	Aleea	Parva		
+6	Aleea	Pasărea De Aur		
+6	Aleea	Pasărea Măiastră		
+6	Aleea	Paşcani		
+6	Strada	Paşcani		
+6	Intrarea	Pătrarului		
+6	Strada	Pătrarului		
+6	Intrarea	Păuliş		
+6	Intrarea	Perelor		
+6	Strada	Performanţei		
+6	Strada	Peştera Dâmbovicioara		
+6	Strada	Peştera Scărişoara		
+6	Aleea	Petrăcheşti		
+6	Strada	Petre Astafei		
+6	Strada	Petuniei		
+6	Strada	Piatra Craiului		
+6	Strada	Piatra Roşie		
+6	Strada	Octav Băncilă	Pictor	
+6	Intrarea	Piersicilor		
+6	Strada	Pietrele Doamnei		
+6	Intrarea	Pinului		
+6	Strada	Pirotehniei		
+6	Strada	Piscul Crăsani		
+6	Intrarea	Pitulicii		
+6	Strada	Planetei		
+6	Strada	Pleşului		
+6	Calea	Plevnei		
+6	Strada	Topor Ion	Plutonier	
+6	Aleea	Poarta Albă		
+6	Aleea	Poarta Sărutului		
+6	Drumul	Podu Cristinii		
+6	Drumul	Podu Dâmboviţei		fost Drumul GĂRII
+6	Drumul	Podu Doamnei		
+6	Drumul	Podu Lacului		
+6	Drumul	Podu Pitarului		
+6	Drumul	Podu Ursului		
+6	Drumul	Podul Ilfovăţului		fost FIORDULUI
+6	Strada	Poiana Câmpina		
+6	Aleea	Poiana Cernei		
+6	Strada	Poiana Lacului		
+6	Aleea	Poiana Mare		
+6	Aleea	Poiana Muntelui		
+6	Aleea	Poiana Sibiului		
+6	Aleea	Poiana Vadului		
+6	Aleea	Politehnicii		
+6	Strada	Politehnicii		
+6	Intrarea	Poltava		
+6	Strada	Pomilor		
+6	Intrarea	Popescu Filofteia		
+6	Strada	Portăreşti		
+6	Intrarea	Portocalelor		
+6	Strada	Porumbacu		
+6	Intrarea	Porumbelului		
+6	Intrarea	Porumbilor		
+6	Aleea	Potaisa		
+6	Aleea	Pravăţ		
+6	Strada	Pravăţ		
+6	Strada	Preciziei		
+6	Strada	Preocupării		
+6	Strada	Prosperităţii		
+6	Intrarea	Protonilor		
+6	Intrarea	Punţii		
+6	Strada	Putna		
+6	Strada	Rădăuţeanu Isaia		
+6	Strada	Radna		
+6	Aleea	Râmnicel		
+6	Strada	Ramura Jiului		
+6	Strada	Răsadniţei		
+6	Strada	Răsăritului		
+6	Strada	Râul Doamnei		
+6	Strada	Râul Dorna		
+6	Strada	Răzoare		
+6	Bulevardul	Regiei		
+6	Strada	Retezatului		
+6	Strada	Reveriei		
+6	Intrarea	Rocilor		
+6	Aleea	Romancierilor		
+6	Strada	Romancierilor		
+6	Strada	Roşia Montană		
+6	Strada	Roşiorii De Vede		
+6	Drumul	Roţii		
+6	Strada	Ruşeţu		
+6	Drumul	Săbăreni		
+6	Intrarea	Săbăreni		
+6	Strada	Săbiuţei		
+6	Strada	Sadinei		
+6	Aleea	Sandava		
+6	Aleea	Sănduleşti		
+6	Strada	Sănduleşti		
+6	Strada	Săpânţa		
+6	Intrarea	Sapei		
+6	Drumul	Sării		
+6	Strada	Scăeni		
+6	Strada	Schiorilor		
+6	Intrarea	Schitul Goleşti		
+6	Strada	Sculptorilor		
+6	Strada	Segarcea		
+6	Strada	Adam Vasile	Sergent	
+6	Intrarea	Apostol Constantin	Sergent	
+6	Strada	Apostol Constantin	Sergent	
+6	Strada	Cutieru Alexandru	Sergent	
+6	Intrarea	Ghercu Constantin	Sergent	
+6	Strada	Ghercu Constantin	Sergent	
+6	Strada	Cara Anghel	Sergent Major	
+6	Strada	Cara Anghel A	Sergent Major	
+6	Strada	Marcu Ion	Sergent	
+6	Strada	Moise Constantin	Sergent	
+6	Strada	Postolache Alexandru	Sergent	
+6	Strada	Ştefan Crişan	Sergent	
+6	Strada	Vieru Ion	Sergent	
+6	Strada	Sfeclei		
+6	Strada	Sibiu		
+6	Intrarea	Silistraru		
+6	Intrarea	Siminicea		
+6	Strada	Simion Mehedinţi		
+6	Intrarea	Sipetului		
+6	Strada	Dănescu Constantin	Sublocotenent	
+6	Strada	Ionete Gheorghe	Soldat	
+6	Strada	Lăţea Gheorghe	Soldat	
+6	Strada	Spartachiadei		
+6	Strada	Spilcuţei		
+6	Strada	Sporului		
+6	Strada	Stoian Popescu		
+6	Strada	Stoica Vizitiu		
+6	Intrarea	Stolojani		
+6	Strada	Strămoşilor		
+6	Strada	Strigăturii		
+6	Strada	Studioului		
+6	Strada	Stufului		
+6	Strada	Stupca		
+6	Strada	Sudului		
+6	Drumul	Taberei		
+6	Strada	Tabla Buţii		
+6	Strada	Tânganului		
+6	Aleea	Târgu Neamţ		
+6	Strada	Târgu Neamţ		
+6	Intrarea	Târgului		
+6	Strada	Tătăruş		
+6	Strada	Televiziunii		
+6	Aleea	Ţibleş		
+6	Intrarea	Tihuţa		
+6	Bulevardul	Timişoara		
+6	Aleea	Timişul De Jos		
+6	Aleea	Timişul De Sus		
+6	Drumul	Timonierului		
+6	Aleea	Ţincani		
+6	Strada	Ţincani		
+6	Strada	Tolbei		
+6	Strada	Topolovăţ		
+6	Aleea	Topoloveni		
+6	Strada	Torcătoarelor		
+6	Intrarea	Trecătorii		
+6	Strada	Trenului		
+6	Strada	Tufănelelor		
+6	Intrarea	Ursache Gheorghe		
+6	Bulevardul	Uverturii		
+6	Strada	Vadului		
+6	Intrarea	Vagonetului		
+6	Drumul	Valea Alunişului		
+6	Strada	Valea Argeşului		
+6	Drumul	Valea Argovei		
+6	Aleea	Valea Boteni		
+6	Aleea	Valea Bujorului		
+6	Drumul	Valea Călmăţuiului		
+6	Aleea	Valea Călugărească		
+6	Strada	Valea Călugărească		
+6	Strada	Valea Cascadelor		
+6	Strada	Valea Cerbului		
+6	Strada	Valea Cibinului		
+6	Drumul	Valea Cricovului		
+6	Aleea	Valea Crişului		
+6	Drumul	Valea Danului		
+6	Drumul	Valea Doftanei		
+6	Aleea	Valea Florilor		
+6	Drumul	Valea Furcii		
+6	Prelungirea	Valea Ialomiţei		
+6	Strada	Valea Ialomiţei		
+6	Drumul	Valea Izvoarelor		
+6	Drumul	Valea Largă		
+6	Aleea	Valea Lui Mihai		
+6	Strada	Valea Lui Mihai		
+6	Strada	Valea Lungă		
+6	Intrarea	Valea Lupului		
+6	Strada	Valea Mare		
+6	Strada	Valea Oltului		
+6	Aleea	Valea Prahovei		
+6	Aleea	Valea Roşie		
+6	Strada	Valea Roşie		
+6	Aleea	Valea Salciei		
+6	Aleea	Valea Siretului		
+6	Strada	Valea Soarelui		
+6	Drumul	Valea Ursului		
+6	Aleea	Valea Viilor		
+6	Strada	Vâlsan George		
+6	Intrarea	Vârşei		
+6	Strada	Velei		
+6	Strada	Veteranilor		
+6	Aleea	Victor Iliu		
+6	Strada	Victor Ion Popa		fost TAMBURULUI
+6	Strada	Vidra		
+6	Intrarea	Viforului		
+6	Strada	Vijelie		
+6	Intrarea	Vijeliei		
+6	Strada	Violetelor		
+6	Şoseaua	Virtuţii		
+6	Strada	Viscolului		
+6	Strada	Vistiernicul Stavrinos		
+6	Strada	Vlădeasa		
+6	Aleea	Vlăsiei		
+6	Intrarea	Vorona		
+6	Intrarea	Vulpeni		
+6	Strada	Zâmbetului		
+6	Strada	Zboina Neagră		
+6	Strada	Zinca Golescu		
+6	Aleea	Zorelelor		
+6	Aleea	Zvoriştea		
+6	Strada	Arubium		
+6	Strada	Suliga Ion	Invalid	
