@@ -1,5 +1,6 @@
 import csv
 import sys
+from osgeo import ogr
 
 def format(filename, prefixes, suffixes):
 	with open(filename, 'rb') as csvfile:
@@ -43,7 +44,64 @@ def readSuffixesOrPrefixes(filename):
 				ixes[token] = replacement
 
 	return ixes
+
+
+class DBLink:
+	sglt = None
+
+	def __init__(self): 
+		driver = ogr.GetDriverByName('PostgreSQL')
+
+		self.ds = driver.Open("PG: host='192.168.0.216' dbname='Hackathon' port='5432' user='postgres' password='1234%asd'", 1)
+		if self.ds is None:
+			raise Exception('Could not connect to the DB.')
+
+	def __del__(self):
+		self.ds.Destroy()
+
+	@staticmethod
+	def singleton():
+		if DBLink.sglt is None:
+			DBLink.sglt = DBLink()
+		
+		return DBLink.sglt.ds
+
+def compareWords(word1, word2):
+	ds = DBLink.singleton()
+	assert ds is not None
+
+	lyr = ds.GetLayer('dex')
+	lyr.ResetReading()
 	
+	where = '"Cuvant" = LOWER(\'%s\')' % word1;
+	lyr.SetAttributeFilter(where);
+	wordRow1 = lyr.GetNextFeature()
+	if wordRow1 is None:
+		return False
+
+	wordId1 = wordRow1.GetField('IdCuvant')
+	assert wordId1 is not None
+
+	lyr.ResetReading()
+			
+	where = '"Cuvant" = LOWER(\'%s\')' % word2;
+	lyr.SetAttributeFilter(where);
+	wordRow2 = lyr.GetNextFeature()
+	if wordRow2 is None:
+		return False
+
+	wordId2 = wordRow2.GetField('IdCuvant')
+	assert wordId2 is not None
+		
+	lyr.SyncToDisk()
+	lyr.Dereference()
+	
+	return wordId1 == wordId2
+
+print compareWords('aalenienelor', 'aalenienele')
+
+
+
 """
 assert len(sys.argv) == 4
 
