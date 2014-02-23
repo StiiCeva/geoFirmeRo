@@ -35,7 +35,7 @@ def readSuffixesOrPrefixes(filename):
 
 	with open(filename, 'rb') as file:
 		for line in iter(file.readline, ''):
-			tokens = map(lambda string: string.strip().lower(), line.split(','))
+			tokens = map(lambda string: string.strip().lower(), line.decode('utf-8').split(','))
 			if len(tokens) == 0:
 				continue
 			

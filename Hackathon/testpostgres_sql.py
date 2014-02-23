@@ -75,11 +75,10 @@ field_id="col7"
 driver = ogr.GetDriverByName('PostgreSQL')
 dirDS = driver.Open("PG: host='192.168.0.216' dbname='Hackathon' port='5432' user='postgres' password='1234%asd'",1)
 outputDistLyr = dirDS.GetLayer(table)
-#outputDistLyr.SetAttributeFilter("%s='' AND %s='' AND %s=''"%(field_prefix,field_sufix,field_nr))
+outputDistLyr.SetAttributeFilter("%s='' AND %s='' AND %s=''"%(field_prefix,field_sufix,field_nr))
 outputDistLyr.ResetReading()
 ctrl=0
 nonspatial=1
-
 
 for uRow in outputDistLyr:
         prefix_value=u''
