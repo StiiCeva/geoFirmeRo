@@ -2,6 +2,7 @@ from osgeo import ogr
 
 import csv
 import sys
+import re
 
 def format(filename, prefixes, suffixes):
     with open(filename, 'rb') as csvfile:
@@ -46,9 +47,20 @@ def readSuffixesOrPrefixes(filename):
 
     return ixes
 
+def decodeUniversal(s):
+    if s is None:
+        return unicode('')
+    
+    if type(s) is unicode:
+        return s
+    for encoding in "utf-8-sig", "utf-16":
+        try:
+            return s.decode(encoding)
+        except UnicodeDecodeError:
+            continue
+    return s.decode("latin-1") # will always work
 prefixes = readSuffixesOrPrefixes('D:/gitRepo/geoFirmeRo/Hackathon/date_strazi/prefixe.txt')
 suffixes = readSuffixesOrPrefixes('D:/gitRepo/geoFirmeRo/Hackathon/date_strazi/sufixe.txt')
-
 
 driver = ogr.GetDriverByName('PostgreSQL')
 dirDS = driver.Open("PG: host='192.168.0.216' dbname='Hackathon' port='5432' user='postgres' password='1234%asd'",1)
@@ -57,8 +69,9 @@ outputDistLyr.ResetReading()
 ctrl=0
 for uRow in outputDistLyr:
         poiet=uRow.GetField("name")
+        poiet=decodeUniversal(poiet)
         try:
-            poiet.lower()
+            print poiet.lower()
         except:
             continue
         rr=getSuffixesAndPrefixes(poiet.lower() ,prefixes, suffixes)
@@ -67,14 +80,32 @@ for uRow in outputDistLyr:
 #             print "plm"
 #             uRow.SetField("name", poiet.replace("poet","pohet").replace("Poet","Pohet"))
             print rr
-            tmp_name=poiet.lower()
+            tmp_name=poiet
+            if len(rr['d'])<1:
+                continue
             
             if rr['p'].keys():
+                string_tmp=''
+                string_tmp=" ".join( rr['p'].keys())
+                uRow.SetField("prefix",string_tmp.encode('utf-8') )
                 
-            ctrl=ctrl+1
-            if ctrl>100:
-                break
-#             outputDistLyr.SetFeature(uRow)
-#             outputDistLyr.SyncToDisk()		
+            if rr['s'].keys():
+                string_tmp=''
+                string_tmp=" ".join( rr['s'].keys())
+                uRow.SetField("sufix",string_tmp.encode('utf-8') )
+            
+            for term in rr['d']:    
+                insensitive_rep = re.compile(re.escape(term), re.IGNORECASE)
+                insensitive_rep.sub('', tmp_name)
+                #tmp_name=tmp_name.replace(term,'')
+                
+            uRow.SetField("name",tmp_name.strip().encode('utf-8'))
+                    
+#             ctrl=ctrl+1
+#             if ctrl>300:
+#                 break
+            
+            outputDistLyr.SetFeature(uRow)
+            outputDistLyr.SyncToDisk()		
 outputDistLyr.Dereference()
 dirDS.Destroy()

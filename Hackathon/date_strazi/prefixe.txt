@@ -6,7 +6,7 @@ Fundatura,fund,fdc,fnd,Fundatura,fdt
 Sosea,Sosea,Şosea,șoseaua,sos,soseaua,şoseaua
 Piateta,piațeta,Piateta,Piaţetă,piaţeta
 Intrare,intrarea,intrare,intr,Intrare,in
-Strada,std,st,str,strad,Strada,Stradă
+Strada,std,st,str,strad,Strada,Stradă,Strad
 Prelungire,pr,prel,prl,Prelungire,prelungirea
 Cartier,Cartier,cart
 Bulevard,bd,bdl,Bulevard,bdul,bv,bullevardul,bvd,bulevardul
