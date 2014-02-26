@@ -1,3 +1,6 @@
+
+############### UN miner de coduri caen. Citeste CUI din csv si cauta firma respectiva pe firme.me
+
 import sys,os,inspect
 # realpath() with make your script run, even if you symlink it :)
 cmd_folder = os.path.realpath(os.path.abspath(os.path.split(inspect.getfile( inspect.currentframe() ))[0]))
@@ -24,12 +27,6 @@ def csvRow(fn,delimit):
 
 def logErr(fn):
     import logging
-#     import datetime
-#     import time
-#     
-#     ts = time.time()
-#     fin=fn.split(".")
-#     fn=".".join([fin[0]+"_"+datetime.datetime.fromtimestamp(ts).strftime('%Y_%m_%d_%H%M%S'),fin[1]])
     logging.basicConfig(filename=fn, level=logging.DEBUG, 
                         format='%(asctime)s %(levelname)s %(name)s %(message)s')
     logger=logging.getLogger(__name__)
@@ -98,17 +95,6 @@ if __name__ == "__main__":
                 
                 logger.error(e)
                 logger.error(" ".join([str(exc_type), str(fname), str(exc_tb.tb_lineno),str(ctrl)]))
-    #             print "option2"
-    #             yx=x
-    #             print yx
-    #             ctrl=ctrl+1
-    #             raise
-#                 
-
-
-#             for yxz in yx:
-#                 print repr(yxz)
-                
                 
             if ctrl%10==0:
                 print ctrl

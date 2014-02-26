@@ -47,6 +47,10 @@ def readSuffixesOrPrefixes(filename):
 
 
 class DBLink:
+	'''
+		Conectare la baza de date POSTGRES
+	
+	'''
 	sglt = None
 
 	def __init__(self): 
@@ -67,6 +71,12 @@ class DBLink:
 		return DBLink.sglt.ds
 
 def compareWords(word1, word2):
+	'''
+		Verifica daca 2 stringuri sunt de fapt dif versiuni ( inflexiuni ) ale aceluiasi cuvant!
+		
+		In spate se afla dexonline - Multumim tuturor celor care mentin acest proiect! DEXONLINE RULES! :)
+	
+	'''
 	ds = DBLink.singleton()
 	assert ds is not None
 

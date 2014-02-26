@@ -1,3 +1,8 @@
+
+######  construieste lista de prefixe. 
+######  Scriptul ruleaza pe un csv si returneaza elemente pe care nu le-am putut incadra la nici un nomenclator 
+######  -> fie noemnclatorul nu exista , fie nu trebuie sa existe ( atunci trebuie bagat la ignores) 
+
 from StraziFunctions import *
 
 ###### scoate doar anumite campuri

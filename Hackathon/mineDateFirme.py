@@ -94,17 +94,7 @@ if __name__ == "__main__":
                 
                 logger.error(e)
                 logger.error(" ".join([str(exc_type), str(fname), str(exc_tb.tb_lineno),str(ctrl)]))
-    #             print "option2"
-    #             yx=x
-    #             print yx
-    #             ctrl=ctrl+1
-    #             raise
-#                 
 
-
-#             for yxz in yx:
-#                 print repr(yxz)
-                
                 
             if ctrl%10==0:
                 print ctrl
